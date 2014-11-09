@@ -1,0 +1,17 @@
+
+sphinx
+# src:
+#   -e hg+https://bitbucket.org/birkenfeld/sphinx#egg=sphinx
+
+sphinxcontrib-issuetracker
+#sphinx_rtd_theme
+#sphinxcontrib-ansi
+#sphinxcontrib-programoutput
+# src:
+#   -e hg+https://bitbucket.org/birkenfeld/sphinx-contrib
+
+
+-e git+https://github.com/westurner/sphinxjp.themes.basicstrap#egg=sphinxjp.themes.basicstrap
+
+# ghp-import
+-e git+https://github.com/davisp/ghp-import#egg=ghp-import

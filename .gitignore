@@ -44,3 +44,6 @@ docs/_build
 
 # UndoTree
 *.un~
+
+# Makefile
+setup-docs
