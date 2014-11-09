@@ -69,9 +69,9 @@ District Court
 | Wikipedia: https://en.wikipedia.org/wiki/United_States_district_court
 
 
-U.S. Digital Services Playbook
+US Digital Services Playbook
 --------------------------------
-| https://playbook.cio.gov/
+| Homepage: https://playbook.cio.gov/
 
     1. Understand what people need
     2. Address the whole experience, from start to finish
@@ -86,6 +86,13 @@ U.S. Digital Services Playbook
     11. Manage security and privacy through reusable processes
     12. Use data to drive decisions
     13. Default to open
+
+.. toctree::
+   :hidden:
+
+   digital-services-playbook
+
+See: :ref:`Digital Services Playbook <digital-services-playbook>`
 
 
 United States
