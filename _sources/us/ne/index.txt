@@ -28,3 +28,5 @@ Chief Information Officer
 Nebraska Information Technology Commission
 ============================================
 | Homepage: http://www.nitc.nebraska.gov/
+
+* http://www.nitc.nebraska.gov/state_gov_council/legislation.html
