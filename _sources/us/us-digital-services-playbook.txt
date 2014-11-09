@@ -1,6 +1,6 @@
 
-.. index:: Digital Services Playbook   
-.. _digital-services-playbook:
+.. index:: US Digital Services Playbook   
+.. _us-digital-services-playbook:
 
 US Digital Services Playbook
 ################################
