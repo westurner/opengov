@@ -18,8 +18,6 @@ opengov
 .. toctree::
 
    opengov/readme
-   opengov/installation
-   opengov/usage
    opengov/contributing
    opengov/authors
    opengov/history
