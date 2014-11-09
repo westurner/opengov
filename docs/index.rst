@@ -3,20 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to opengov's documentation!
-======================================
-
-Contents:
+opengov
+#########
 
 .. toctree::
 
-   readme
+   open-government
+   un/index
    us/index
-   installation
-   usage
-   contributing
-   authors
-   history
+
+``opengov`` package
+#####################
+
+.. toctree::
+
+   opengov/readme
+   opengov/installation
+   opengov/usage
+   opengov/contributing
+   opengov/authors
+   opengov/history
 
 Indices and tables
 ==================

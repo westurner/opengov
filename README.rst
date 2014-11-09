@@ -1,19 +1,16 @@
+
 ===============================
 opengov
 ===============================
 
 opengov
+---------
+| Homepage: https://westurner.github.io/opengov/
 
-* Free software: BSD license
-* Documentation: https://westurner.github.io/opengov/
-
-
-Features
---------
-
-* TODO
+* https://en.wikipedia.org/wiki/Open_government
 
 
-Resources
-----------
-https://en.wikipedia.org/wiki/Open_government
+``opengov`` package
+---------------------
+| Source: https://github.com/westurner/opengov
+| Documentation: https://westurner.github.io/opengov/opengov/
