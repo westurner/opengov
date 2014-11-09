@@ -90,9 +90,9 @@ US Digital Services Playbook
 .. toctree::
    :hidden:
 
-   digital-services-playbook
+   us-digital-services-playbook
 
-See: :ref:`Digital Services Playbook <digital-services-playbook>`
+See: :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
 
 
 United States
