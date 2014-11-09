@@ -15,3 +15,8 @@ Unicameral Legislature
 =======================
 | Homepage: http://www.nebraskalegislature.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Nebraska_Legislature
+
+Governor
+=========
+| Homepage: http://www.governor.nebraska.gov/
+| Wikipedia: https://en.wikipedia.org/wiki/Governor_of_Nebraska
