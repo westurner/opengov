@@ -51,7 +51,7 @@ project_og_site_name = project_src_path  # e.g. westurner/opengov
 
 edit_on_github_project = project_github_path
 edit_on_github_src_path = 'docs/'
-edit_on_github_branch = 'master'
+edit_on_github_branch = 'develop'
 
 # current_git_branch=subprocess.check_output("git b") && parse
 
