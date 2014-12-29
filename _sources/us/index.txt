@@ -102,3 +102,17 @@ United States
 
    ne/index
 
+
+.. index:: Cool Projects
+.. _cool-projects:
+
+Cool Projects
+---------------
+
+* https://github.com/whitehouse/playbook
+* https://github.com/WhiteHouse/api-standards
+* https://github.com/project-open-data/project-open-data.github.io
+
+* https://github.com/ngageoint/disconnected-content-explorer-android
+* https://www.healthcare.gov/developers/
+* https://github.com/GSA/data.gov
