@@ -109,10 +109,42 @@ United States
 Cool Projects
 ---------------
 
-* https://github.com/whitehouse/playbook
-* https://github.com/WhiteHouse/api-standards
-* https://github.com/project-open-data/project-open-data.github.io
+Playbook
+~~~~~~~~~~~
+https://github.com/whitehouse/playbook
 
-* https://github.com/ngageoint/disconnected-content-explorer-android
-* https://www.healthcare.gov/developers/
-* https://github.com/GSA/data.gov
+See: :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
+
+REST API Standards
+~~~~~~~~~~~~~~~~~~~~
+https://github.com/whitehouse/api-standards
+
+Standards for REST-based and RESTful HTTP Web APIs
+
+Project Open Data
+~~~~~~~~~~~~~~~~~~~
+https://github.com/project-open-data/project-open-data.github.io
+
+DICE
+~~~~~
+https://github.com/ngageoint/disconnected-content-explorer-android
+
+Data.gov
+~~~~~~~~~
+https://github.com/GSA/data.gov
+
+Healthcare.gov
+~~~~~~~~~~~~~~~
+https://www.healthcare.gov/developers/
+
+UMLS
+~~~~~
+http://www.nlm.nih.gov/research/umls/
+
+PubMed
+~~~~~~~~
+https://www.ncbi.nlm.nih.gov/pubmed/
+
+OpenFDA
+~~~~~~~~
+https://open.fda.gov/
