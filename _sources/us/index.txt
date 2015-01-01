@@ -111,27 +111,40 @@ Cool Projects
 
 Playbook
 ~~~~~~~~~~~
-* https://github.com/whitehouse/playbook
+https://github.com/whitehouse/playbook
+
+See: :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
 
 REST API Standards
 ~~~~~~~~~~~~~~~~~~~~
-* https://github.com/whitehouse/api-standards
+https://github.com/whitehouse/api-standards
 
 Standards for REST-based and RESTful HTTP Web APIs
 
-
 Project Open Data
 ~~~~~~~~~~~~~~~~~~~
-
 https://github.com/project-open-data/project-open-data.github.io
 
-Standards for Dataset curation metadata and mappings to <TODO:link>
+DICE
+~~~~~
+https://github.com/ngageoint/disconnected-content-explorer-android
 
+Data.gov
+~~~~~~~~~
+https://github.com/GSA/data.gov
 
+Healthcare.gov
+~~~~~~~~~~~~~~~
+https://www.healthcare.gov/developers/
 
-* https://github.com/ngageoint/disconnected-content-explorer-android
-* https://github.com/GSA/data.gov
-* https://www.healthcare.gov/developers/
-* http://www.nlm.nih.gov/research/umls/
-* https://www.ncbi.nlm.nih.gov/pubmed/
-* https://open.fda.gov/
+UMLS
+~~~~~
+http://www.nlm.nih.gov/research/umls/
+
+PubMed
+~~~~~~~~
+https://www.ncbi.nlm.nih.gov/pubmed/
+
+OpenFDA
+~~~~~~~~
+https://open.fda.gov/
