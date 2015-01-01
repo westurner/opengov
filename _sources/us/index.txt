@@ -109,10 +109,29 @@ United States
 Cool Projects
 ---------------
 
+Playbook
+~~~~~~~~~~~
 * https://github.com/whitehouse/playbook
-* https://github.com/WhiteHouse/api-standards
-* https://github.com/project-open-data/project-open-data.github.io
+
+REST API Standards
+~~~~~~~~~~~~~~~~~~~~
+* https://github.com/whitehouse/api-standards
+
+Standards for REST-based and RESTful HTTP Web APIs
+
+
+Project Open Data
+~~~~~~~~~~~~~~~~~~~
+
+https://github.com/project-open-data/project-open-data.github.io
+
+Standards for Dataset curation metadata and mappings to <TODO:link>
+
+
 
 * https://github.com/ngageoint/disconnected-content-explorer-android
-* https://www.healthcare.gov/developers/
 * https://github.com/GSA/data.gov
+* https://www.healthcare.gov/developers/
+* http://www.nlm.nih.gov/research/umls/
+* https://www.ncbi.nlm.nih.gov/pubmed/
+* https://open.fda.gov/
