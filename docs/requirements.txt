@@ -3,6 +3,8 @@ sphinx
 # src:
 #   -e hg+https://bitbucket.org/birkenfeld/sphinx#egg=sphinx
 
+sphinxcontrib-srclinks
+
 sphinxcontrib-issuetracker
 #sphinx_rtd_theme
 #sphinxcontrib-ansi
