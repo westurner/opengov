@@ -144,9 +144,16 @@ Project Open Data
 | Homepage: https://project-open-data.github.io/
 | Source: https://github.com/project-open-data/project-open-data.github.io
 
+* https://project-open-data.cio.gov/v1.1/schema/ (JSON (-> JSON-LD -> RDF))
+* https://project-open-data.cio.gov/v1.1/metadata-resources/#field-mappings
+
+  * POD, CKAN, DCAT RDF, http://schema.org RDF
+
 REST API Standards
 ++++++++++++++++++++
 | Source: https://github.com/whitehouse/api-standards
+
+* https://en.wikipedia.org/wiki/Representational_state_transfer
 
 DICE
 +++++
@@ -157,6 +164,8 @@ Apache Accumulo
 | Homepage: https://accumulo.apache.org/
 | Source: https://github.com/apache/accumulo
 | Wikipedia: https://en.wikipedia.org/wiki/Apache_Accumulo
+
+* "Rya" (RDF Linked Data)
 
 Library of Congress
 +++++++++++++++++++++
