@@ -182,7 +182,7 @@ Library of Congress
 
 5 ★ Linked Open Data
 +++++++++++++++++++++
-**http://5stardata.info/**
+http://5stardata.info/
 
 * http://www.w3.org/TR/ld-glossary/#x5-star-linked-open-data
 * http://www.w3.org/TR/ld-glossary/#linked-data-principles
