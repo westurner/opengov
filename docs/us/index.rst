@@ -188,6 +188,7 @@ Library of Congress
 * http://www.w3.org/TR/ld-glossary/#linked-data-principles
 * http://www.w3.org/TR/ld-glossary/#comma-separated-values-csv (CSV)
 * http://www.w3.org/TR/ld-glossary/#rdf (RDF)
+* http://www.w3.org/TR/ld-glossary/#rdfa (RDFa)
 * http://www.w3.org/TR/ld-glossary/#json (JSON)
 * http://www.w3.org/TR/ld-glossary/#json-ld (JSON-LD)
 
