@@ -69,9 +69,29 @@ District Court
 | Wikipedia: https://en.wikipedia.org/wiki/United_States_district_court
 
 
+
+
+United States
+--------------
+
+Nebraska
+~~~~~~~~~
+.. toctree::
+
+   ne/index
+
+
+.. index:: Cool Projects
+.. _cool-projects:
+
+Cool Projects
+---------------
+
+
 US Digital Services Playbook
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Homepage: https://playbook.cio.gov/
+| Source: https://github.com/whitehouse/playbook
 
     1. Understand what people need
     2. Address the whole experience, from start to finish
@@ -95,58 +115,112 @@ US Digital Services Playbook
 See: :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
 
 
-United States
---------------
-
-Nebraska
-~~~~~~~~~
-.. toctree::
-
-   ne/index
-
-
-.. index:: Cool Projects
-.. _cool-projects:
-
-Cool Projects
----------------
-
-Playbook
-~~~~~~~~~~~
-https://github.com/whitehouse/playbook
-
-See: :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
-
-REST API Standards
-~~~~~~~~~~~~~~~~~~~~
-https://github.com/whitehouse/api-standards
-
-Standards for REST-based and RESTful HTTP Web APIs
-
-Project Open Data
-~~~~~~~~~~~~~~~~~~~
-https://github.com/project-open-data/project-open-data.github.io
-
-DICE
-~~~~~
-https://github.com/ngageoint/disconnected-content-explorer-android
+Data
+~~~~~~
 
 Data.gov
-~~~~~~~~~
-https://github.com/GSA/data.gov
++++++++++
+| Hompage: http://www.data.gov
+| Source: https://github.com/GSA/data.gov
+
+* http://www.data.gov/food
+* http://www.data.gov/business
+* http://www.data.gov/climate
+* http://www.data.gov/consumer
+* http://www.data.gov/ecosystems
+* http://www.data.gov/education
+* http://www.data.gov/energy
+* http://www.data.gov/finance
+* http://www.data.gov/health
+* http://www.data.gov/local
+* http://www.data.gov/manufacturing
+* http://www.data.gov/ocean
+* http://www.data.gov/safety
+* http://www.data.gov/research
+
+REST API Standards
+++++++++++++++++++++
+| Source: https://github.com/whitehouse/api-standards
+
+Project Open Data
++++++++++++++++++++
+| Homepage: https://project-open-data.github.io/
+| Source: https://github.com/project-open-data/project-open-data.github.io
+
+DICE
++++++
+| Source: https://github.com/ngageoint/disconnected-content-explorer-android
+
+Apache Accumulo
++++++++++++++++++
+| Homepage: https://accumulo.apache.org/
+| Source: https://github.com/apache/accumulo
+| Wikipedia: https://en.wikipedia.org/wiki/Apache_Accumulo
+
+
+Health
+~~~~~~~
 
 Healthcare.gov
-~~~~~~~~~~~~~~~
-https://www.healthcare.gov/developers/
++++++++++++++++
+| Homepage: https://www.healthcare.gov/
+| Wikipedia: https://en.wikipedia.org/wiki/HealthCare.gov
+
+* https://www.healthcare.gov/developers/
 
 UMLS
-~~~~~
-http://www.nlm.nih.gov/research/umls/
++++++
+| Homepage: http://www.nlm.nih.gov/research/umls/
+| Wikipedia: https://en.wikipedia.org/wiki/Unified_Medical_Language_System
 
-PubMed
-~~~~~~~~
-https://www.ncbi.nlm.nih.gov/pubmed/
+NIH NLM NCBI PubMed
++++++++++++++++++++++
+| Homepage: https://www.ncbi.nlm.nih.gov/pubmed/
+
+Cancer.gov
+++++++++++++
+| Homepage: http://www.cancer.gov/
+| Source: https://github.com/NCIP
+| Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
 
 OpenFDA
-~~~~~~~~
-https://open.fda.gov/
+++++++++
+| Homepage: https://open.fda.gov/
+| Source: https://github.com/FDA/openfda
+
+EPA
+++++++++++++++++
+| Homepage: http://epa.gov/
+| Wikipedia: https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency
+
+* http://www.epa.gov/datafinder/
+
+
+Science & Technology
+~~~~~~~~~~~~~~~~~~~~~~
+
+**Office of Science and Technology Policy**
+
+| Homepage: http://www.ostp.gov/
+| Wikipedia: https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy
+
+OpenStack
++++++++++++
+| Homepage: http://www.openstack.org/
+| Source: https://github.com/openstack
+| Wikipedia: https://en.wikipedia.org/wiki/OpenStack
+
+NASA
++++++
+| Homepage: http://www.nasa.gov/
+| Wikipedia: https://en.wikipedia.org/wiki/NASA
+
+* https://en.wikipedia.org/wiki/NASA_spin-off_technologies
+* http://spinoff.nasa.gov/
+* http://instagram.com/nasa
+* https://twitter.com/nasa
+
+In-Q-Tel
++++++++++
+| Wikipedia: https://en.wikipedia.org/wiki/In-Q-Tel
+
