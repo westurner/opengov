@@ -211,6 +211,7 @@ NIH NLM Medline Plus
 * http://www.nlm.nih.gov/medlineplus/healthtopics.html
 * http://www.nlm.nih.gov/medlineplus/druginformation.html
 * http://www.nlm.nih.gov/medlineplus/videosandcooltools.html
+* TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
 
 National Cancer Institute
@@ -224,6 +225,7 @@ NIH NLM NCBI PubMed
 | Homepage: https://www.ncbi.nlm.nih.gov/pubmed/
 
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/ (RDF Linked Data)
+* TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
 NIH NLM UMLS
 +++++++++++++
@@ -231,6 +233,7 @@ NIH NLM UMLS
 | Wikipedia: https://en.wikipedia.org/wiki/Unified_Medical_Language_System
 
 * https://github.com/ncbo/umls2rdf (RDF Linked Data)
+* TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
 
 NCI LexEVS
@@ -240,6 +243,7 @@ NCI LexEVS
 
 * https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+OWL+Export+Guide
   (RDF Linked Data)
+* TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
 
 OpenFDA
@@ -251,6 +255,7 @@ OpenFDA
 
   * TODO: http://json-ld.org/ ``@context`` -> RDF Linked Data
 
+* TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
 EPA
 ++++++++++++++++
