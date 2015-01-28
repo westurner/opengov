@@ -21,8 +21,8 @@ test_requirements = [
 
 setup(
     name='opengov',
-    version='0.1.0',
-    description='opengov',
+    version='0.2.0',
+    description='westurner/opengov -- Open Government Links',
     long_description=readme + '\n\n' + history,
     author='Wes Turner',
     author_email='wes.turner@gmail.com',
