@@ -145,6 +145,10 @@ Project Open Data
 | Source: https://github.com/project-open-data/project-open-data.github.io
 
 * https://project-open-data.cio.gov/v1.1/schema/ (JSON (-> JSON-LD -> RDF))
+
+  * https://project-open-data.cio.gov/v1.1/schema/catalog.json (JSON)
+  * https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld (JSON-LD)
+
 * https://project-open-data.cio.gov/v1.1/metadata-resources/#field-mappings
 
   * POD, CKAN, DCAT RDF, http://schema.org RDF
