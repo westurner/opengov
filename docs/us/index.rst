@@ -161,6 +161,10 @@ Project Open Data
 
   * POD, CKAN, DCAT RDF, http://schema.org RDF
 
+* ``ckanext-datajson`` extensions generates the POD ``/data.gov``:
+  https://github.com/HHS/ckanext-datajson
+
+
 REST API Standards
 ++++++++++++++++++++
 | Source: https://github.com/whitehouse/api-standards
