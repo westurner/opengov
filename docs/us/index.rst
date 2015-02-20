@@ -295,7 +295,7 @@ OpenFDA (FDA)
 
   * [ ] http://schema.org/MedicalWebPage
 
-* [ ] BLD: Dockerfiles for testing
+* [x] BLD: Dockerfiles for testing
 
   https://github.com/FDA/openfda/issues/45 
 
