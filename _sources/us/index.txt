@@ -324,6 +324,16 @@ OpenFDA (FDA)
   
   https://github.com/FDA/openfda/issues/49
 
+
+HealthData.gov (HHS)
+++++++++++++++++++++++
+| Homepage: http://www.healthdata.gov/
+
+* http://www.healthdata.gov/dataset/search
+* [ ] TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
+* seeAlso: `Data.gov`
+
+
 EPA
 ++++++++++++++++
 | Homepage: http://www.epa.gov/
