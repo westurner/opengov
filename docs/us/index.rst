@@ -224,12 +224,6 @@ Medline Plus (NIH NLM)
 
   * parse_medline.py: https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py
 
-National Cancer Institute (NCI)
-+++++++++++++++++++++++++++++++++
-| Homepage: http://www.cancer.gov/
-| Source: https://github.com/NCIP
-| Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
-
 PubMed (NIH NLM NCBI)
 +++++++++++++++++++++
 | Homepage: https://www.ncbi.nlm.nih.gov/pubmed/
@@ -239,7 +233,10 @@ PubMed (NIH NLM NCBI)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
   * [ ] http://schema.org/MedicalWebPage
-  * Supports MESH through MedicalCode
+  * Supports MESH through http://schema.org/MedicalCode
+
+    * https://github.com/HHS/meshrdf
+
   * [ ] http://schema.org/MedicalScholarlyArticle
   * [ ] http://schema.org/MedicalStudy
  
@@ -264,6 +261,13 @@ UMLS (NIH NLM)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
   * [ ] http://schema.org/MedicalWebPage
+
+
+National Cancer Institute (NCI)
++++++++++++++++++++++++++++++++++
+| Homepage: http://www.cancer.gov/
+| Source: https://github.com/NCIP
+| Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
 
 LexEVS (NCI)
 +++++++++++++
