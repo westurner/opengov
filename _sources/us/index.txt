@@ -246,7 +246,7 @@ PubMed (NIH NLM NCBI)
     * [ ] http://schema.org/MedicalObservationalStudy
     * [ ] http://schema.org/MedicalTrial
 
-Clinical Trials.gov (NIH)
+ClinicalTrials.gov (NIH)
 +++++++++++++++++++++++++++
 | Homepage: https://clinicaltrials.gov
 | Wikipedia: https://en.wikipedia.org/wiki/ClinicalTrials.gov
