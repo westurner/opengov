@@ -347,6 +347,11 @@ EPA
     * TODO: http://www.w3.org/TR/csv2rdf/ + Metadata -> RDF Linked Data
 
 
+MyPlate (USDA)
++++++++++++++++
+| Homepage: http://www.ChooseMyPlate.gov/
+| Wikipedia: https://en.wikipedia.org/wiki/MyPlate
+
 Science & Technology
 ~~~~~~~~~~~~~~~~~~~~~~
 
