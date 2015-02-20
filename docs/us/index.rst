@@ -308,9 +308,11 @@ OpenFDA (FDA)
   * [ ] http://schema.org/MedicalTherapy
   * [ ] http://schema.org/MedicalCondition
   * [ ] http://schema.org/MedicalIndication
+
     * [ ] http://schema.org/ApprovedIndication
     * [ ] http://schema.org/PreventionIndication
     * [ ] http://schema.org/TreatmentIndication
+
   * [ ] http://schema.org/MedicalContraindication
   * [ ] http://schema.org/MedicalSignOrSymptom
 
