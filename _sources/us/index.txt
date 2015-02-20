@@ -274,8 +274,8 @@ National Cancer Institute (NIH NCI)
 | Source: https://github.com/NCIP
 | Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
 
-LexEVS (NCI)
-+++++++++++++
+LexEVS (NIH NCI)
++++++++++++++++++
 | Docs: https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+Architecture
 | Source: https://github.com/NCIP/LexEVS
 
