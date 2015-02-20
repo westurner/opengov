@@ -217,6 +217,7 @@ Healthcare.gov (HHS CMMS)
 * https://www.healthcare.gov/developers/
 * [ ] TODO: create RDFa vocabulary for health plans
 * [ ] TODO: add RDFa to individual plan pages
+* [ ] TODO: search engine to index RDFa vocabulary
 * [ ] TODO: encourage carriers to add RDFa to describe their servcies
 
 Medline Plus (NIH NLM)
