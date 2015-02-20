@@ -307,7 +307,6 @@ OpenFDA (FDA)
 * [ ] TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
   * [ ] http://schema.org/MedicalWebPage
-  * [ ] http://schema.org/adverseOutcome
   * [ ] http://schema.org/MedicalDevice
   * [ ] http://schema.org/MedicalTherapy
 
@@ -321,6 +320,8 @@ OpenFDA (FDA)
     * [ ] http://schema.org/TreatmentIndication
 
   * [ ] http://schema.org/MedicalContraindication
+  * [ ] http://schema.org/adverseOutcome
+  * [ ] http://schema.org/seriousAdverseOutcome
   * [ ] http://schema.org/MedicalSignOrSymptom
 
 * [x] BLD: Dockerfiles for testing
