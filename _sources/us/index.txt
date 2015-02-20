@@ -295,6 +295,14 @@ OpenFDA (FDA)
 
   * [ ] http://schema.org/MedicalWebPage
 
+* [ ] BLD: Dockerfiles for testing
+
+  https://github.com/FDA/openfda/issues/45 
+
+* [ ] ENH: Adverse Event Count / Prescription Count Heatmap
+  
+  https://github.com/FDA/openfda/issues/49
+
 EPA
 ++++++++++++++++
 | Homepage: http://www.epa.gov/
