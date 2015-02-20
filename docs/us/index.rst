@@ -268,8 +268,8 @@ UMLS (NIH NLM)
   * [ ] http://schema.org/MedicalWebPage
 
 
-National Cancer Institute (NCI)
-+++++++++++++++++++++++++++++++++
+National Cancer Institute (NIH NCI)
+++++++++++++++++++++++++++++++++++++
 | Homepage: http://www.cancer.gov/
 | Source: https://github.com/NCIP
 | Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
