@@ -231,6 +231,7 @@ Medline Plus (NIH NLM)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
   * parse_medline.py: https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py
+  * [ ] see the schema.org types listed under `OpenFDA (FDA)`_
 
 PubMed (NIH NLM NCBI)
 +++++++++++++++++++++
@@ -309,6 +310,9 @@ OpenFDA (FDA)
   * [ ] http://schema.org/adverseOutcome
   * [ ] http://schema.org/MedicalDevice
   * [ ] http://schema.org/MedicalTherapy
+
+    * [ ] http://schema.org/Drug
+
   * [ ] http://schema.org/MedicalCondition
   * [ ] http://schema.org/MedicalIndication
 
