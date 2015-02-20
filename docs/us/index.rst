@@ -224,8 +224,8 @@ Medline Plus (NIH NLM)
 
   * parse_medline.py: https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py
 
-National Cancer Institute
-+++++++++++++++++++++++++++
+National Cancer Institute (NCI)
++++++++++++++++++++++++++++++++++
 | Homepage: http://www.cancer.gov/
 | Source: https://github.com/NCIP
 | Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
@@ -255,7 +255,7 @@ UMLS (NIH NLM)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
 
-NCI LexEVS
+LexEVS (NCI)
 +++++++++++++
 | Docs: https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+Architecture
 | Source: https://github.com/NCIP/LexEVS
@@ -265,8 +265,8 @@ NCI LexEVS
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
 
-OpenFDA
-++++++++
+OpenFDA (FDA)
++++++++++++++++
 | Homepage: https://open.fda.gov/
 | Source: https://github.com/FDA/openfda
 
