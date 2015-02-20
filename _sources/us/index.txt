@@ -254,7 +254,12 @@ OpenFDA
 
 * https://open.fda.gov/api/reference/ (JSON Data)
 
-  * TODO: http://json-ld.org/ ``@context`` -> RDF Linked Data
+  * [ ] TODO: http://json-ld.org/ ``@context`` -> RDF Linked Data
+  
+    * https://github.com/FDA/openfda/issues/5
+    * https://github.com/westurner/elasticsearchjsonld
+    * https://github.com/westurner/openfda-jsonld-testing
+
 
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
