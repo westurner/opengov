@@ -95,6 +95,7 @@
 <li><a class="reference internal" href="#president">President</a></li>
 <li><a class="reference internal" href="#vice-president">Vice President</a></li>
 <li><a class="reference internal" href="#chief-information-officer">Chief Information Officer</a></li>
+<li><a class="reference internal" href="#chief-data-scientist">Chief Data Scientist</a></li>
 <li><a class="reference internal" href="#chief-technology-officer">Chief Technology Officer</a></li>
 </ul>
 </li>
@@ -122,10 +123,10 @@
 </li>
 <li><a class="reference internal" href="#health">Health</a><ul>
 <li><a class="reference internal" href="#healthcare-gov">Healthcare.gov</a></li>
-<li><a class="reference internal" href="#nih-nlm-medline-plus">NIH NLM Medline Plus</a></li>
+<li><a class="reference internal" href="#medline-plus-nih-nlm">Medline Plus (NIH NLM)</a></li>
 <li><a class="reference internal" href="#national-cancer-institute">National Cancer Institute</a></li>
-<li><a class="reference internal" href="#nih-nlm-ncbi-pubmed">NIH NLM NCBI PubMed</a></li>
-<li><a class="reference internal" href="#nih-nlm-umls">NIH NLM UMLS</a></li>
+<li><a class="reference internal" href="#pubmed-nih-nlm-ncbi">PubMed (NIH NLM NCBI)</a></li>
+<li><a class="reference internal" href="#umls-nih-nlm">UMLS (NIH NLM)</a></li>
 <li><a class="reference internal" href="#nci-lexevs">NCI LexEVS</a></li>
 <li><a class="reference internal" href="#openfda">OpenFDA</a></li>
 <li><a class="reference internal" href="#epa">EPA</a></li>
@@ -239,6 +240,12 @@
 <div class="line">Homepage: <a class="reference external" href="https://cio.gov/">https://cio.gov/</a></div>
 <div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Federal_Chief_Information_Officer_of_the_United_States">https://en.wikipedia.org/wiki/Federal_Chief_Information_Officer_of_the_United_States</a></div>
 </div>
+<p>see: <a class="reference external" href="https://wrdrd.github.io/docs/consulting/knowledge-engineering.html">https://wrdrd.github.io/docs/consulting/knowledge-engineering.html</a></p>
+</div>
+<div class="section" id="chief-data-scientist">
+<h3>Chief Data Scientist<a class="headerlink" href="#chief-data-scientist" title="Permalink to this headline">¶</a></h3>
+<p><a class="reference external" href="http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist">http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist</a></p>
+<p>see: <a class="reference external" href="https://wrdrd.github.io/docs/consulting/data-science.html">https://wrdrd.github.io/docs/consulting/data-science.html</a></p>
 </div>
 <div class="section" id="chief-technology-officer">
 <h3>Chief Technology Officer<a class="headerlink" href="#chief-technology-officer" title="Permalink to this headline">¶</a></h3>
@@ -425,17 +432,20 @@
 <li><a class="reference external" href="https://www.healthcare.gov/developers/">https://www.healthcare.gov/developers/</a></li>
 </ul>
 </div>
-<div class="section" id="nih-nlm-medline-plus">
-<h4>NIH NLM Medline Plus<a class="headerlink" href="#nih-nlm-medline-plus" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="medline-plus-nih-nlm">
+<h4>Medline Plus (NIH NLM)<a class="headerlink" href="#medline-plus-nih-nlm" title="Permalink to this headline">¶</a></h4>
 <div class="line-block">
 <div class="line">Homepage: <a class="reference external" href="http://www.nlm.nih.gov/medlineplus/">http://www.nlm.nih.gov/medlineplus/</a></div>
 <div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/MedlinePlus">https://en.wikipedia.org/wiki/MedlinePlus</a></div>
 </div>
 <ul class="simple">
-<li><a class="reference external" href="http://www.nlm.nih.gov/medlineplus/healthtopics.html">http://www.nlm.nih.gov/medlineplus/healthtopics.html</a></li>
-<li><a class="reference external" href="http://www.nlm.nih.gov/medlineplus/druginformation.html">http://www.nlm.nih.gov/medlineplus/druginformation.html</a></li>
+<li>Health Info: <a class="reference external" href="http://www.nlm.nih.gov/medlineplus/healthtopics.html">http://www.nlm.nih.gov/medlineplus/healthtopics.html</a></li>
+<li>Drug Info: <a class="reference external" href="http://www.nlm.nih.gov/medlineplus/druginformation.html">http://www.nlm.nih.gov/medlineplus/druginformation.html</a></li>
 <li><a class="reference external" href="http://www.nlm.nih.gov/medlineplus/videosandcooltools.html">http://www.nlm.nih.gov/medlineplus/videosandcooltools.html</a></li>
-<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)</li>
+<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)<ul>
+<li>parse_medline.py: <a class="reference external" href="https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py">https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py</a></li>
+</ul>
+</li>
 </ul>
 </div>
 <div class="section" id="national-cancer-institute">
@@ -446,18 +456,28 @@
 <div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/National_Cancer_Institute">https://en.wikipedia.org/wiki/National_Cancer_Institute</a></div>
 </div>
 </div>
-<div class="section" id="nih-nlm-ncbi-pubmed">
-<h4>NIH NLM NCBI PubMed<a class="headerlink" href="#nih-nlm-ncbi-pubmed" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="pubmed-nih-nlm-ncbi">
+<h4>PubMed (NIH NLM NCBI)<a class="headerlink" href="#pubmed-nih-nlm-ncbi" title="Permalink to this headline">¶</a></h4>
 <div class="line-block">
 <div class="line">Homepage: <a class="reference external" href="https://www.ncbi.nlm.nih.gov/pubmed/">https://www.ncbi.nlm.nih.gov/pubmed/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/PubMed">https://en.wikipedia.org/wiki/PubMed</a></div>
 </div>
 <ul class="simple">
 <li><a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/</a> (RDF Linked Data)</li>
-<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)</li>
+<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)<ul>
+<li>Supports MESH through MedicalCode</li>
+<li>MedicalScholarlyArticle</li>
+<li>MedicalStudy<ul>
+<li>MedicalObservationalStudy</li>
+<li>MedicalTrial</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </div>
-<div class="section" id="nih-nlm-umls">
-<h4>NIH NLM UMLS<a class="headerlink" href="#nih-nlm-umls" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="umls-nih-nlm">
+<h4>UMLS (NIH NLM)<a class="headerlink" href="#umls-nih-nlm" title="Permalink to this headline">¶</a></h4>
 <div class="line-block">
 <div class="line">Homepage: <a class="reference external" href="http://www.nlm.nih.gov/research/umls/">http://www.nlm.nih.gov/research/umls/</a></div>
 <div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Unified_Medical_Language_System">https://en.wikipedia.org/wiki/Unified_Medical_Language_System</a></div>
@@ -575,6 +595,7 @@
 <li><a class="reference internal" href="#president">President</a></li>
 <li><a class="reference internal" href="#vice-president">Vice President</a></li>
 <li><a class="reference internal" href="#chief-information-officer">Chief Information Officer</a></li>
+<li><a class="reference internal" href="#chief-data-scientist">Chief Data Scientist</a></li>
 <li><a class="reference internal" href="#chief-technology-officer">Chief Technology Officer</a></li>
 </ul>
 </li>
@@ -602,10 +623,10 @@
 </li>
 <li><a class="reference internal" href="#health">Health</a><ul>
 <li><a class="reference internal" href="#healthcare-gov">Healthcare.gov</a></li>
-<li><a class="reference internal" href="#nih-nlm-medline-plus">NIH NLM Medline Plus</a></li>
+<li><a class="reference internal" href="#medline-plus-nih-nlm">Medline Plus (NIH NLM)</a></li>
 <li><a class="reference internal" href="#national-cancer-institute">National Cancer Institute</a></li>
-<li><a class="reference internal" href="#nih-nlm-ncbi-pubmed">NIH NLM NCBI PubMed</a></li>
-<li><a class="reference internal" href="#nih-nlm-umls">NIH NLM UMLS</a></li>
+<li><a class="reference internal" href="#pubmed-nih-nlm-ncbi">PubMed (NIH NLM NCBI)</a></li>
+<li><a class="reference internal" href="#umls-nih-nlm">UMLS (NIH NLM)</a></li>
 <li><a class="reference internal" href="#nci-lexevs">NCI LexEVS</a></li>
 <li><a class="reference internal" href="#openfda">OpenFDA</a></li>
 <li><a class="reference internal" href="#epa">EPA</a></li>

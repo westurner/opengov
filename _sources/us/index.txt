@@ -45,6 +45,14 @@ Chief Information Officer
 | Homepage: https://cio.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Federal_Chief_Information_Officer_of_the_United_States
 
+see: https://wrdrd.github.io/docs/consulting/knowledge-engineering.html
+
+Chief Data Scientist
+~~~~~~~~~~~~~~~~~~~~~
+http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist 
+
+see: https://wrdrd.github.io/docs/consulting/data-science.html
+
 Chief Technology Officer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Wikipedia: https://en.wikipedia.org/wiki/Chief_Technology_Officer_of_the_United_States
@@ -204,16 +212,17 @@ Healthcare.gov
 * https://www.healthcare.gov/developers/
 
 
-NIH NLM Medline Plus
+Medline Plus (NIH NLM)
 +++++++++++++++++++++
 | Homepage: http://www.nlm.nih.gov/medlineplus/
 | Wikipedia: https://en.wikipedia.org/wiki/MedlinePlus
 
-* http://www.nlm.nih.gov/medlineplus/healthtopics.html
-* http://www.nlm.nih.gov/medlineplus/druginformation.html
+* Health Info: http://www.nlm.nih.gov/medlineplus/healthtopics.html
+* Drug Info: http://www.nlm.nih.gov/medlineplus/druginformation.html
 * http://www.nlm.nih.gov/medlineplus/videosandcooltools.html
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
+  * parse_medline.py: https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py
 
 National Cancer Institute
 +++++++++++++++++++++++++++
@@ -221,15 +230,24 @@ National Cancer Institute
 | Source: https://github.com/NCIP
 | Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
 
-NIH NLM NCBI PubMed
+PubMed (NIH NLM NCBI)
 +++++++++++++++++++++
 | Homepage: https://www.ncbi.nlm.nih.gov/pubmed/
+| Wikipedia: https://en.wikipedia.org/wiki/PubMed
 
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/ (RDF Linked Data)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
-NIH NLM UMLS
-+++++++++++++
+  * Supports MESH through MedicalCode
+
+  * MedicalScholarlyArticle
+  * MedicalStudy
+
+    * MedicalObservationalStudy
+    * MedicalTrial
+
+UMLS (NIH NLM)
++++++++++++++++
 | Homepage: http://www.nlm.nih.gov/research/umls/
 | Wikipedia: https://en.wikipedia.org/wiki/Unified_Medical_Language_System
 
