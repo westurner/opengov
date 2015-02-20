@@ -238,13 +238,22 @@ PubMed (NIH NLM NCBI)
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/ (RDF Linked Data)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
+  * [ ] http://schema.org/MedicalWebPage
   * Supports MESH through MedicalCode
+  * [ ] http://schema.org/MedicalScholarlyArticle
+  * [ ] http://schema.org/MedicalStudy
+ 
+    * [ ] http://schema.org/MedicalObservationalStudy
+    * [ ] http://schema.org/MedicalTrial
 
-  * MedicalScholarlyArticle
-  * MedicalStudy
+Clinical Trials.gov (NIH)
++++++++++++++++++++++++++++
+| Homepage: https://clinicaltrials.gov
+| Wikipedia: https://en.wikipedia.org/wiki/ClinicalTrials.gov
 
-    * MedicalObservationalStudy
-    * MedicalTrial
+* TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
+
+  * [ ] http://schema.org/MedicalTrial
 
 UMLS (NIH NLM)
 +++++++++++++++
@@ -254,6 +263,7 @@ UMLS (NIH NLM)
 * https://github.com/ncbo/umls2rdf (RDF Linked Data)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
+  * [ ] http://schema.org/MedicalWebPage
 
 LexEVS (NCI)
 +++++++++++++
@@ -263,6 +273,8 @@ LexEVS (NCI)
 * https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+OWL+Export+Guide
   (RDF Linked Data)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
+
+  * [ ] http://schema.org/MedicalWebPage
 
 
 OpenFDA (FDA)
@@ -279,7 +291,9 @@ OpenFDA (FDA)
     * https://github.com/westurner/openfda-jsonld-testing
 
 
-* TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
+* [ ] TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
+
+  * [ ] http://schema.org/MedicalWebPage
 
 EPA
 ++++++++++++++++
