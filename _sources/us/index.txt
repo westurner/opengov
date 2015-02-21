@@ -208,8 +208,6 @@ http://5stardata.info/
 
 Health
 ~~~~~~~
-Linked Open Data
-
 
 Precision Medicine Initiative
 +++++++++++++++++++++++++++++++
