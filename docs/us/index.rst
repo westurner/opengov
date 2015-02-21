@@ -212,7 +212,19 @@ Linked Open Data
 
 http://www.w3.org/wiki/HCLSIG/LODD/Data
 
+Precision Medicine Initiative
++++++++++++++++++++++++++++++++
+http://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama-s-precision-medicine-initiative
 
+* More and better treatments for cancer
+* Creation of a voluntary national research cohort
+* Commitment to protecting privacy
+* Regulatory modernization
+* Public-private partnerships
+
+
+Personal Health Agenda
++++++++++++++++++++++++
 Goals:
 
 * Maximize utility of health data (through network effects)
