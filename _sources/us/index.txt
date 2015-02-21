@@ -245,7 +245,14 @@ Objectives:
 * Lookup and automatedly analyze relevant datasets
   (before reading an abstract or a conclusion) with a number of models 
   and random seeds ["blind statistical analysis"]
-* Develop an RDFS vocabulary for describing study controls and protocols with URIs
+* Develop an RDFS vocabulary for describing study controls and protocols with URIs ["Study Protocol"]
+
+  * MedicalStudy, MedicalObservationalStudy, MedicalTrial
+  * RCT?
+  * Which groups were masked? (single, double, triple is not sufficient)
+
+* Develop an RDFS vocabulary predicates for linking between similar and reproductions
+  of studies ["Reproducibility", "Repeatability"]
 * Develop a platform for collaborative systematic review
 
   * Linked Data (RDF)
