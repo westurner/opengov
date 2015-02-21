@@ -210,7 +210,6 @@ Health
 ~~~~~~~
 Linked Open Data
 
-http://www.w3.org/wiki/HCLSIG/LODD/Data
 
 Precision Medicine Initiative
 +++++++++++++++++++++++++++++++
@@ -236,7 +235,10 @@ Goals:
 Objectives:
 
 * Link available resources together with common identifiers and vocabulary
-  ["URIs", "Linked Data"]
+  ["URIs", "Linked Data", "Semantic Web", "RDF", "RDFa"]
+
+  * http://www.w3.org/wiki/HCLSIG/LODD/Data
+
 * Add RDFa tags to existing HTML templates ["Linked Data", "MedicalEntity"]
 * Lookup relevant datasets
 * Lookup relevant datasets across languages and coding systems
@@ -247,6 +249,10 @@ Objectives:
   and random seeds ["blind statistical analysis"]
 * Develop an RDFS vocabulary for describing study controls and protocols with URIs
 * Develop a platform for collaborative systematic review
+
+  * Linked Data (RDF)
+  * OpenAnnotation
+  * Structured Reviews
 
 
 Healthcare.gov (HHS CMMS)
