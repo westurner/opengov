@@ -208,6 +208,34 @@ http://5stardata.info/
 
 Health
 ~~~~~~~
+Linked Open Data
+
+http://www.w3.org/wiki/HCLSIG/LODD/Data
+
+
+Goals:
+
+* Maximize utility of health data (through network effects)
+* Ask and answer questions to improve outcomes
+* Support case-history-aware epidemiological meta-analysis
+  ["controlling for factors", "systematic review"] (PRISMA, QUOROM)
+
+
+Objectives:
+
+* Link available resources together with common identifiers and vocabulary
+  ["URIs", "Linked Data"]
+* Add RDFa tags to existing HTML templates ["Linked Data", "MedicalEntity"]
+* Lookup relevant datasets
+* Lookup relevant datasets across languages and coding systems
+* Encourage sharing of non-PHI data
+* Encourage sharing of non-PHI data with units
+* Lookup and automatedly analyze relevant datasets
+  (before reading an abstract or a conclusion) with a number of models 
+  and random seeds ["blind statistical analysis"]
+* Develop an RDFS vocabulary for describing study controls and protocols with URIs
+* Develop a platform for collaborative systematic review
+
 
 Healthcare.gov (HHS CMMS)
 ++++++++++++++++++++++++++
