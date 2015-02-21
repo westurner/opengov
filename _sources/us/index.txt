@@ -251,8 +251,9 @@ Objectives:
   * RCT?
   * Which groups were masked? (single, double, triple is not sufficient)
 
-* Develop an RDFS vocabulary predicates for linking between similar and reproductions
-  of studies ["Reproducibility", "Repeatability"]
+* Develop RDFS vocabulary predicates for linking between
+  similar and concurring / discordant reproductions of studies
+  ["Reproducibility", "Repeatability"]
 * Develop a platform for collaborative systematic review
 
   * Linked Data (RDF)
