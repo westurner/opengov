@@ -309,6 +309,10 @@ ClinicalTrials.gov (NIH NLM)
 | Homepage: https://clinicaltrials.gov
 | Wikipedia: https://en.wikipedia.org/wiki/ClinicalTrials.gov
 
+* http://linkedct.org/ (RDF linked data (delayed; third-party))
+
+  * http://data.linkedct.org/sparql
+
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
   * [ ] http://schema.org/MedicalTrial
