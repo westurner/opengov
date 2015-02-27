@@ -47,12 +47,16 @@ Health Insurance Programs
 * `VA`_
 * `Group Health Plans`_
 * `COBRA`_
-* `Federal Black Lung Benefits Program`_
+* `Federal Black Lung Benefits`_
+* `Correctional Healthcare`_
 
 **References**
 
 * "Medicare & Other Health Benefits: Your Guide to Who Pays First" CMMS
   http://www.medicare.gov/Pubs/pdf/02179.pdf
+
+* "Health Plans & Benefits" http://www.dol.gov/dol/topic/health-plans/
+
 
 Medicare
 ++++++++++
@@ -92,6 +96,24 @@ Group Health Plans
 +++++++++++++++++++
 | https://en.wikipedia.org/wiki/Group_insurance 
 
+See: `Healthcare.gov`_
+
+COBRA
+++++++
+| Wikipedia: https://en.wikipedia.org/wiki/Consolidated_Omnibus_Budget_Reconciliation_Act_of_1985
+| DOL: http://www.dol.gov/dol/topic/health-plans/cobra.htm
+| Healthcare.gov: https://www.healthcare.gov/unemployed/cobra-coverage/
+
+Federal Black Lung Benefits
++++++++++++++++++++++++++++++
+| Wikipedia: https://en.wikipedia.org/wiki/Black_Lung_Benefits_Act_of_1973
+| DOL: http://www.dol.gov/compliance/topics/benefits-comp-blacklung.htm
+
+
+Correctional Healthcare
+++++++++++++++++++++++++
+| Healthcare.gov: https://www.healthcare.gov/incarcerated-people/
+
 
 PPACA
 -------
@@ -104,7 +126,10 @@ See also: https://en.wikipedia.org/wiki/Massachusetts_health_care_reform
 
 Healthcare.gov
 +++++++++++++++
+| Wikipedia: https://en.wikipedia.org/wiki/HealthCare.gov
 | Homepage: https://www.healthcare.gov/
+
+See also: :ref:`US > Cool Projects > Healthcare.gov <healthcaredotgov>`
 
 
 Health Information Exchange
@@ -164,3 +189,14 @@ be proactive about our health.
 "They"
 --------
 * What "they" should do if they had any sense.
+
+
+Alternative Plans
+===================
+
+"Let's just create another program"
+
+* https://en.wikipedia.org/wiki/Single-payer_health_care
+* https://en.wikipedia.org/wiki/National_health_insurance
+* https://en.wikipedia.org/wiki/Universal_health_care
+* https://en.wikipedia.org/wiki/Universal_health_coverage_by_country
