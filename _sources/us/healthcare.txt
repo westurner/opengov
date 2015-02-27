@@ -97,12 +97,20 @@ PPACA
 -------
 AKA "Obamacare"
 
+AKA "Affordable Care Act" (ACA)
+
+See also: https://en.wikipedia.org/wiki/Massachusetts_health_care_reform
+(2006) (R. "Romneycare")
+
 Healthcare.gov
 +++++++++++++++
 | Homepage: https://www.healthcare.gov/
 
+
 Health Information Exchange
 +++++++++++++++++++++++++++++
+https://en.wikipedia.org/wiki/Health_information_exchange
+
 * "Meaningful Use"
 
 
@@ -116,16 +124,42 @@ https://en.wikipedia.org/wiki/Conflict_of_interest
 Data Interchange
 ------------------
 * Billing
+
+  * Who is going to pay for this?
+
 * Medical Records
+
+  * How many times do we need to collect this information?
 
 Medical Loss Ratio
 --------------------
+https://en.wikipedia.org/wiki/Loss_ratio#Medical_Loss_Ratio
+
 * % of costs spent on other areas (administration, *advertising*,
-  profit)
+  profit) ("overhead")
 
 * "Do we really spend a third of health care dollars
   on billing and bureaucracy?" 
   http://www.politifact.com/oregon/statements/2012/may/11/jennifer-williamson/do-we-really-spend-nearly-third-health-care-dollar/
+
+  .. epigraph:: 
+    
+      [...] the average medical loss ratio in the United States
+      is about 80 percent. But the reason this study tacks on
+      another 11 percent is that the medical loss ratio
+      "does not take into account the cost of physicians
+      to collect from insurance companies."
+
+
+* PPACA Medical Loss Ratio limit: 85%/80%
+
+Preventative Care
+-------------------
+The longer one waits to address a health concern,
+the more likely it is that it will be more costly.
+
+Or, it's less expensive for everyone to
+be proactive about our health.
 
 "They"
 --------
