@@ -261,6 +261,8 @@ Objectives:
   * Structured Reviews
 
 
+.. _healthcaredotgov:
+
 Healthcare.gov (HHS CMMS)
 ++++++++++++++++++++++++++
 | Homepage: https://www.healthcare.gov/
@@ -444,3 +446,10 @@ In-Q-Tel
 +++++++++
 | Wikipedia: https://en.wikipedia.org/wiki/In-Q-Tel
 
+
+Healthcare
+============
+
+.. toctree::
+
+   healthcare
