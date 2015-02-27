@@ -121,9 +121,7 @@ PPACA
 | Bill Text: http://www.gpo.gov/fdsys/granule/PLAW-111publ148/PLAW-111publ148/content-detail.html
 | DOL: http://www.dol.gov/ebsa/healthreform/
 
-AKA "Obamacare"
-
-AKA "Affordable Care Act" (ACA)
+AKA "Affordable Care Act" (ACA) (D. "Obamacare")
 
 See also: https://en.wikipedia.org/wiki/Massachusetts_health_care_reform
 (2006) (R. "Romneycare")
