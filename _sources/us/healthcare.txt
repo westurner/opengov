@@ -45,6 +45,7 @@ Health Insurance Programs
 * `Medicaid`_
 * `Tricare`_
 * `VA`_
+* `Federal Employees Health Benefits`_
 * `Group Health Plans`_
 * `COBRA`_
 * `Federal Black Lung Benefits`_
@@ -83,18 +84,23 @@ Medicaid
 Tricare
 ++++++++
 | Wikipedia: https://en.wikipedia.org/wiki/Tricare
-| Homepage: https://en.wikipedia.org/wiki/Tricare
-
+| Homepage: http://www.tricare.mil/
 
 VA
 +++
 | Wikipedia: https://en.wikipedia.org/wiki/Veterans_Health_Administration
 | Homepage: http://www.va.gov/healthbenefits/
 
+Federal Employees Health Benefits
+++++++++++++++++++++++++++++++++++
+| Wikipedia: https://en.wikipedia.org/wiki/Federal_Employees_Health_Benefits_Program
+| Homepage: http://www.opm.gov/healthcare-insurance/healthcare/
 
 Group Health Plans
 +++++++++++++++++++
 | https://en.wikipedia.org/wiki/Group_insurance 
+
+AKA "Private Health Insurance"
 
 See: `Healthcare.gov`_
 
