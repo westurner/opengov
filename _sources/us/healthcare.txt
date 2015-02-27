@@ -117,6 +117,10 @@ Correctional Healthcare
 
 PPACA
 -------
+| Wikipedia: https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act
+| Bill Text: http://www.gpo.gov/fdsys/granule/PLAW-111publ148/PLAW-111publ148/content-detail.html
+| DOL: http://www.dol.gov/ebsa/healthreform/
+
 AKA "Obamacare"
 
 AKA "Affordable Care Act" (ACA)
@@ -138,6 +142,10 @@ https://en.wikipedia.org/wiki/Health_information_exchange
 
 * "Meaningful Use"
 
+Minimum Medical Loss Ratio
++++++++++++++++++++++++++++
+
+* PPACA `Medical Loss Ratio`_ limit: 85%/80%
 
 Challenges
 ============
