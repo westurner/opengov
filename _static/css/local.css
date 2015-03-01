@@ -12,16 +12,13 @@
     padding-top: 4px;
 }
 
-div.document ul {
+div.document ul,
+div.sidebar ul ul{
     padding-left: 17px;
 }
 
 div.sidebar {
     padding-bottom: 14px; /* square */
-}
-
-div.sidebar ul ul {
-    padding-left: 20px;
 }
 
 div.sidebar pre {
