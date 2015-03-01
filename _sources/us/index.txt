@@ -57,6 +57,8 @@ Chief Technology Officer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Wikipedia: https://en.wikipedia.org/wiki/Chief_Technology_Officer_of_the_United_States
 
+see: https://wrdrd.github.io/docs/consulting/information-systems.html
+
 
 Judicial Branch
 ----------------
