@@ -45,20 +45,27 @@ setup-docs:
 	pip install -r docs/requirements.txt
 	touch setup-docs
 
-STATIC:="./docs/_static"
-LOCALJS="$(STATIC)/js/local.js"
+STATIC:=./docs/_static
+LOCALJS=$(STATIC)/js/local.js
 
 localjs:
 	echo '' > $(LOCALJS)
 	cat $(STATIC)/js/ga.js >> $(LOCALJS)
 	cat $(STATIC)/js/newtab.js >> $(LOCALJS)
+	cat $(STATIC)/js/affix-sidenav.js >> $(LOCALJS)
+
+LOCALCSS=$(STATIC)/css/local.css
+localcss:
+	echo '' > $(LOCALCSS)
+	cat $(STATIC)/css/custom.css >> $(LOCALCSS)
+
 
 docs-api:
 	rm -f docs/opengov/opengov.rst
 	rm -f docs/opengov/opengov.*.rst
 	sphinx-apidoc -T -M -o docs/opengov/ opengov
 
-docs: setup-docs clean-docs docs-api localjs
+docs: setup-docs clean-docs docs-api localjs localcss
 	$(MAKE) -C docs html
 	#$(MAKE) -C docs singlehtml
 
