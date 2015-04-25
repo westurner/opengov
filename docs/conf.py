@@ -307,7 +307,7 @@ html_sidebars = {
 #html_file_suffix = None
 
 # see: https://pypi.python.org/pypi/pgs (to auto-append .html to paths)
-html_link_suffx = ''
+html_link_suffix = ''
 
 # Filename affix
 filename_affix = "{}".format(project_name_slug)
