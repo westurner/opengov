@@ -5,7 +5,7 @@ opengov
 opengov
 
 * Free software: BSD license
-* Documentation: https://westurner.github.io/opengov/
+* Documentation: https://westurner.org/opengov/
 
 
 Features

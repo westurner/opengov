@@ -5,7 +5,7 @@ opengov
 
 opengov
 ---------
-| Homepage: https://westurner.github.io/opengov/
+| Homepage: https://westurner.org/opengov/
 | Source: https://github.com/westurner/opengov
 
 https://en.wikipedia.org/wiki/Open_government
@@ -14,4 +14,4 @@ https://en.wikipedia.org/wiki/Open_government
 ``opengov`` package
 ---------------------
 | Source: https://github.com/westurner/opengov
-| Documentation: https://westurner.github.io/opengov/opengov/readme.html
+| Documentation: https://westurner.org/opengov/opengov/readme.html
