@@ -149,6 +149,8 @@ Data.gov
 * http://www.data.gov/research
 
 
+.. _POD:
+
 Project Open Data
 +++++++++++++++++++
 | Homepage: https://project-open-data.github.io/
@@ -246,7 +248,8 @@ Objectives:
 * Encourage sharing of non-PHI data with units
 * Lookup and automatedly analyze relevant datasets
   (before reading an abstract or a conclusion) with a number of models 
-  and random seeds ["blind statistical analysis"]
+  and random seeds ["blind statistical analysis",
+  "masked statistical analysis"]
 * Develop an RDFS vocabulary for describing study controls and protocols with URIs ["Study Protocol"]
 
   * MedicalStudy, MedicalObservationalStudy, MedicalTrial
@@ -398,6 +401,11 @@ HealthData.gov (HHS)
 | Homepage: http://www.healthdata.gov/
 
 * http://www.healthdata.gov/dataset/search
+* http://hub.healthdata.gov/
+* http://hub.healthdata.gov/data.json
+
+  * https://github.com/HHS/ckanext-datajson (`Project Open Data`_ JSON)
+
 * [ ] TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 * seeAlso: `Data.gov`_
 
