@@ -61,6 +61,13 @@ What about creating computer games?
   
 * [ ] Which parts of gaming teach STEM mathematical systems with limits and interaction?
 
+==========================
+CS skills for STEM fields
+==========================
+* https://wrdrd.com/docs/consulting/software-development#computer-science
+* :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
+* :ref:`Cool Projects <cool-projects>`
+
 
 Linked Curricula Graphs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
