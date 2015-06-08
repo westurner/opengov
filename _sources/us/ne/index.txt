@@ -31,8 +31,12 @@ Nebraska Information Technology Commission
 
 * http://www.nitc.nebraska.gov/state_gov_council/legislation.html
 
+
+Ideas
+========
+
 CS as STEM credit for HS graduation
-============================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * http://www.reddit.com/r/compsci/comments/1tjmd4/high_schools_not_meeting_stem_demand_only_9/ce8nmmx
   https://westurner.org/redditlog/#comment/ce8nmmx
@@ -44,8 +48,9 @@ CS as STEM credit for HS graduation
       * http://www.whitehouse.gov/sites/default/files/microsites/ostp/fact_sheet_final.pdf
       
 
+=========================================
 What about creating computer games?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================================
 * Gamification
 
   https://en.wikipedia.org/wiki/Gamification
@@ -58,7 +63,7 @@ What about creating computer games?
 
 
 Linked Curricula Graphs
-=========================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * https://westurner.org/self-directed-learning/slides.html#knowledge-graph
 
 * [ ] Link each component of the curriculum to a concept URI
@@ -73,7 +78,7 @@ Linked Curricula Graphs
   
     * https://wrdrd.com/docs/consulting/data-science
     * https://wrdrd.com/docs/consulting/knowledge-engineering
-    * https://wrdrd.com/docs/consulting/education-technology
+    * https://wrdrd.com/docs/consulting/education-technology #
     
 
 
