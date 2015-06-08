@@ -56,8 +56,11 @@ What about creating computer games?
   
 * [ ] Which parts of gaming teach STEM mathematical systems with limits and interaction?
 
+
 Linked Curricula Graphs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================================
+* https://westurner.org/self-directed-learning/slides.html#knowledge-graph
+
 * [ ] Link each component of the curriculum to a concept URI
   (e.g. Wikipedia (-> DBpedia RDF <- http://lod-cloud.net/))
   
