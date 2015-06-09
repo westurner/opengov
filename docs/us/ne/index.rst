@@ -100,8 +100,8 @@ OpenBadges
 | Docs: https://wiki.mozilla.org/Badges
 | Twitter: https://twitter.com/openbadges
 
-* [ ] OpenBadges :ref:`JSON` Web Signatures and :ref:`Schema.org`
-  (:ref:`RDFa`, :ref:`JSON-LD`):
+* [ ] OpenBadges **JSON** Web Signatures and **Schema.org**
+  **RDFa**, **JSON-LD**:
 
   https://github.com/openbadges/openbadges-specification/issues/9
 
