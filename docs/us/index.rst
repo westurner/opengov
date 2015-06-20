@@ -301,8 +301,18 @@ MeshRDF
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 | Source: https://github.com/HHS/meshrdf
 | Homepage: https://hhs.github.io/meshrdf/
+| Docs: https://hhs.github.io/meshrdf/concepts.html
 | Docs: https://hhs.github.io/meshrdf/release-notes.html
-| Docs:  http://www.nlm.nih.gov/news/mesh_rdf_beta_2015.html
+
+* http://www.nlm.nih.gov/news/mesh_rdf_beta_2015.html
+* https://en.wikipedia.org/wiki/Medical_Subject_Headings
+* https://en.wikipedia.org/wiki/List_of_MeSH_codes
+
+  * http://schema.org/code
+
+    "A medical code for the entity, taken from a controlled vocabulary or 
+    ontology such as ICD-9, DiseasesDB, **MeSH**, SNOMED-CT, RxNorm, etc."
+
 
 PubMed and Schema.org RDF
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
