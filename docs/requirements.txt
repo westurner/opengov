@@ -5,7 +5,7 @@ sphinx
 
 sphinxcontrib-srclinks
 
-sphinxcontrib-issuetracker
+#sphinxcontrib-issuetracker
 #sphinx_rtd_theme
 #sphinxcontrib-ansi
 #sphinxcontrib-programoutput

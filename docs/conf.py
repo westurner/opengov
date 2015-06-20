@@ -71,7 +71,7 @@ extensions = [
     'sphinx.ext.napoleon',
     #'sphinxcontrib.ansi',
     #'sphinxcontrib.programoutput',
-    'sphinxcontrib.issuetracker',
+    #'sphinxcontrib.issuetracker',
     'sphinxcontrib.srclinks'
 ]
 
