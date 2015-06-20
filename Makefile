@@ -60,30 +60,34 @@ localcss:
 	cat $(STATIC)/css/custom.css >> $(LOCALCSS)
 	cat $(STATIC)/css/leftnavbar.css >> $(LOCALCSS)
 
-
 docs-api:
 	rm -f docs/opengov/opengov.rst
 	rm -f docs/opengov/opengov.*.rst
 	sphinx-apidoc -T -M -o docs/opengov/ opengov
 
 docs: setup-docs clean-docs docs-api localjs localcss
-	$(MAKE) -C docs html
+	SPHINX_HTML_LINK_SUFFIX='' $(MAKE) -C docs html singlehtml
 	#$(MAKE) -C docs singlehtml
 
 docs-open: docs open
 
 UNAME:=$(shell uname)
-
 ifeq ($(UNAME), Darwin)
-BROWSER="open"
+BROWSER=open
 SEDOPTS=-i '' -e
 else
-BROWSER="x-www-browser"
+BROWSER=x-www-browser
 SEDOPTS=-i
 endif
 
+WEB=$(shell which web >/dev/null && echo 'true')
+ifeq ($(WEB), true)
+BROWSER=web
+endif
+
 open:
-	$(BROWSER) docs/_build/html/index.html
+	${BROWSER} ./docs/_build/html/index.html
+	#open docs/_build/singlehtml/index.html
 
 release: clean
 	python setup.py sdist upload
@@ -92,9 +96,15 @@ sdist: clean
 	python setup.py sdist
 	ls -l dist
 
-gh-pages:
+docs/_build/html/singlehtml:
+	test -d docs/_build/singlehtml && ( \
+	mv docs/_build/singlehtml docs/_build/html/singlehtml && \
+	ln -s docs/_build/html/singlehtml docs/_build/singlehtml;)  || echo true
+
+gh-pages: docs/_build/html/singlehtml
 	# Push docs to gh-pages branch with a .nojekyll file
 	ghp-import -n -p ./docs/_build/html/
+	#ghp-import -n -p ./docs/_build/singlehtml/
 
 pull:
 	git pull
@@ -102,3 +112,20 @@ pull:
 push:
 	git push
 
+setup-pgs:
+	# Install pgs
+	pip install pgs
+
+pgs:
+	# Serve locally built HTML over HTTP (with try_files $1.html)
+	pgs -p ./docs/_build/html -P 8082
+
+pgs-gh-pages:
+	# Serve gh-pages branch over HTTP (with try_files $1.html)
+	pgs -g . -r gh-pages -P 8083
+
+serve: pgs
+
+serve-gh-pages: pgs-gh-pages
+
+serveghp: serve-gh-pages
