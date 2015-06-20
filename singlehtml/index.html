@@ -1,0 +1,1522 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- OpenGraph metadata: ogp.me -->
+    <meta property="og:title" content="westurner/opengov 0.2.0 documentation" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="westurner/opengov" />
+    <!--
+    <meta property="og:description" content="Documentation for the opengov project" />
+    -->
+    <meta property="og:image" content="" />
+    <meta property="og:image:width" content="470" />
+    <meta property="og:image:height" content="242" />
+    <!--
+    <meta property="og:image:secure_url" content="./_static/img/logo.png" />
+    -->
+    <!-- Twitter metadata -->
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="westurner/opengov 0.2.0 documentation" />
+    <meta property="twitter:description" content="Documentation for the opengov project" />
+    <meta property="twitter:site" content="westurner" />
+    <meta property="twitter:creator" content="westurner" />
+    
+    <title>westurner/opengov 0.2.0 documentation</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    
+
+<link rel="stylesheet" href="_static/css/basicstrap-base.css" type="text/css" />
+<link rel="stylesheet" id="current-theme" href="_static/css/bootstrap3/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" id="current-adjust-theme" type="text/css" />
+
+<link rel="stylesheet" href="_static/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="_static/css/basicstrap.css" type="text/css" />
+<link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+<link rel="stylesheet" href="_static/css/local.css" type="text/css" />
+    
+<script type="text/javascript">
+  var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:    './',
+            VERSION:     '0.2.0',
+            COLLAPSE_INDEX: false,
+            FILE_SUFFIX: '.html',
+            HAS_SOURCE:  true
+  };
+</script>
+    <script type="text/javascript" src="_static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/js/local.js"></script>
+    <script type="text/javascript" src="_static/js/bootstrap3.min.js"></script>
+<script type="text/javascript" src="_static/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="_static/js/basicstrap.js"></script>
+<script type="text/javascript">
+</script>
+    <link rel="top" title="None" href="index.html#document-index" /> 
+  </head>
+  <body role="document">
+    <div id="navbar-top" class="navbar navbar-default" role="navigation" aria-label="top navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html#document-index">westurner/opengov 0.2.0 documentation</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+              <li class="dropdown visible-xs">
+                <a role="button" id="localToc" data-toggle="dropdown" data-target="#" href="#">Table Of Contents <b class="caret"></b></a>
+                <ul class="dropdown-menu localtoc sp-localtoc" role="menu" aria-labelledby="localToc">
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-open-government">Open Government</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-un/index">United Nations</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#millenium-development-goals">Millenium Development Goals</a></li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#sustainable-development-goals">Sustainable Development Goals</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-us/index">United States of America</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#legislative-branch">Legislative Branch</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="index.html#senate">Senate</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#house-of-representatives">House of Representatives</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#executive-branch">Executive Branch</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="index.html#president">President</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#vice-president">Vice President</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#chief-information-officer">Chief Information Officer</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#chief-data-scientist">Chief Data Scientist</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#chief-technology-officer">Chief Technology Officer</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#judicial-branch">Judicial Branch</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="index.html#supreme-court">Supreme Court</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#court-of-appeals">Court of Appeals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#district-court">District Court</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#united-states">United States</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="index.html#nebraska">Nebraska</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#document-us/ne/index">Nebraska</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="index.html#unicameral-legislature">Unicameral Legislature</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#governor">Governor</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#chief-information-officer">Chief Information Officer</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#nebraska-information-technology-commission">Nebraska Information Technology Commission</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#ideas">Ideas</a><ul>
+<li class="toctree-l6"><a class="reference internal" href="index.html#cs-as-stem-credit-for-hs-graduation">CS as STEM credit for HS graduation</a><ul>
+<li class="toctree-l7"><a class="reference internal" href="index.html#what-about-creating-computer-games">What about creating computer games?</a></li>
+<li class="toctree-l7"><a class="reference internal" href="index.html#cs-skills-for-stem-fields">CS skills for STEM fields</a></li>
+</ul>
+</li>
+<li class="toctree-l6"><a class="reference internal" href="index.html#linked-curricula-graphs">Linked Curricula Graphs</a></li>
+<li class="toctree-l6"><a class="reference internal" href="index.html#openbadges">OpenBadges</a></li>
+<li class="toctree-l6"><a class="reference internal" href="index.html#openbadges-backpack">OpenBadges Backpack</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="index.html#cool-projects">Cool Projects</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="index.html#us-digital-services-playbook">US Digital Services Playbook</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#document-us/us-digital-services-playbook">US Digital Services Playbook</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="index.html#understand-what-people-need">1. Understand what people need</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#address-the-whole-experience-from-start-to-finish">2. Address the whole experience, from start to finish</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#make-it-simple-and-intuitive">3. Make it simple and intuitive</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#build-the-service-using-agile-and-iterative-practices">4. Build the service using agile and iterative practices</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#structure-budgets-and-contracts-to-support-delivery">5. Structure budgets and contracts to support delivery</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#assign-one-leader-and-hold-that-person-accountable">6. Assign one leader and hold that person accountable</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#bring-in-experienced-teams">7. Bring in experienced teams</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#choose-a-modern-technology-stack">8. Choose a modern technology stack</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#deploy-in-a-flexible-hosting-environment">9. Deploy in a flexible hosting environment</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#automate-testing-and-deployments">10. Automate testing and deployments</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#manage-security-and-privacy-through-reusable-processes">11. Manage security and privacy through reusable processes</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#use-data-to-drive-decisions">12. Use data to drive decisions</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#default-to-open">13. Default to open</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#data">Data</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#data-gov">Data.gov</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#project-open-data">Project Open Data</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#rest-api-standards">REST API Standards</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#dice">DICE</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#apache-accumulo">Apache Accumulo</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#library-of-congress">Library of Congress</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#linked-open-data">5 ★ Linked Open Data</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#health">Health</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#precision-medicine-initiative">Precision Medicine Initiative</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#personal-health-agenda">Personal Health Agenda</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#healthcare-gov-hhs-cmms">Healthcare.gov (HHS CMMS)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#medline-plus-nih-nlm">Medline Plus (NIH NLM)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#pubmed-nih-nlm-ncbi">PubMed (NIH NLM NCBI)</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="index.html#meshrdf">MeshRDF</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#pubmed-and-schema-org-rdf">PubMed and Schema.org RDF</a></li>
+</ul>
+</li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#clinicaltrials-gov-nih-nlm">ClinicalTrials.gov (NIH NLM)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#umls-nih-nlm">UMLS (NIH NLM)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#national-cancer-institute-nih-nci">National Cancer Institute (NIH NCI)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#lexevs-nih-nci">LexEVS (NIH NCI)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#openfda-fda">OpenFDA (FDA)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#healthdata-gov-hhs">HealthData.gov (HHS)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#epa">EPA</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#myplate-usda">MyPlate (USDA)</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#science-technology">Science &amp; Technology</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#openstack">OpenStack</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#nasa">NASA</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#in-q-tel">In-Q-Tel</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#healthcare">Healthcare</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="index.html#document-us/healthcare">Healthcare in the United States</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="index.html#global-comparatives">Global Comparatives</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#raw-statistics">Raw Statistics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#structured-rankings">Structured Rankings</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#health-insurance-in-the-united-states">Health Insurance in the United States</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#health-insurance-programs">Health Insurance Programs</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="index.html#medicare">Medicare</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#medicaid">Medicaid</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#tricare">Tricare</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#va">VA</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#federal-employees-health-benefits">Federal Employees Health Benefits</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#group-health-plans">Group Health Plans</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#cobra">COBRA</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#federal-black-lung-benefits">Federal Black Lung Benefits</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#correctional-healthcare">Correctional Healthcare</a></li>
+</ul>
+</li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#ppaca">PPACA</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="index.html#healthcare-gov">Healthcare.gov</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#health-information-exchange">Health Information Exchange</a></li>
+<li class="toctree-l5"><a class="reference internal" href="index.html#minimum-medical-loss-ratio">Minimum Medical Loss Ratio</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#challenges">Challenges</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="index.html#conflict-of-interest">Conflict of Interest</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#data-interchange">Data Interchange</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#medical-loss-ratio">Medical Loss Ratio</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#preventative-care">Preventative Care</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#they">&#8220;They&#8221;</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#alternative-plans">Alternative Plans</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+                </ul>
+              </li>
+
+            
+            
+
+            <li class="visible-xs">
+                <form class="search form-search form-inline navbar-form navbar-right sp-searchbox" action="search.html" method="get">
+                  <div class="input-append input-group">
+                    <input type="text" class="search-query form-control" name="q" placeholder="Search...">
+                    <span class="input-group-btn">
+                    <input type="submit" class="btn" value="Go" />
+                    </span>
+                  </div>
+                  <input type="hidden" name="check_keywords" value="yes" />
+                  <input type="hidden" name="area" value="default" />
+                </form>
+            </li>
+
+            
+
+          </ul>
+
+        </div>
+      </div>
+    </div>
+    
+
+    <!-- container -->
+    <div class="container-fluid">
+
+      <!-- row -->
+      <div class="row">
+         
+<div class="col-md-3 hidden-xs" id="sidebar-wrapper">
+  <div class="sidebar hidden-xs" role="navigation" aria-label="main navigation">
+<h3><a href="index.html#document-index">Table Of Contents</a></h3>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-open-government">Open Government</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-un/index">United Nations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-us/index">United States of America</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#document-us/index#healthcare">Healthcare</a></li>
+</ul>
+
+<div id="searchbox" role="search">
+  <h3>Quick search</h3>
+  <form class="search form-inline" action="search.html" method="get">
+      <div class="input-append input-group">
+        <input type="text" class="search-query form-control" name="q" placeholder="Search...">
+        <span class="input-group-btn">
+        <input type="submit" class="btn" value="Go" />
+        </span>
+      </div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div><div class="widget">
+    <h3>Quick links</h3>
+    <ul>
+        <li><a href="https://westurner.org/opengov/">westurner.org/opengov</a></li>
+        <li><a href="https://github.com/westurner/opengov">github.com/westurner/opengov</a></li>
+        <li><a href="https://twitter.com/westurner">@westurner</a></li>
+    </ul>
+</div>
+  </div>
+</div> 
+        
+
+        <div class="col-md-9" id="content-wrapper">
+          <div class="document" role="main">
+            <div class="documentwrapper">
+              <div class="bodywrapper">
+                <div class="body">
+                  
+  <div class="section" id="opengov">
+<h1>opengov<a class="headerlink" href="#opengov" title="Permalink to this headline">¶</a></h1>
+<div class="toctree-wrapper compound">
+<span id="document-open-government"></span><div class="section" id="open-government">
+<h2>Open Government<a class="headerlink" href="#open-government" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Open_government">https://en.wikipedia.org/wiki/Open_government</a></div>
+</div>
+</div>
+<span id="document-un/index"></span><div class="section" id="united-nations">
+<h2>United Nations<a class="headerlink" href="#united-nations" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.un.org/en/">http://www.un.org/en/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_Nations">https://en.wikipedia.org/wiki/United_Nations</a></div>
+</div>
+<div class="section" id="millenium-development-goals">
+<h3>Millenium Development Goals<a class="headerlink" href="#millenium-development-goals" title="Permalink to this headline">¶</a></h3>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.un.org/millenniumgoals/">http://www.un.org/millenniumgoals/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Millennium_Development_Goals">https://en.wikipedia.org/wiki/Millennium_Development_Goals</a></div>
+</div>
+<p>2000 &#8211; 2015:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Eradicate extreme poverty and hunger</li>
+<li>Achieve universal primary education</li>
+<li>Promote gender equality and empower women</li>
+<li>Reduce child mortality</li>
+<li>Improve maternal health</li>
+<li>Combat HIV/AIDS, malaria, and other diseases</li>
+<li>Ensure environmental sustainability</li>
+<li>Develop a global partnership for development</li>
+</ol>
+</div></blockquote>
+</div>
+<div class="section" id="sustainable-development-goals">
+<h3>Sustainable Development Goals<a class="headerlink" href="#sustainable-development-goals" title="Permalink to this headline">¶</a></h3>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://sustainabledevelopment.un.org/focussdgs.html">https://sustainabledevelopment.un.org/focussdgs.html</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Sustainable_Development_Goals">https://en.wikipedia.org/wiki/Sustainable_Development_Goals</a></div>
+</div>
+<p>Draft Goals (2015 &#8211;):</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>End <strong>poverty</strong> in all its forms everywhere</li>
+<li>End <strong>hunger</strong>, achieve <strong>food security</strong> and improved
+<strong>nutrition</strong> and promote <strong>sustainable agriculture</strong></li>
+<li>Ensure <strong>healthy lives</strong> and promote well-being for all at all ages</li>
+<li>Ensure <strong>inclusive</strong> and <strong>equitable</strong> quality <strong>education</strong> and
+promote <strong>lifelong learning opportunities</strong> for all</li>
+<li>Achieve <strong>gender equality</strong> and <strong>empower</strong> all women and girls</li>
+<li>Ensure availability and <strong>sustainable management</strong> of
+<strong>water and sanitation</strong> for all</li>
+<li>Ensure access to affordable, reliable, sustainable and modern
+<strong>energy</strong> for all</li>
+<li>Promote sustained, inclusive and <strong>sustainable economic growth</strong>,
+<strong>full and productive employment</strong> and <strong>decent work for all</strong></li>
+<li>Build resilient <strong>infrastructure</strong>,
+promote inclusive and sustainable industrialization
+and <strong>foster innovation</strong></li>
+<li><strong>Reduce inequality</strong> within and among countries</li>
+<li>Make cities and human settlements
+<strong>inclusive</strong>, <strong>safe</strong>, <strong>resilient</strong> and <strong>sustainable</strong></li>
+<li>Ensure <strong>sustainable consumption and production patterns</strong></li>
+<li>Take urgent action to <strong>combat climate change</strong> and its impacts*</li>
+<li><strong>Conserve</strong> and sustainably use the <strong>oceans</strong>,
+<strong>seas</strong> and <strong>marine resources</strong> for sustainable development</li>
+<li>Protect, restore and promote sustainable use of <strong>terrestrial
+ecosystems</strong>,
+<strong>sustainably manage forests</strong>,
+<strong>combat desertification</strong>,
+and <strong>halt and reverse land degradation</strong>,
+and <strong>halt biodiversity loss</strong></li>
+<li>Promote
+<strong>peaceful and inclusive societies for sustainable development</strong>,
+provide access to <strong>justice for all</strong> and build <strong>effective</strong>,
+<strong>accountable</strong> and <strong>inclusive</strong> institutions at all levels</li>
+<li>Strengthen the means of implementation and
+<strong>revitalize the global partnership for sustainable development</strong></li>
+</ol>
+</div></blockquote>
+</div>
+</div>
+<span id="document-us/index"></span><div class="section" id="united-states-of-america">
+<h2>United States of America<a class="headerlink" href="#united-states-of-america" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://www.usa.gov/">https://www.usa.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_States">https://en.wikipedia.org/wiki/United_States</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Federal_government_of_the_United_States">https://en.wikipedia.org/wiki/Federal_government_of_the_United_States</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States">https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States</a></li>
+</ul>
+<div class="section" id="legislative-branch">
+<h3>Legislative Branch<a class="headerlink" href="#legislative-branch" title="Permalink to this headline">¶</a></h3>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://www.congress.gov/">https://www.congress.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_States_Congress">https://en.wikipedia.org/wiki/United_States_Congress</a></div>
+</div>
+<div class="section" id="senate">
+<h4>Senate<a class="headerlink" href="#senate" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://www.senate.gov/">https://www.senate.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_States_Senate">https://en.wikipedia.org/wiki/United_States_Senate</a></div>
+</div>
+</div>
+<div class="section" id="house-of-representatives">
+<h4>House of Representatives<a class="headerlink" href="#house-of-representatives" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.house.gov/">http://www.house.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_States_House_of_Representatives">https://en.wikipedia.org/wiki/United_States_House_of_Representatives</a></div>
+</div>
+</div>
+</div>
+<div class="section" id="executive-branch">
+<h3>Executive Branch<a class="headerlink" href="#executive-branch" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="president">
+<h4>President<a class="headerlink" href="#president" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://www.whitehouse.gov/">https://www.whitehouse.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/President_of_the_United_States">https://en.wikipedia.org/wiki/President_of_the_United_States</a></div>
+</div>
+</div>
+<div class="section" id="vice-president">
+<h4>Vice President<a class="headerlink" href="#vice-president" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://www.whitehouse.gov/">https://www.whitehouse.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Vice_President_of_the_United_States">https://en.wikipedia.org/wiki/Vice_President_of_the_United_States</a></div>
+</div>
+</div>
+<div class="section" id="chief-information-officer">
+<h4>Chief Information Officer<a class="headerlink" href="#chief-information-officer" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://cio.gov/">https://cio.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Federal_Chief_Information_Officer_of_the_United_States">https://en.wikipedia.org/wiki/Federal_Chief_Information_Officer_of_the_United_States</a></div>
+</div>
+<p>see: <a class="reference external" href="https://wrdrd.github.io/docs/consulting/knowledge-engineering.html">https://wrdrd.github.io/docs/consulting/knowledge-engineering.html</a></p>
+</div>
+<div class="section" id="chief-data-scientist">
+<h4>Chief Data Scientist<a class="headerlink" href="#chief-data-scientist" title="Permalink to this headline">¶</a></h4>
+<p><a class="reference external" href="http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist">http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist</a></p>
+<p>see: <a class="reference external" href="https://wrdrd.github.io/docs/consulting/data-science.html">https://wrdrd.github.io/docs/consulting/data-science.html</a></p>
+</div>
+<div class="section" id="chief-technology-officer">
+<h4>Chief Technology Officer<a class="headerlink" href="#chief-technology-officer" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Chief_Technology_Officer_of_the_United_States">https://en.wikipedia.org/wiki/Chief_Technology_Officer_of_the_United_States</a></div>
+</div>
+<p>see: <a class="reference external" href="https://wrdrd.github.io/docs/consulting/information-systems.html">https://wrdrd.github.io/docs/consulting/information-systems.html</a></p>
+</div>
+</div>
+<div class="section" id="judicial-branch">
+<h3>Judicial Branch<a class="headerlink" href="#judicial-branch" title="Permalink to this headline">¶</a></h3>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.uscourts.gov/">http://www.uscourts.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States">https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States</a></div>
+</div>
+<div class="section" id="supreme-court">
+<h4>Supreme Court<a class="headerlink" href="#supreme-court" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.supremecourt.gov/">http://www.supremecourt.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States">https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States</a></div>
+</div>
+</div>
+<div class="section" id="court-of-appeals">
+<h4>Court of Appeals<a class="headerlink" href="#court-of-appeals" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_States_courts_of_appeals">https://en.wikipedia.org/wiki/United_States_courts_of_appeals</a></div>
+</div>
+</div>
+<div class="section" id="district-court">
+<h4>District Court<a class="headerlink" href="#district-court" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_States_district_court">https://en.wikipedia.org/wiki/United_States_district_court</a></div>
+</div>
+</div>
+</div>
+<div class="section" id="united-states">
+<h3>United States<a class="headerlink" href="#united-states" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="nebraska">
+<h4>Nebraska<a class="headerlink" href="#nebraska" title="Permalink to this headline">¶</a></h4>
+<div class="toctree-wrapper compound">
+<span id="document-us/ne/index"></span><div class="section" id="nebraska">
+<h5>Nebraska<a class="headerlink" href="#nebraska" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.nebraska.gov/">http://www.nebraska.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Nebraska">https://en.wikipedia.org/wiki/Nebraska</a></div>
+</div>
+<ul class="simple">
+<li>37th State (1867)</li>
+<li>Population: ~ 1.8 million (2013)</li>
+<li>Capital: <a class="reference external" href="https://en.wikipedia.org/wiki/Lincoln,_Nebraska">Lincoln, Nebraska</a></li>
+<li>Largest City: <a class="reference external" href="https://en.wikipedia.org/wiki/Omaha,_Nebraska">Omaha, Nebraska</a></li>
+</ul>
+<div class="section" id="unicameral-legislature">
+<h6>Unicameral Legislature<a class="headerlink" href="#unicameral-legislature" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.nebraskalegislature.gov/">http://www.nebraskalegislature.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Nebraska_Legislature">https://en.wikipedia.org/wiki/Nebraska_Legislature</a></div>
+</div>
+</div>
+<div class="section" id="governor">
+<h6>Governor<a class="headerlink" href="#governor" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.governor.nebraska.gov/">http://www.governor.nebraska.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Governor_of_Nebraska">https://en.wikipedia.org/wiki/Governor_of_Nebraska</a></div>
+</div>
+</div>
+<div class="section" id="chief-information-officer">
+<h6>Chief Information Officer<a class="headerlink" href="#chief-information-officer" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.cio.nebraska.gov/">http://www.cio.nebraska.gov/</a></div>
+</div>
+</div>
+<div class="section" id="nebraska-information-technology-commission">
+<h6>Nebraska Information Technology Commission<a class="headerlink" href="#nebraska-information-technology-commission" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.nitc.nebraska.gov/">http://www.nitc.nebraska.gov/</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="http://www.nitc.nebraska.gov/state_gov_council/legislation.html">http://www.nitc.nebraska.gov/state_gov_council/legislation.html</a></li>
+</ul>
+</div>
+<div class="section" id="ideas">
+<h6>Ideas<a class="headerlink" href="#ideas" title="Permalink to this headline">¶</a></h6>
+<div class="section" id="cs-as-stem-credit-for-hs-graduation">
+<h7>CS as STEM credit for HS graduation<a class="headerlink" href="#cs-as-stem-credit-for-hs-graduation" title="Permalink to this headline">¶</a></h7>
+<ul>
+<li><p class="first"><a class="reference external" href="http://www.reddit.com/r/compsci/comments/1tjmd4/high_schools_not_meeting_stem_demand_only_9/ce8nmmx">http://www.reddit.com/r/compsci/comments/1tjmd4/high_schools_not_meeting_stem_demand_only_9/ce8nmmx</a>
+<a class="reference external" href="https://westurner.org/redditlog/#comment/ce8nmmx">https://westurner.org/redditlog/#comment/ce8nmmx</a></p>
+<blockquote>
+<div><p>By incentivizing study of Computer Science with credit for graduation, we may be more likely to meet demand for &#8220;One Million Additional College Graduates with Degrees in Science, Technology, Engineering, and Mathematics&#8221;</p>
+<ul class="simple">
+<li><a class="reference external" href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-engage-to-excel-final_2-25-12.pdf">http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-engage-to-excel-final_2-25-12.pdf</a></li>
+<li><a class="reference external" href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-executive-report-final_2-13-12.pdf">http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-executive-report-final_2-13-12.pdf</a></li>
+<li><a class="reference external" href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/fact_sheet_final.pdf">http://www.whitehouse.gov/sites/default/files/microsites/ostp/fact_sheet_final.pdf</a></li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+<div class="section" id="what-about-creating-computer-games">
+<h8>What about creating computer games?<a class="headerlink" href="#what-about-creating-computer-games" title="Permalink to this headline">¶</a></h8>
+<ul>
+<li><p class="first">Gamification</p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Gamification">https://en.wikipedia.org/wiki/Gamification</a></p>
+</li>
+<li><p class="first">Game Theory</p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Game_theory">https://en.wikipedia.org/wiki/Game_theory</a></p>
+</li>
+<li><p class="first">[ ] Which parts of gaming teach STEM mathematical systems with limits and interaction?</p>
+</li>
+</ul>
+</div>
+<div class="section" id="cs-skills-for-stem-fields">
+<h8>CS skills for STEM fields<a class="headerlink" href="#cs-skills-for-stem-fields" title="Permalink to this headline">¶</a></h8>
+<ul class="simple">
+<li><a class="reference external" href="https://wrdrd.com/docs/consulting/software-development#computer-science">https://wrdrd.com/docs/consulting/software-development#computer-science</a></li>
+<li><a class="reference internal" href="index.html#us-digital-services-playbook"><em>U.S. Digital Services Playbook</em></a></li>
+<li><a class="reference internal" href="index.html#cool-projects"><em>Cool Projects</em></a></li>
+</ul>
+</div>
+</div>
+<div class="section" id="linked-curricula-graphs">
+<h7>Linked Curricula Graphs<a class="headerlink" href="#linked-curricula-graphs" title="Permalink to this headline">¶</a></h7>
+<ul class="simple">
+<li><a class="reference external" href="https://westurner.org/self-directed-learning/slides.html#knowledge-graph">https://westurner.org/self-directed-learning/slides.html#knowledge-graph</a> (2012)</li>
+<li><a class="reference external" href="https://westurner.org/redditlog/#comment/ci3c1o3">https://westurner.org/redditlog/#comment/ci3c1o3</a> (2014)</li>
+<li>[ ] Link each component of the curriculum to a concept URI
+(e.g. Wikipedia (-&gt; DBpedia RDF &lt;- <a class="reference external" href="http://lod-cloud.net/">http://lod-cloud.net/</a>))<ul>
+<li>RDFa in Course Catalog / Index HTML pages would be helpful<ul>
+<li>&#8220;RDFa&#8221;: <a class="reference external" href="https://wrdrd.com/docs/consulting/knowledge-engineering#rdfa">https://wrdrd.com/docs/consulting/knowledge-engineering#rdfa</a></li>
+<li>schema.org/Course: <a class="reference external" href="https://github.com/schemaorg/schemaorg/issues/195">https://github.com/schemaorg/schemaorg/issues/195</a></li>
+</ul>
+</li>
+<li>Wikipedia Concept URIs:<ul>
+<li><a class="reference external" href="https://wrdrd.com/docs/consulting/data-science">https://wrdrd.com/docs/consulting/data-science</a></li>
+<li><a class="reference external" href="https://wrdrd.com/docs/consulting/knowledge-engineering">https://wrdrd.com/docs/consulting/knowledge-engineering</a></li>
+<li><a class="reference external" href="https://wrdrd.com/docs/consulting/education-technology">https://wrdrd.com/docs/consulting/education-technology</a> #</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="openbadges">
+<span id="index-0"></span><span id="id1"></span><h7>OpenBadges<a class="headerlink" href="#openbadges" title="Permalink to this headline">¶</a></h7>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://openbadges.org/">http://openbadges.org/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Mozilla_Open_Badges">https://en.wikipedia.org/wiki/Mozilla_Open_Badges</a></div>
+<div class="line">Standard: <a class="reference external" href="https://github.com/openbadges/openbadges-specification">https://github.com/openbadges/openbadges-specification</a></div>
+<div class="line">Docs: <a class="reference external" href="https://wiki.mozilla.org/Badges">https://wiki.mozilla.org/Badges</a></div>
+<div class="line">Twitter: <a class="reference external" href="https://twitter.com/openbadges">https://twitter.com/openbadges</a></div>
+</div>
+<ul>
+<li><p class="first">[ ] OpenBadges <strong>JSON</strong> Web Signatures and <strong>Schema.org</strong>
+<strong>RDFa</strong>, <strong>JSON-LD</strong>:</p>
+<p><a class="reference external" href="https://github.com/openbadges/openbadges-specification/issues/9">https://github.com/openbadges/openbadges-specification/issues/9</a></p>
+</li>
+</ul>
+</div>
+<div class="section" id="openbadges-backpack">
+<span id="index-1"></span><span id="id2"></span><h7>OpenBadges Backpack<a class="headerlink" href="#openbadges-backpack" title="Permalink to this headline">¶</a></h7>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://backpack.openbadges.org/backpack/">https://backpack.openbadges.org/backpack/</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/mozilla/openbadges-backpack">https://github.com/mozilla/openbadges-backpack</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="cool-projects">
+<span id="index-0"></span><span id="id1"></span><h3>Cool Projects<a class="headerlink" href="#cool-projects" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="us-digital-services-playbook">
+<h4>US Digital Services Playbook<a class="headerlink" href="#us-digital-services-playbook" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://playbook.cio.gov/">https://playbook.cio.gov/</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/whitehouse/playbook">https://github.com/whitehouse/playbook</a></div>
+</div>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Understand what people need</li>
+<li>Address the whole experience, from start to finish</li>
+<li>Make it simple and intuitive</li>
+<li>Build the service using agile and iterative practices</li>
+<li>Structure budgets and contracts to support delivery</li>
+<li>Assign one leader and hold that person accountable</li>
+<li>Bring in experienced teams</li>
+<li>Choose a modern technology stack</li>
+<li>Deploy in a flexible hosting environment</li>
+<li>Automate testing and deployments</li>
+<li>Manage security and privacy through reusable processes</li>
+<li>Use data to drive decisions</li>
+<li>Default to open</li>
+</ol>
+</div></blockquote>
+<div class="toctree-wrapper compound">
+<span id="document-us/us-digital-services-playbook"></span><div class="section" id="us-digital-services-playbook">
+<span id="index-0"></span><span id="id1"></span><h5>US Digital Services Playbook<a class="headerlink" href="#us-digital-services-playbook" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://playbook.cio.gov/">https://playbook.cio.gov/</a></div>
+</div>
+<div class="section" id="understand-what-people-need">
+<h6>1. Understand what people need<a class="headerlink" href="#understand-what-people-need" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play1">https://playbook.cio.gov/#play1</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Want">https://en.wikipedia.org/wiki/Want</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Need">https://en.wikipedia.org/wiki/Need</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Utility">https://en.wikipedia.org/wiki/Utility</a></li>
+</ul>
+</div>
+<div class="section" id="address-the-whole-experience-from-start-to-finish">
+<h6>2. Address the whole experience, from start to finish<a class="headerlink" href="#address-the-whole-experience-from-start-to-finish" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play2">https://playbook.cio.gov/#play2</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/User_experience">https://en.wikipedia.org/wiki/User_experience</a> (UX)</li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/User_experience_design">https://en.wikipedia.org/wiki/User_experience_design</a> (UXD)</li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/User_experience_evaluation">https://en.wikipedia.org/wiki/User_experience_evaluation</a> (UXA)</li>
+</ul>
+</div>
+<div class="section" id="make-it-simple-and-intuitive">
+<h6>3. Make it simple and intuitive<a class="headerlink" href="#make-it-simple-and-intuitive" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play3">https://playbook.cio.gov/#play3</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wiktionary.org/wiki/simple">https://en.wiktionary.org/wiki/simple</a></li>
+<li><a class="reference external" href="https://en.wiktionary.org/wiki/intuitive">https://en.wiktionary.org/wiki/intuitive</a></li>
+<li><a class="reference external" href="https://en.wiktionary.org/wiki/easy">https://en.wiktionary.org/wiki/easy</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/User_interface">https://en.wikipedia.org/wiki/User_interface</a></li>
+</ul>
+</div>
+<div class="section" id="build-the-service-using-agile-and-iterative-practices">
+<h6>4. Build the service using agile and iterative practices<a class="headerlink" href="#build-the-service-using-agile-and-iterative-practices" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play4">https://playbook.cio.gov/#play4</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Agile_software_development">https://en.wikipedia.org/wiki/Agile_software_development</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">https://en.wikipedia.org/wiki/Iterative_and_incremental_development</a></li>
+</ul>
+</div>
+<div class="section" id="structure-budgets-and-contracts-to-support-delivery">
+<h6>5. Structure budgets and contracts to support delivery<a class="headerlink" href="#structure-budgets-and-contracts-to-support-delivery" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play5">https://playbook.cio.gov/#play5</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://playbook.cio.gov/techfar/">https://playbook.cio.gov/techfar/</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Requirements_analysis">https://en.wikipedia.org/wiki/Requirements_analysis</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Agile_modeling">https://en.wikipedia.org/wiki/Agile_modeling</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Agile_management">https://en.wikipedia.org/wiki/Agile_management</a></li>
+</ul>
+</div>
+<div class="section" id="assign-one-leader-and-hold-that-person-accountable">
+<h6>6. Assign one leader and hold that person accountable<a class="headerlink" href="#assign-one-leader-and-hold-that-person-accountable" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play6">https://playbook.cio.gov/#play6</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Leadership">https://en.wikipedia.org/wiki/Leadership</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Accountability">https://en.wikipedia.org/wiki/Accountability</a></li>
+</ul>
+</div>
+<div class="section" id="bring-in-experienced-teams">
+<h6>7. Bring in experienced teams<a class="headerlink" href="#bring-in-experienced-teams" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play7">https://playbook.cio.gov/#play7</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Team">https://en.wikipedia.org/wiki/Team</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Cross-functional_team">https://en.wikipedia.org/wiki/Cross-functional_team</a></li>
+</ul>
+</div>
+<div class="section" id="choose-a-modern-technology-stack">
+<h6>8. Choose a modern technology stack<a class="headerlink" href="#choose-a-modern-technology-stack" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play8">https://playbook.cio.gov/#play8</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wiktionary.org/wiki/modern">https://en.wiktionary.org/wiki/modern</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Technology_stack">https://en.wikipedia.org/wiki/Technology_stack</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Component-based_software_engineering">https://en.wikipedia.org/wiki/Component-based_software_engineering</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Distributed_computing">https://en.wikipedia.org/wiki/Distributed_computing</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Web_service">https://en.wikipedia.org/wiki/Web_service</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Representational_state_transfer">https://en.wikipedia.org/wiki/Representational_state_transfer</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Software_documentation">https://en.wikipedia.org/wiki/Software_documentation</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Open-source_software">https://en.wikipedia.org/wiki/Open-source_software</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Long-term_support">https://en.wikipedia.org/wiki/Long-term_support</a></li>
+</ul>
+</div>
+<div class="section" id="deploy-in-a-flexible-hosting-environment">
+<h6>9. Deploy in a flexible hosting environment<a class="headerlink" href="#deploy-in-a-flexible-hosting-environment" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play9">https://playbook.cio.gov/#play9</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/DevOps">https://en.wikipedia.org/wiki/DevOps</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Web_hosting_service">https://en.wikipedia.org/wiki/Web_hosting_service</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Cloud_computing">https://en.wikipedia.org/wiki/Cloud_computing</a></li>
+</ul>
+</div>
+<div class="section" id="automate-testing-and-deployments">
+<h6>10. Automate testing and deployments<a class="headerlink" href="#automate-testing-and-deployments" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play10">https://playbook.cio.gov/#play10</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Test_automation">https://en.wikipedia.org/wiki/Test_automation</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Test-driven_development">https://en.wikipedia.org/wiki/Test-driven_development</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/DevOps">https://en.wikipedia.org/wiki/DevOps</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Continuous_integration#Best_practices">https://en.wikipedia.org/wiki/Continuous_integration#Best_practices</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Continuous_delivery">https://en.wikipedia.org/wiki/Continuous_delivery</a></li>
+</ul>
+</div>
+<div class="section" id="manage-security-and-privacy-through-reusable-processes">
+<h6>11. Manage security and privacy through reusable processes<a class="headerlink" href="#manage-security-and-privacy-through-reusable-processes" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play11">https://playbook.cio.gov/#play11</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Information_security">https://en.wikipedia.org/wiki/Information_security</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Information_privacy">https://en.wikipedia.org/wiki/Information_privacy</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Reusability">https://en.wikipedia.org/wiki/Reusability</a></li>
+</ul>
+</div>
+<div class="section" id="use-data-to-drive-decisions">
+<h6>12. Use data to drive decisions<a class="headerlink" href="#use-data-to-drive-decisions" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play12">https://playbook.cio.gov/#play12</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="http://www.data.gov/">http://www.data.gov/</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Data.gov">https://en.wikipedia.org/wiki/Data.gov</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Data_driven">https://en.wikipedia.org/wiki/Data_driven</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Data_science">https://en.wikipedia.org/wiki/Data_science</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Data_visualization">https://en.wikipedia.org/wiki/Data_visualization</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Infographic">https://en.wikipedia.org/wiki/Infographic</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Feedback">https://en.wikipedia.org/wiki/Feedback</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Glossary_of_systems_theory">https://en.wikipedia.org/wiki/Glossary_of_systems_theory</a></li>
+</ul>
+</div>
+<div class="section" id="default-to-open">
+<h6>13. Default to open<a class="headerlink" href="#default-to-open" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://playbook.cio.gov/#play13">https://playbook.cio.gov/#play13</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Open_government">https://en.wikipedia.org/wiki/Open_government</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Open_science">https://en.wikipedia.org/wiki/Open_science</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Open_data">https://en.wikipedia.org/wiki/Open_data</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Open_source">https://en.wikipedia.org/wiki/Open_source</a></li>
+</ul>
+</div>
+</div>
+</div>
+<p>See: <a class="reference internal" href="index.html#us-digital-services-playbook"><em>U.S. Digital Services Playbook</em></a></p>
+</div>
+<div class="section" id="data">
+<h4>Data<a class="headerlink" href="#data" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="data-gov">
+<h5>Data.gov<a class="headerlink" href="#data-gov" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Hompage: <a class="reference external" href="http://www.data.gov">http://www.data.gov</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/GSA/data.gov">https://github.com/GSA/data.gov</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="http://www.data.gov/food">http://www.data.gov/food</a></li>
+<li><a class="reference external" href="http://www.data.gov/business">http://www.data.gov/business</a></li>
+<li><a class="reference external" href="http://www.data.gov/climate">http://www.data.gov/climate</a></li>
+<li><a class="reference external" href="http://www.data.gov/consumer">http://www.data.gov/consumer</a></li>
+<li><a class="reference external" href="http://www.data.gov/ecosystems">http://www.data.gov/ecosystems</a></li>
+<li><a class="reference external" href="http://www.data.gov/education">http://www.data.gov/education</a></li>
+<li><a class="reference external" href="http://www.data.gov/energy">http://www.data.gov/energy</a></li>
+<li><a class="reference external" href="http://www.data.gov/finance">http://www.data.gov/finance</a></li>
+<li><a class="reference external" href="http://www.data.gov/health">http://www.data.gov/health</a></li>
+<li><a class="reference external" href="http://www.data.gov/local">http://www.data.gov/local</a></li>
+<li><a class="reference external" href="http://www.data.gov/manufacturing">http://www.data.gov/manufacturing</a></li>
+<li><a class="reference external" href="http://www.data.gov/ocean">http://www.data.gov/ocean</a></li>
+<li><a class="reference external" href="http://www.data.gov/safety">http://www.data.gov/safety</a></li>
+<li><a class="reference external" href="http://www.data.gov/research">http://www.data.gov/research</a></li>
+</ul>
+</div>
+<div class="section" id="project-open-data">
+<span id="pod"></span><h5>Project Open Data<a class="headerlink" href="#project-open-data" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://project-open-data.github.io/">https://project-open-data.github.io/</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/project-open-data/project-open-data.github.io">https://github.com/project-open-data/project-open-data.github.io</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://project-open-data.cio.gov/v1.1/schema/">https://project-open-data.cio.gov/v1.1/schema/</a> (JSON (-&gt; JSON-LD -&gt; RDF))<ul>
+<li><a class="reference external" href="https://project-open-data.cio.gov/v1.1/schema/catalog.json">https://project-open-data.cio.gov/v1.1/schema/catalog.json</a> (JSON)</li>
+<li><a class="reference external" href="https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld">https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld</a> (JSON-LD)</li>
+</ul>
+</li>
+<li><a class="reference external" href="https://project-open-data.cio.gov/v1.1/metadata-resources/#field-mappings">https://project-open-data.cio.gov/v1.1/metadata-resources/#field-mappings</a><ul>
+<li>POD, CKAN, DCAT RDF, <a class="reference external" href="http://schema.org">http://schema.org</a> RDF</li>
+</ul>
+</li>
+<li><code class="docutils literal"><span class="pre">ckanext-datajson</span></code> CKAN extension to generate the POD <code class="docutils literal"><span class="pre">/data.json</span></code>
+JSON-LD from CKAN:
+<a class="reference external" href="https://github.com/HHS/ckanext-datajson">https://github.com/HHS/ckanext-datajson</a></li>
+</ul>
+</div>
+<div class="section" id="rest-api-standards">
+<h5>REST API Standards<a class="headerlink" href="#rest-api-standards" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Source: <a class="reference external" href="https://github.com/whitehouse/api-standards">https://github.com/whitehouse/api-standards</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Representational_state_transfer">https://en.wikipedia.org/wiki/Representational_state_transfer</a></li>
+</ul>
+</div>
+<div class="section" id="dice">
+<h5>DICE<a class="headerlink" href="#dice" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Source: <a class="reference external" href="https://github.com/ngageoint/disconnected-content-explorer-android">https://github.com/ngageoint/disconnected-content-explorer-android</a></div>
+</div>
+</div>
+<div class="section" id="apache-accumulo">
+<h5>Apache Accumulo<a class="headerlink" href="#apache-accumulo" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://accumulo.apache.org/">https://accumulo.apache.org/</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/apache/accumulo">https://github.com/apache/accumulo</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Apache_Accumulo">https://en.wikipedia.org/wiki/Apache_Accumulo</a></div>
+</div>
+<ul class="simple">
+<li>&#8220;Rya&#8221; (RDF Linked Data)</li>
+</ul>
+</div>
+<div class="section" id="library-of-congress">
+<h5>Library of Congress<a class="headerlink" href="#library-of-congress" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.loc.gov/">http://www.loc.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Library_of_Congress">https://en.wikipedia.org/wiki/Library_of_Congress</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="http://catalog.loc.gov/">http://catalog.loc.gov/</a></li>
+<li><a class="reference external" href="http://id.loc.gov/download/">http://id.loc.gov/download/</a> (RDF Linked Data)</li>
+</ul>
+</div>
+<div class="section" id="linked-open-data">
+<h5>5 ★ Linked Open Data<a class="headerlink" href="#linked-open-data" title="Permalink to this headline">¶</a></h5>
+<p><a class="reference external" href="http://5stardata.info/">http://5stardata.info/</a></p>
+<ul class="simple">
+<li><a class="reference external" href="http://www.w3.org/TR/ld-glossary/#x5-star-linked-open-data">http://www.w3.org/TR/ld-glossary/#x5-star-linked-open-data</a></li>
+<li><a class="reference external" href="http://www.w3.org/TR/ld-glossary/#linked-data-principles">http://www.w3.org/TR/ld-glossary/#linked-data-principles</a></li>
+<li><a class="reference external" href="http://www.w3.org/TR/ld-glossary/#comma-separated-values-csv">http://www.w3.org/TR/ld-glossary/#comma-separated-values-csv</a> (CSV)</li>
+<li><a class="reference external" href="http://www.w3.org/TR/ld-glossary/#rdf">http://www.w3.org/TR/ld-glossary/#rdf</a> (RDF)</li>
+<li><a class="reference external" href="http://www.w3.org/TR/ld-glossary/#rdfa">http://www.w3.org/TR/ld-glossary/#rdfa</a> (RDFa)</li>
+<li><a class="reference external" href="http://www.w3.org/TR/ld-glossary/#json">http://www.w3.org/TR/ld-glossary/#json</a> (JSON)</li>
+<li><a class="reference external" href="http://www.w3.org/TR/ld-glossary/#json-ld">http://www.w3.org/TR/ld-glossary/#json-ld</a> (JSON-LD)</li>
+</ul>
+</div>
+</div>
+<div class="section" id="health">
+<h4>Health<a class="headerlink" href="#health" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="precision-medicine-initiative">
+<h5>Precision Medicine Initiative<a class="headerlink" href="#precision-medicine-initiative" title="Permalink to this headline">¶</a></h5>
+<p><a class="reference external" href="http://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama-s-precision-medicine-initiative">http://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama-s-precision-medicine-initiative</a></p>
+<ul class="simple">
+<li>More and better treatments for cancer</li>
+<li>Creation of a voluntary national research cohort</li>
+<li>Commitment to protecting privacy</li>
+<li>Regulatory modernization</li>
+<li>Public-private partnerships</li>
+</ul>
+</div>
+<div class="section" id="personal-health-agenda">
+<h5>Personal Health Agenda<a class="headerlink" href="#personal-health-agenda" title="Permalink to this headline">¶</a></h5>
+<p>Goals:</p>
+<ul class="simple">
+<li>Maximize utility of health data (through network effects)</li>
+<li>Ask and answer questions to improve outcomes</li>
+<li>Support case-history-aware epidemiological meta-analysis
+[&#8220;controlling for factors&#8221;, &#8220;systematic review&#8221;] (PRISMA, QUOROM)</li>
+</ul>
+<p>Objectives:</p>
+<ul class="simple">
+<li>Link available resources together with common identifiers and vocabulary
+[&#8220;URIs&#8221;, &#8220;Linked Data&#8221;, &#8220;Semantic Web&#8221;, &#8220;RDF&#8221;, &#8220;RDFa&#8221;]<ul>
+<li><a class="reference external" href="http://www.w3.org/wiki/HCLSIG/LODD/Data">http://www.w3.org/wiki/HCLSIG/LODD/Data</a></li>
+</ul>
+</li>
+<li>Add RDFa tags to existing HTML templates [&#8220;Linked Data&#8221;, &#8220;MedicalEntity&#8221;]</li>
+<li>Lookup relevant datasets</li>
+<li>Lookup relevant datasets across languages and coding systems</li>
+<li>Encourage sharing of non-PHI data</li>
+<li>Encourage sharing of non-PHI data with units</li>
+<li>Lookup and automatedly analyze relevant datasets
+(before reading an abstract or a conclusion) with a number of models
+and random seeds [&#8220;blind statistical analysis&#8221;,
+&#8220;masked statistical analysis&#8221;]</li>
+<li>Develop an RDFS vocabulary for describing study controls and protocols with URIs [&#8220;Study Protocol&#8221;]<ul>
+<li>MedicalStudy, MedicalObservationalStudy, MedicalTrial</li>
+<li>RCT?</li>
+<li>Which groups were masked? (single, double, triple is not sufficient)</li>
+</ul>
+</li>
+<li>Develop RDFS vocabulary predicates for linking between
+similar and concurring / discordant reproductions of studies
+[&#8220;Reproducibility&#8221;, &#8220;Repeatability&#8221;]</li>
+<li>Develop a platform for collaborative systematic review<ul>
+<li>Linked Data (RDF)</li>
+<li>OpenAnnotation</li>
+<li>Structured Reviews</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="healthcare-gov-hhs-cmms">
+<span id="healthcaredotgov"></span><h5>Healthcare.gov (HHS CMMS)<a class="headerlink" href="#healthcare-gov-hhs-cmms" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://www.healthcare.gov/">https://www.healthcare.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/HealthCare.gov">https://en.wikipedia.org/wiki/HealthCare.gov</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://www.healthcare.gov/developers/">https://www.healthcare.gov/developers/</a></li>
+<li>[ ] TODO: create RDFa vocabulary for health plans</li>
+<li>[ ] TODO: add RDFa to individual plan pages</li>
+<li>[ ] TODO: search engine to index RDFa vocabulary</li>
+<li>[ ] TODO: encourage carriers to add RDFa to describe their servcies</li>
+</ul>
+</div>
+<div class="section" id="medline-plus-nih-nlm">
+<h5>Medline Plus (NIH NLM)<a class="headerlink" href="#medline-plus-nih-nlm" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.nlm.nih.gov/medlineplus/">http://www.nlm.nih.gov/medlineplus/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/MedlinePlus">https://en.wikipedia.org/wiki/MedlinePlus</a></div>
+</div>
+<ul class="simple">
+<li>Health Info: <a class="reference external" href="http://www.nlm.nih.gov/medlineplus/healthtopics.html">http://www.nlm.nih.gov/medlineplus/healthtopics.html</a></li>
+<li>Drug Info: <a class="reference external" href="http://www.nlm.nih.gov/medlineplus/druginformation.html">http://www.nlm.nih.gov/medlineplus/druginformation.html</a></li>
+<li><a class="reference external" href="http://www.nlm.nih.gov/medlineplus/videosandcooltools.html">http://www.nlm.nih.gov/medlineplus/videosandcooltools.html</a></li>
+<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)<ul>
+<li>parse_medline.py: <a class="reference external" href="https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py">https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py</a></li>
+<li>[ ] see the schema.org types listed under <a class="reference internal" href="#openfda-fda">OpenFDA (FDA)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="pubmed-nih-nlm-ncbi">
+<h5>PubMed (NIH NLM NCBI)<a class="headerlink" href="#pubmed-nih-nlm-ncbi" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://www.ncbi.nlm.nih.gov/pubmed/">https://www.ncbi.nlm.nih.gov/pubmed/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/PubMed">https://en.wikipedia.org/wiki/PubMed</a></div>
+</div>
+<div class="section" id="meshrdf">
+<h6>MeshRDF<a class="headerlink" href="#meshrdf" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Source: <a class="reference external" href="https://github.com/HHS/meshrdf">https://github.com/HHS/meshrdf</a></div>
+<div class="line">Homepage: <a class="reference external" href="https://hhs.github.io/meshrdf/">https://hhs.github.io/meshrdf/</a></div>
+<div class="line">Docs: <a class="reference external" href="https://hhs.github.io/meshrdf/concepts.html">https://hhs.github.io/meshrdf/concepts.html</a></div>
+<div class="line">Docs: <a class="reference external" href="https://hhs.github.io/meshrdf/release-notes.html">https://hhs.github.io/meshrdf/release-notes.html</a></div>
+</div>
+<ul>
+<li><p class="first"><a class="reference external" href="http://www.nlm.nih.gov/news/mesh_rdf_beta_2015.html">http://www.nlm.nih.gov/news/mesh_rdf_beta_2015.html</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="https://en.wikipedia.org/wiki/Medical_Subject_Headings">https://en.wikipedia.org/wiki/Medical_Subject_Headings</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="https://en.wikipedia.org/wiki/List_of_MeSH_codes">https://en.wikipedia.org/wiki/List_of_MeSH_codes</a></p>
+<ul>
+<li><p class="first"><a class="reference external" href="http://schema.org/code">http://schema.org/code</a></p>
+<p>&#8220;A medical code for the entity, taken from a controlled vocabulary or
+ontology such as ICD-9, DiseasesDB, <strong>MeSH</strong>, SNOMED-CT, RxNorm, etc.&#8221;</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="pubmed-and-schema-org-rdf">
+<h6>PubMed and Schema.org RDF<a class="headerlink" href="#pubmed-and-schema-org-rdf" title="Permalink to this headline">¶</a></h6>
+<ul class="simple">
+<li><a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/</a> (RDF Linked Data)</li>
+<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)<ul>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalWebPage">http://schema.org/MedicalWebPage</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalEntity">http://schema.org/MedicalEntity</a></li>
+<li>Supports MESH through <a class="reference external" href="http://schema.org/MedicalCode">http://schema.org/MedicalCode</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalScholarlyArticle">http://schema.org/MedicalScholarlyArticle</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalStudy">http://schema.org/MedicalStudy</a><ul>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalObservationalStudy">http://schema.org/MedicalObservationalStudy</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalTrial">http://schema.org/MedicalTrial</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="clinicaltrials-gov-nih-nlm">
+<h5>ClinicalTrials.gov (NIH NLM)<a class="headerlink" href="#clinicaltrials-gov-nih-nlm" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://clinicaltrials.gov">https://clinicaltrials.gov</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/ClinicalTrials.gov">https://en.wikipedia.org/wiki/ClinicalTrials.gov</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="http://linkedct.org/">http://linkedct.org/</a> (RDF linked data (delayed; third-party))<ul>
+<li><a class="reference external" href="http://data.linkedct.org/sparql">http://data.linkedct.org/sparql</a></li>
+</ul>
+</li>
+<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)<ul>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalTrial">http://schema.org/MedicalTrial</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="umls-nih-nlm">
+<h5>UMLS (NIH NLM)<a class="headerlink" href="#umls-nih-nlm" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.nlm.nih.gov/research/umls/">http://www.nlm.nih.gov/research/umls/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Unified_Medical_Language_System">https://en.wikipedia.org/wiki/Unified_Medical_Language_System</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/ncbo/umls2rdf">https://github.com/ncbo/umls2rdf</a> (RDF Linked Data)</li>
+<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)<ul>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalWebPage">http://schema.org/MedicalWebPage</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="national-cancer-institute-nih-nci">
+<h5>National Cancer Institute (NIH NCI)<a class="headerlink" href="#national-cancer-institute-nih-nci" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.cancer.gov/">http://www.cancer.gov/</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/NCIP">https://github.com/NCIP</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/National_Cancer_Institute">https://en.wikipedia.org/wiki/National_Cancer_Institute</a></div>
+</div>
+</div>
+<div class="section" id="lexevs-nih-nci">
+<h5>LexEVS (NIH NCI)<a class="headerlink" href="#lexevs-nih-nci" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Docs: <a class="reference external" href="https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+Architecture">https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+Architecture</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/NCIP/LexEVS">https://github.com/NCIP/LexEVS</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+OWL+Export+Guide">https://wiki.nci.nih.gov/display/LexEVS/LexEVS+6.x+OWL+Export+Guide</a>
+(RDF Linked Data)</li>
+<li>TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)<ul>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalWebPage">http://schema.org/MedicalWebPage</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="openfda-fda">
+<h5>OpenFDA (FDA)<a class="headerlink" href="#openfda-fda" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="https://open.fda.gov/">https://open.fda.gov/</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/FDA/openfda">https://github.com/FDA/openfda</a></div>
+</div>
+<ul>
+<li><p class="first"><a class="reference external" href="https://open.fda.gov/api/reference/">https://open.fda.gov/api/reference/</a> (JSON Data)</p>
+<ul class="simple">
+<li>[ ] TODO: <a class="reference external" href="http://json-ld.org/">http://json-ld.org/</a> <code class="docutils literal"><span class="pre">&#64;context</span></code> -&gt; RDF Linked Data<ul>
+<li><a class="reference external" href="https://github.com/FDA/openfda/issues/5">https://github.com/FDA/openfda/issues/5</a></li>
+<li><a class="reference external" href="https://github.com/westurner/elasticsearchjsonld">https://github.com/westurner/elasticsearchjsonld</a></li>
+<li><a class="reference external" href="https://github.com/westurner/openfda-jsonld-testing">https://github.com/westurner/openfda-jsonld-testing</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p class="first">[ ] TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)</p>
+<ul class="simple">
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalWebPage">http://schema.org/MedicalWebPage</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalDevice">http://schema.org/MedicalDevice</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalTherapy">http://schema.org/MedicalTherapy</a><ul>
+<li>[ ] <a class="reference external" href="http://schema.org/Drug">http://schema.org/Drug</a></li>
+</ul>
+</li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalCondition">http://schema.org/MedicalCondition</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalIndication">http://schema.org/MedicalIndication</a><ul>
+<li>[ ] <a class="reference external" href="http://schema.org/ApprovedIndication">http://schema.org/ApprovedIndication</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/PreventionIndication">http://schema.org/PreventionIndication</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/TreatmentIndication">http://schema.org/TreatmentIndication</a></li>
+</ul>
+</li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalContraindication">http://schema.org/MedicalContraindication</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/adverseOutcome">http://schema.org/adverseOutcome</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/seriousAdverseOutcome">http://schema.org/seriousAdverseOutcome</a></li>
+<li>[ ] <a class="reference external" href="http://schema.org/MedicalSignOrSymptom">http://schema.org/MedicalSignOrSymptom</a></li>
+</ul>
+</li>
+<li><p class="first">[x] BLD: Dockerfiles for testing</p>
+<p><a class="reference external" href="https://github.com/FDA/openfda/issues/45">https://github.com/FDA/openfda/issues/45</a></p>
+</li>
+<li><p class="first">[ ] ENH: Adverse Event Count / Prescription Count Heatmap</p>
+<p><a class="reference external" href="https://github.com/FDA/openfda/issues/49">https://github.com/FDA/openfda/issues/49</a></p>
+</li>
+</ul>
+</div>
+<div class="section" id="healthdata-gov-hhs">
+<h5>HealthData.gov (HHS)<a class="headerlink" href="#healthdata-gov-hhs" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.healthdata.gov/">http://www.healthdata.gov/</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="http://www.healthdata.gov/dataset/search">http://www.healthdata.gov/dataset/search</a></li>
+<li><a class="reference external" href="http://hub.healthdata.gov/">http://hub.healthdata.gov/</a></li>
+<li><a class="reference external" href="http://hub.healthdata.gov/data.json">http://hub.healthdata.gov/data.json</a><ul>
+<li><a class="reference external" href="https://github.com/HHS/ckanext-datajson">https://github.com/HHS/ckanext-datajson</a> (<a class="reference internal" href="#project-open-data">Project Open Data</a> JSON)</li>
+</ul>
+</li>
+<li>[ ] TODO: <a class="reference external" href="http://schema.org/docs/meddocs.html">http://schema.org/docs/meddocs.html</a> (RDFa Linked Data)</li>
+<li>seeAlso: <a class="reference internal" href="#data-gov">Data.gov</a></li>
+</ul>
+</div>
+<div class="section" id="epa">
+<h5>EPA<a class="headerlink" href="#epa" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.epa.gov/">http://www.epa.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency">https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="http://www.epa.gov/datafinder/">http://www.epa.gov/datafinder/</a></li>
+<li><a class="reference external" href="http://www.epa.gov/airdata/">http://www.epa.gov/airdata/</a><ul>
+<li><a class="reference external" href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html</a> (CSV Data)<ul>
+<li>TODO: <a class="reference external" href="http://www.w3.org/TR/csv2rdf/">http://www.w3.org/TR/csv2rdf/</a> + Metadata -&gt; RDF Linked Data</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="myplate-usda">
+<h5>MyPlate (USDA)<a class="headerlink" href="#myplate-usda" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.ChooseMyPlate.gov/">http://www.ChooseMyPlate.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/MyPlate">https://en.wikipedia.org/wiki/MyPlate</a></div>
+</div>
+</div>
+</div>
+<div class="section" id="science-technology">
+<h4>Science &amp; Technology<a class="headerlink" href="#science-technology" title="Permalink to this headline">¶</a></h4>
+<p><strong>Office of Science and Technology Policy</strong></p>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.ostp.gov/">http://www.ostp.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy">https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy</a></div>
+</div>
+<div class="section" id="openstack">
+<h5>OpenStack<a class="headerlink" href="#openstack" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.openstack.org/">http://www.openstack.org/</a></div>
+<div class="line">Source: <a class="reference external" href="https://github.com/openstack">https://github.com/openstack</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/OpenStack">https://en.wikipedia.org/wiki/OpenStack</a></div>
+</div>
+</div>
+<div class="section" id="nasa">
+<h5>NASA<a class="headerlink" href="#nasa" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Homepage: <a class="reference external" href="http://www.nasa.gov/">http://www.nasa.gov/</a></div>
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/NASA">https://en.wikipedia.org/wiki/NASA</a></div>
+</div>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/NASA_spin-off_technologies">https://en.wikipedia.org/wiki/NASA_spin-off_technologies</a></li>
+<li><a class="reference external" href="http://spinoff.nasa.gov/">http://spinoff.nasa.gov/</a></li>
+<li><a class="reference external" href="http://instagram.com/nasa">http://instagram.com/nasa</a></li>
+<li><a class="reference external" href="https://twitter.com/nasa">https://twitter.com/nasa</a></li>
+</ul>
+</div>
+<div class="section" id="in-q-tel">
+<h5>In-Q-Tel<a class="headerlink" href="#in-q-tel" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/In-Q-Tel">https://en.wikipedia.org/wiki/In-Q-Tel</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="healthcare">
+<h2>Healthcare<a class="headerlink" href="#healthcare" title="Permalink to this headline">¶</a></h2>
+<div class="toctree-wrapper compound">
+<span id="document-us/healthcare"></span><div class="section" id="healthcare-in-the-united-states">
+<h3>Healthcare in the United States<a class="headerlink" href="#healthcare-in-the-united-states" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="global-comparatives">
+<h4>Global Comparatives<a class="headerlink" href="#global-comparatives" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="raw-statistics">
+<h5>Raw Statistics<a class="headerlink" href="#raw-statistics" title="Permalink to this headline">¶</a></h5>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_(PPP)_per_capita">https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_(PPP)_per_capita</a><ul>
+<li>US: #1 at 17% of GDP ($8,508 per person per year) [OECD 2011]</li>
+</ul>
+</li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy">https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy</a><ul>
+<li>US: #36 at 79.8 (Women: 82.2, Men: 77.4) [WHO 2012]</li>
+</ul>
+</li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate">https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate</a><ul>
+<li>US: #47 at 5.2/1000 [CIA 2013]</li>
+</ul>
+</li>
+<li></li>
+</ul>
+</div>
+<div class="section" id="structured-rankings">
+<h5>Structured Rankings<a class="headerlink" href="#structured-rankings" title="Permalink to this headline">¶</a></h5>
+<ul class="simple">
+<li><a class="reference external" href="http://www.commonwealthfund.org/publications/fund-reports/2014/jun/mirror-mirror">http://www.commonwealthfund.org/publications/fund-reports/2014/jun/mirror-mirror</a><ul>
+<li>US: 11/11 (last place) [Commonwealth Fund 2014]</li>
+</ul>
+</li>
+<li><a class="reference external" href="http://www.who.int/whr/previous/en/">http://www.who.int/whr/previous/en/</a><ul>
+<li>US: #37 [WHO 2000]</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="health-insurance-in-the-united-states">
+<h4>Health Insurance in the United States<a class="headerlink" href="#health-insurance-in-the-united-states" title="Permalink to this headline">¶</a></h4>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://en.wikipedia.org/wiki/Health_insurance">https://en.wikipedia.org/wiki/Health_insurance</a></div>
+<div class="line"><a class="reference external" href="https://en.wikipedia.org/wiki/Health_insurance_in_the_United_States">https://en.wikipedia.org/wiki/Health_insurance_in_the_United_States</a></div>
+<div class="line"><a class="reference external" href="https://en.wikipedia.org/wiki/Health_insurance_coverage_in_the_United_States">https://en.wikipedia.org/wiki/Health_insurance_coverage_in_the_United_States</a></div>
+</div>
+<div class="section" id="health-insurance-programs">
+<h5>Health Insurance Programs<a class="headerlink" href="#health-insurance-programs" title="Permalink to this headline">¶</a></h5>
+<ul class="simple">
+<li><a class="reference internal" href="#medicare">Medicare</a></li>
+<li><a class="reference internal" href="#medicaid">Medicaid</a></li>
+<li><a class="reference internal" href="#tricare">Tricare</a></li>
+<li><a class="reference internal" href="#va">VA</a></li>
+<li><a class="reference internal" href="#federal-employees-health-benefits">Federal Employees Health Benefits</a></li>
+<li><a class="reference internal" href="#group-health-plans">Group Health Plans</a></li>
+<li><a class="reference internal" href="#cobra">COBRA</a></li>
+<li><a class="reference internal" href="#federal-black-lung-benefits">Federal Black Lung Benefits</a></li>
+<li><a class="reference internal" href="#correctional-healthcare">Correctional Healthcare</a></li>
+</ul>
+<p><strong>References</strong></p>
+<ul class="simple">
+<li>&#8220;Medicare &amp; Other Health Benefits: Your Guide to Who Pays First&#8221; CMMS
+<a class="reference external" href="http://www.medicare.gov/Pubs/pdf/02179.pdf">http://www.medicare.gov/Pubs/pdf/02179.pdf</a></li>
+<li>&#8220;Health Plans &amp; Benefits&#8221; <a class="reference external" href="http://www.dol.gov/dol/topic/health-plans/">http://www.dol.gov/dol/topic/health-plans/</a></li>
+</ul>
+<div class="section" id="medicare">
+<h6>Medicare<a class="headerlink" href="#medicare" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Medicare_(United_States)">https://en.wikipedia.org/wiki/Medicare_(United_States)</a></div>
+<div class="line">Homepage: <a class="reference external" href="http://www.medicare.gov/">http://www.medicare.gov/</a></div>
+</div>
+<ul class="simple">
+<li>Medicare Part A: Hospital/Hospice</li>
+<li>Medicare Part B: Medical Insurance</li>
+<li>Medicare Part C: Medicare <em>Advantage</em><ul>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Medicare_Advantage">https://en.wikipedia.org/wiki/Medicare_Advantage</a></li>
+</ul>
+</li>
+<li>Medicare Part D: Prescription drug plans<ul>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Medicare_Part_D">https://en.wikipedia.org/wiki/Medicare_Part_D</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="medicaid">
+<h6>Medicaid<a class="headerlink" href="#medicaid" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Medicaid">https://en.wikipedia.org/wiki/Medicaid</a></div>
+<div class="line">Homepage: <a class="reference external" href="http://medicaid.gov/">http://medicaid.gov/</a></div>
+</div>
+</div>
+<div class="section" id="tricare">
+<h6>Tricare<a class="headerlink" href="#tricare" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Tricare">https://en.wikipedia.org/wiki/Tricare</a></div>
+<div class="line">Homepage: <a class="reference external" href="http://www.tricare.mil/">http://www.tricare.mil/</a></div>
+</div>
+</div>
+<div class="section" id="va">
+<h6>VA<a class="headerlink" href="#va" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Veterans_Health_Administration">https://en.wikipedia.org/wiki/Veterans_Health_Administration</a></div>
+<div class="line">Homepage: <a class="reference external" href="http://www.va.gov/healthbenefits/">http://www.va.gov/healthbenefits/</a></div>
+</div>
+</div>
+<div class="section" id="federal-employees-health-benefits">
+<h6>Federal Employees Health Benefits<a class="headerlink" href="#federal-employees-health-benefits" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Federal_Employees_Health_Benefits_Program">https://en.wikipedia.org/wiki/Federal_Employees_Health_Benefits_Program</a></div>
+<div class="line">Homepage: <a class="reference external" href="http://www.opm.gov/healthcare-insurance/healthcare/">http://www.opm.gov/healthcare-insurance/healthcare/</a></div>
+</div>
+</div>
+<div class="section" id="group-health-plans">
+<h6>Group Health Plans<a class="headerlink" href="#group-health-plans" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://en.wikipedia.org/wiki/Group_insurance">https://en.wikipedia.org/wiki/Group_insurance</a></div>
+</div>
+<p>AKA &#8220;Private Health Insurance&#8221;</p>
+<p>See: <a class="reference internal" href="#healthcare-gov">Healthcare.gov</a></p>
+</div>
+<div class="section" id="cobra">
+<h6>COBRA<a class="headerlink" href="#cobra" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Consolidated_Omnibus_Budget_Reconciliation_Act_of_1985">https://en.wikipedia.org/wiki/Consolidated_Omnibus_Budget_Reconciliation_Act_of_1985</a></div>
+<div class="line">DOL: <a class="reference external" href="http://www.dol.gov/dol/topic/health-plans/cobra.htm">http://www.dol.gov/dol/topic/health-plans/cobra.htm</a></div>
+<div class="line">Healthcare.gov: <a class="reference external" href="https://www.healthcare.gov/unemployed/cobra-coverage/">https://www.healthcare.gov/unemployed/cobra-coverage/</a></div>
+</div>
+</div>
+<div class="section" id="federal-black-lung-benefits">
+<h6>Federal Black Lung Benefits<a class="headerlink" href="#federal-black-lung-benefits" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Black_Lung_Benefits_Act_of_1973">https://en.wikipedia.org/wiki/Black_Lung_Benefits_Act_of_1973</a></div>
+<div class="line">DOL: <a class="reference external" href="http://www.dol.gov/compliance/topics/benefits-comp-blacklung.htm">http://www.dol.gov/compliance/topics/benefits-comp-blacklung.htm</a></div>
+</div>
+</div>
+<div class="section" id="correctional-healthcare">
+<h6>Correctional Healthcare<a class="headerlink" href="#correctional-healthcare" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Healthcare.gov: <a class="reference external" href="https://www.healthcare.gov/incarcerated-people/">https://www.healthcare.gov/incarcerated-people/</a></div>
+</div>
+</div>
+</div>
+<div class="section" id="ppaca">
+<h5>PPACA<a class="headerlink" href="#ppaca" title="Permalink to this headline">¶</a></h5>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act">https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act</a></div>
+<div class="line">Bill Text: <a class="reference external" href="http://www.gpo.gov/fdsys/granule/PLAW-111publ148/PLAW-111publ148/content-detail.html">http://www.gpo.gov/fdsys/granule/PLAW-111publ148/PLAW-111publ148/content-detail.html</a></div>
+<div class="line">DOL: <a class="reference external" href="http://www.dol.gov/ebsa/healthreform/">http://www.dol.gov/ebsa/healthreform/</a></div>
+</div>
+<p>AKA &#8220;Affordable Care Act&#8221; (ACA) (D. &#8220;Obamacare&#8221;)</p>
+<p>See also: <a class="reference external" href="https://en.wikipedia.org/wiki/Massachusetts_health_care_reform">https://en.wikipedia.org/wiki/Massachusetts_health_care_reform</a>
+(2006) (R. &#8220;Romneycare&#8221;)</p>
+<div class="section" id="healthcare-gov">
+<h6>Healthcare.gov<a class="headerlink" href="#healthcare-gov" title="Permalink to this headline">¶</a></h6>
+<div class="line-block">
+<div class="line">Wikipedia: <a class="reference external" href="https://en.wikipedia.org/wiki/HealthCare.gov">https://en.wikipedia.org/wiki/HealthCare.gov</a></div>
+<div class="line">Homepage: <a class="reference external" href="https://www.healthcare.gov/">https://www.healthcare.gov/</a></div>
+</div>
+<p>See also: <a class="reference internal" href="index.html#healthcaredotgov"><em>US &gt; Cool Projects &gt; Healthcare.gov</em></a></p>
+</div>
+<div class="section" id="health-information-exchange">
+<h6>Health Information Exchange<a class="headerlink" href="#health-information-exchange" title="Permalink to this headline">¶</a></h6>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Health_information_exchange">https://en.wikipedia.org/wiki/Health_information_exchange</a></p>
+<ul class="simple">
+<li>&#8220;Meaningful Use&#8221;</li>
+</ul>
+</div>
+<div class="section" id="minimum-medical-loss-ratio">
+<h6>Minimum Medical Loss Ratio<a class="headerlink" href="#minimum-medical-loss-ratio" title="Permalink to this headline">¶</a></h6>
+<ul class="simple">
+<li>PPACA <a class="reference internal" href="#medical-loss-ratio">Medical Loss Ratio</a> limit: 85%/80%</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section" id="challenges">
+<h4>Challenges<a class="headerlink" href="#challenges" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="conflict-of-interest">
+<h5>Conflict of Interest<a class="headerlink" href="#conflict-of-interest" title="Permalink to this headline">¶</a></h5>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Conflict_of_interest">https://en.wikipedia.org/wiki/Conflict_of_interest</a></p>
+</div>
+<div class="section" id="data-interchange">
+<h5>Data Interchange<a class="headerlink" href="#data-interchange" title="Permalink to this headline">¶</a></h5>
+<ul class="simple">
+<li>Billing<ul>
+<li>Who is going to pay for this?</li>
+</ul>
+</li>
+<li>Medical Records<ul>
+<li>How many times do we need to collect this information?</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="medical-loss-ratio">
+<h5>Medical Loss Ratio<a class="headerlink" href="#medical-loss-ratio" title="Permalink to this headline">¶</a></h5>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Loss_ratio#Medical_Loss_Ratio">https://en.wikipedia.org/wiki/Loss_ratio#Medical_Loss_Ratio</a></p>
+<ul>
+<li><p class="first">% of costs spent on other areas (administration, <em>advertising</em>,
+profit) (&#8220;overhead&#8221;)</p>
+</li>
+<li><p class="first">&#8220;Do we really spend a third of health care dollars
+on billing and bureaucracy?&#8221;
+<a class="reference external" href="http://www.politifact.com/oregon/statements/2012/may/11/jennifer-williamson/do-we-really-spend-nearly-third-health-care-dollar/">http://www.politifact.com/oregon/statements/2012/may/11/jennifer-williamson/do-we-really-spend-nearly-third-health-care-dollar/</a></p>
+<blockquote class="epigraph">
+<div><p>[...] the average medical loss ratio in the United States
+is about 80 percent. But the reason this study tacks on
+another 11 percent is that the medical loss ratio
+&#8220;does not take into account the cost of physicians
+to collect from insurance companies.&#8221;</p>
+</div></blockquote>
+</li>
+<li><p class="first">PPACA Medical Loss Ratio limit: 85%/80%</p>
+</li>
+</ul>
+</div>
+<div class="section" id="preventative-care">
+<h5>Preventative Care<a class="headerlink" href="#preventative-care" title="Permalink to this headline">¶</a></h5>
+<p>The longer one waits to address a health concern,
+the more likely it is that it will be more costly.</p>
+<p>Or, it&#8217;s less expensive for everyone to
+be proactive about our health.</p>
+</div>
+<div class="section" id="they">
+<h5>&#8220;They&#8221;<a class="headerlink" href="#they" title="Permalink to this headline">¶</a></h5>
+<ul class="simple">
+<li>What &#8220;they&#8221; should do if they had any sense.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="alternative-plans">
+<h4>Alternative Plans<a class="headerlink" href="#alternative-plans" title="Permalink to this headline">¶</a></h4>
+<p>&#8220;Let&#8217;s just create another program&#8221;</p>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Single-payer_health_care">https://en.wikipedia.org/wiki/Single-payer_health_care</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/National_health_insurance">https://en.wikipedia.org/wiki/National_health_insurance</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Universal_health_care">https://en.wikipedia.org/wiki/Universal_health_care</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Universal_health_coverage_by_country">https://en.wikipedia.org/wiki/Universal_health_coverage_by_country</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        
+      </div><!-- /row -->
+
+      <!-- row -->
+      <div class="row footer-relbar">
+<div id="navbar-related" class=" related navbar navbar-default" role="navigation" aria-label="related navigation">
+  <div class="navbar-inner">
+    <ul class="nav navbar-nav text-center">
+        <li><a href="index.html#document-index">westurner/opengov 0.2.0 documentation</a></li>
+    </ul>
+<ul class="nav navbar-nav text-center">
+      
+        <li><a href="#">top</a></li> 
+      
+    </ul>
+  </div>
+</div>
+      </div><!-- /row -->
+
+      <!-- footer -->
+      <footer role="contentinfo">
+          &copy; Copyright 2014, Wes Turner.
+
+      <br/>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+        <img alt="Creative Commons License"
+        style="border-width:0; padding:12px"
+        src="_static/img/cc-by-sa-4.0-88x31.png" /></a>
+      <br />
+      <span xmlns:dct="http://purl.org/dc/terms/"
+        property="dct:title">westurner/opengov 0.2.0 documentation</span> is licensed under a 
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
+        >Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        <br/>
+        Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.3b3.
+      </footer>
+      <!-- /footer -->
+
+    </div>
+    <!-- /container -->
+
+  </body>
+</html>
