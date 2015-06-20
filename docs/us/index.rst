@@ -297,14 +297,22 @@ PubMed (NIH NLM NCBI)
 | Homepage: https://www.ncbi.nlm.nih.gov/pubmed/
 | Wikipedia: https://en.wikipedia.org/wiki/PubMed
 
+MeshRDF
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| Source: https://github.com/HHS/meshrdf
+| Homepage: https://hhs.github.io/meshrdf/
+| Docs: https://hhs.github.io/meshrdf/release-notes.html
+| Docs:  http://www.nlm.nih.gov/news/mesh_rdf_beta_2015.html
+
+PubMed and Schema.org RDF
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3745940/ (RDF Linked Data)
 * TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 
   * [ ] http://schema.org/MedicalWebPage
+  * [ ] http://schema.org/MedicalEntity
   * Supports MESH through http://schema.org/MedicalCode
-
-    * https://github.com/HHS/meshrdf
-
   * [ ] http://schema.org/MedicalScholarlyArticle
   * [ ] http://schema.org/MedicalStudy
  
