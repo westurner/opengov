@@ -10,6 +10,8 @@ United Nations
 | Homepage: http://www.un.org/
 | Homepage: http://www.un.org/en/ @en
 | Wikipedia: https://en.wikipedia.org/wiki/United_Nations
+| Twitter: https://twitter.com/UN
+| Twitter: https://twitter.com/UN_Spokesperson
 
 
 .. index:: UN Milennium Development Goals
