@@ -5,6 +5,7 @@ Nebraska
 
 | Homepage: http://www.nebraska.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Nebraska
+| Twitter: https://twitter.com/Nebraskagov
 
 * 37th State (1867)
 * Population: ~ 1.8 million (2013)  
@@ -15,6 +16,7 @@ Unicameral Legislature
 =======================
 | Homepage: http://www.nebraskalegislature.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Nebraska_Legislature
+| Twitter: https://twitter.com/UnicamUpdate
 
 Governor
 =========
