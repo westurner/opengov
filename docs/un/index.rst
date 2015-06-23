@@ -1,12 +1,25 @@
 
+
+.. index:: United Nations
+.. index:: UN
+.. _un:
+
 #################
 United Nations
 #################
-| Homepage: http://www.un.org/en/
+| Homepage: http://www.un.org/
+| Homepage: http://www.un.org/en/ @en
 | Wikipedia: https://en.wikipedia.org/wiki/United_Nations
 
-Millenium Development Goals
-============================
+
+.. index:: UN Milennium Development Goals
+.. index:: UN MDG
+.. index:: Milennium Development Goals
+.. index:: MDG
+.. _mdg:
+
+UN Millenium Development Goals
+===============================
 | Homepage: http://www.un.org/millenniumgoals/
 | Wikipedia: https://en.wikipedia.org/wiki/Millennium_Development_Goals
 
@@ -22,8 +35,14 @@ Millenium Development Goals
     8. Develop a global partnership for development
 
 
-Sustainable Development Goals
-===============================
+.. index:: UN Sustainable Development Goals
+.. index:: UN SDG
+.. index:: Sustainable Development Goals
+.. index:: SDG
+.. _sdg:
+
+UN Sustainable Development Goals
+=================================
 | Homepage: https://sustainabledevelopment.un.org/focussdgs.html
 | Wikipedia: https://en.wikipedia.org/wiki/Sustainable_Development_Goals
 
