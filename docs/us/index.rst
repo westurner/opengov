@@ -60,6 +60,7 @@ President
 ~~~~~~~~~~~
 | Homepage: https://www.whitehouse.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/President_of_the_United_States
+| Twitter: https://twitter.com/POTUS
 
 
 .. index:: Vice President of the United States of America
@@ -70,6 +71,7 @@ Vice President
 ~~~~~~~~~~~~~~~
 | Homepage: https://www.whitehouse.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Vice_President_of_the_United_States
+| Twitter: https://twitter.com/VP
 
 
 .. index:: USA Chief Information Officer
@@ -80,6 +82,7 @@ Chief Information Officer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Homepage: https://cio.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Federal_Chief_Information_Officer_of_the_United_States
+| Twitter: https://twitter.com/ciodotgov
 
 see: https://wrdrd.github.io/docs/consulting/knowledge-engineering.html
 
@@ -89,6 +92,8 @@ see: https://wrdrd.github.io/docs/consulting/knowledge-engineering.html
 
 Chief Data Scientist
 ~~~~~~~~~~~~~~~~~~~~~
+| Twitter: https://twitter.com/dj44
+
 http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist 
 
 see: https://wrdrd.github.io/docs/consulting/data-science.html
@@ -101,6 +106,7 @@ see: https://wrdrd.github.io/docs/consulting/data-science.html
 Chief Technology Officer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Wikipedia: https://en.wikipedia.org/wiki/Chief_Technology_Officer_of_the_United_States
+| Twitter: https://twitter.com/smithmegan
 
 see: https://wrdrd.github.io/docs/consulting/information-systems.html
 
@@ -114,6 +120,7 @@ Judicial Branch
 ----------------
 | Homepage: http://www.uscourts.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States
+| Twitter: https://twitter.com/TheJusticeDept
 
 
 .. index:: USA Supreme Court
@@ -224,6 +231,7 @@ Data.gov
 +++++++++
 | Hompage: http://www.data.gov
 | Source: https://github.com/GSA/data.gov
+| Twitter: https://twitter.com/usdatagov
 
 * http://www.data.gov/food
 * http://www.data.gov/business
@@ -250,6 +258,7 @@ Project Open Data
 +++++++++++++++++++
 | Homepage: https://project-open-data.github.io/
 | Source: https://github.com/project-open-data/project-open-data.github.io
+| Twitter: https://twitter.com/ProjectOpenData
 
 * https://project-open-data.cio.gov/v1.1/schema/ (JSON (-> JSON-LD -> RDF))
 
@@ -300,6 +309,7 @@ Apache Accumulo
 | Homepage: https://accumulo.apache.org/
 | Source: https://github.com/apache/accumulo
 | Wikipedia: https://en.wikipedia.org/wiki/Apache_Accumulo
+| Twitter: https://twitter.com/ApacheAccumulo
 
 * "Rya" (RDF Linked Data)
 
@@ -313,6 +323,7 @@ Library of Congress
 +++++++++++++++++++++
 | Homepage: http://www.loc.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Library_of_Congress
+| Twitter: https://twitter.com/librarycongress
 
 * http://catalog.loc.gov/
 * http://id.loc.gov/download/ (RDF Linked Data)
@@ -354,6 +365,7 @@ http://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama
 * Commitment to protecting privacy
 * Regulatory modernization
 * Public-private partnerships
+* ``#precisionmedicine``
 
 
 .. index:: Personal Health Agenda
@@ -361,6 +373,8 @@ http://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama
 
 Personal Health Agenda
 +++++++++++++++++++++++
+| Twitter: https://twitter.com/westurner
+
 Goals:
 
 * Maximize utility of health data (through network effects)
@@ -410,6 +424,7 @@ Healthcare.gov (HHS CMMS)
 | Homepage: https://www.healthcare.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/HealthCare.gov
 | Docs: https://www.healthcare.gov/developers/
+| Twitter: https://twitter.com/HealthCareGov
 
 * [ ] TODO: create RDFa vocabulary for health plans
 * [ ] TODO: add RDFa to individual plan pages
@@ -425,6 +440,7 @@ Medline Plus (NIH NLM)
 ++++++++++++++++++++++++
 | Homepage: http://www.nlm.nih.gov/medlineplus/
 | Wikipedia: https://en.wikipedia.org/wiki/MedlinePlus
+| Twitter: https://twitter.com/medlineplus
 
 * Health Info: http://www.nlm.nih.gov/medlineplus/healthtopics.html
 * Drug Info: http://www.nlm.nih.gov/medlineplus/druginformation.html
@@ -443,6 +459,7 @@ PubMed (NIH NLM NCBI)
 +++++++++++++++++++++
 | Homepage: https://www.ncbi.nlm.nih.gov/pubmed/
 | Wikipedia: https://en.wikipedia.org/wiki/PubMed
+| Twitter: https://twitter.com/ncbi_pubmed
 
 
 .. index:: USA MeshRDF
@@ -527,6 +544,7 @@ National Cancer Institute (NIH NCI)
 | Homepage: http://www.cancer.gov/
 | Source: https://github.com/NCIP
 | Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
+| Twitter: https://twitter.com/theNCI
 
 
 .. index:: USA LexEVS (NIH NCI)
@@ -553,6 +571,7 @@ OpenFDA (FDA)
 +++++++++++++++
 | Homepage: https://open.fda.gov/
 | Source: https://github.com/FDA/openfda
+| Twitter: https://twitter.com/openFDA
 
 * https://open.fda.gov/api/reference/ (JSON Data)
 
@@ -620,6 +639,7 @@ EPA
 ++++++++++++++++
 | Homepage: http://www.epa.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency
+| Twitter: https://twitter.com/EPA
 
 * http://www.epa.gov/datafinder/
 * http://www.epa.gov/airdata/
@@ -637,6 +657,7 @@ MyPlate (USDA)
 +++++++++++++++
 | Homepage: http://www.ChooseMyPlate.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/MyPlate
+| Twitter: https://twitter.com/MyPlate
 
 
 .. index:: USA Science & Technology
@@ -705,10 +726,8 @@ NASA
 * https://en.wikipedia.org/wiki/NASA_spin-off_technologies
 * http://spinoff.nasa.gov/
 * http://instagram.com/nasa
-* https://twitter.com/nasa
 
 
-.. index:: USA In-Q-Tel
 .. index:: In-Q-Tel
 .. _in-q-tel:
 
