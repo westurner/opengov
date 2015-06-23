@@ -1,25 +1,43 @@
-.. opengov documentation master file, created by
-   sphinx-quickstart on Tue Jul  9 22:26:36 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+
+.. index:: US
+.. index:: USA
+.. index:: United States of America
+.. _usa:
 
 United States of America
 ======================================
 | Homepage: https://www.usa.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/United_States
+| Twitter: https://twitter.com/USAgov
 
 * https://en.wikipedia.org/wiki/Federal_government_of_the_United_States
 * https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States
+
+
+.. index:: USA Legislative Branch
+.. index:: Legislative Branch
+.. _usa legislative branch:
 
 Legislative Branch
 -------------------
 | Homepage: https://www.congress.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/United_States_Congress
 
+
+.. index:: USA Senate
+.. index:: Senate
+.. _usa senate:
+
 Senate
 ~~~~~~~
 | Homepage: https://www.senate.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/United_States_Senate
+
+
+.. index:: USA House of Representatives
+.. index:: House of Representatives
+.. index:: House
+.. _usa house:
 
 House of Representatives
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -27,18 +45,36 @@ House of Representatives
 | Wikipedia: https://en.wikipedia.org/wiki/United_States_House_of_Representatives
 
 
+.. index:: USA Executive Branch
+.. index:: Executive Branch
+.. _usa executive branch:
+
 Executive Branch
 ------------------
+
+.. index:: President of the United States of America
+.. index:: USA President
+.. _usa president:
 
 President
 ~~~~~~~~~~~
 | Homepage: https://www.whitehouse.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/President_of_the_United_States
 
+
+.. index:: Vice President of the United States of America
+.. index:: USA Vice President
+.. _usa vp:
+
 Vice President
 ~~~~~~~~~~~~~~~
 | Homepage: https://www.whitehouse.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Vice_President_of_the_United_States
+
+
+.. index:: USA Chief Information Officer
+.. index:: CIO
+.. _usa cio:
 
 Chief Information Officer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,11 +83,20 @@ Chief Information Officer
 
 see: https://wrdrd.github.io/docs/consulting/knowledge-engineering.html
 
+
+.. index:: USA Chief Data Scientist
+.. _usa chief data scientist:
+
 Chief Data Scientist
 ~~~~~~~~~~~~~~~~~~~~~
 http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist 
 
 see: https://wrdrd.github.io/docs/consulting/data-science.html
+
+
+.. index:: USA Chief Technology Officer
+.. index:: CTO
+.. _usa cto:
 
 Chief Technology Officer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,19 +105,39 @@ Chief Technology Officer
 see: https://wrdrd.github.io/docs/consulting/information-systems.html
 
 
+.. index:: USA Judicial Branch
+.. index:: USA Court System
+.. index:: Judicial Branch
+.. _usa court system:
+
 Judicial Branch
 ----------------
 | Homepage: http://www.uscourts.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States
+
+
+.. index:: USA Supreme Court
+.. index:: Supreme Court
+.. _usa supreme court:
 
 Supreme Court
 ~~~~~~~~~~~~~~~~~
 | Homepage: http://www.supremecourt.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States
 
+
+.. index:: USA Court of Appeals
+.. index:: Court of Appeals
+.. _usa court of appeals:
+
 Court of Appeals
 ~~~~~~~~~~~~~~~~~~~~
 | Wikipedia: https://en.wikipedia.org/wiki/United_States_courts_of_appeals
+
+
+.. index:: USA District Court
+.. index:: District Court
+.. _usa district court:
 
 District Court
 ~~~~~~~~~~~~~~~~~~
@@ -91,6 +156,7 @@ Nebraska
    ne/index
 
 
+.. index:: USA Cool Projects
 .. index:: Cool Projects
 .. _cool-projects:
 
@@ -128,6 +194,32 @@ See: :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
 Data
 ~~~~~~
 
+.. index:: USA USAspending.gov
+.. index:: USAspending.gov
+.. _USAspending.gov:
+
+USAspending.gov
+++++++++++++++++
+| Homepage: https://www.usaspending.gov
+| Wikipedia: https://en.wikipedia.org/wiki/Federal_Funding_Accountability_and_Transparency_Act_of_2006
+| Download: https://www.usaspending.gov/DownloadCenter/Pages/DataDownload.aspx
+| Docs: https://www.usaspending.gov/about/Pages/TheData.aspx
+| Docs: https://www.usaspending.gov/about/GetStarted/Pages/WhatYouWillNotFind.aspx
+
+
+    USAspending.gov is the publicly accessible, searchable website
+    mandated by the
+    Federal Funding Accountability and Transparency Act of 2006
+    to give the American public access to information
+    on how their tax dollars are spent.
+
+* https://www.usaspending.gov/transparency/Pages/SpendingMap.aspx
+
+
+.. index:: USA Data.gov
+.. index:: Data.gov
+.. _data.gov:
+
 Data.gov
 +++++++++
 | Hompage: http://www.data.gov
@@ -149,7 +241,10 @@ Data.gov
 * http://www.data.gov/research
 
 
-.. _POD:
+.. index:: USA Project Open Data
+.. index:: Project Open Data
+.. index:: POD
+.. _pod:
 
 Project Open Data
 +++++++++++++++++++
@@ -170,15 +265,35 @@ Project Open Data
   https://github.com/HHS/ckanext-datajson
 
 
+.. index:: USA Whitehouse REST API Standards
+.. index:: REST API Standards
+.. _rest api standards:
+
 REST API Standards
 ++++++++++++++++++++
 | Source: https://github.com/whitehouse/api-standards
 
 * https://en.wikipedia.org/wiki/Representational_state_transfer
 
+
+.. index:: Disconnected Content Explorer
+.. index:: DICE
+.. _dice:
+
 DICE
 +++++
 | Source: https://github.com/ngageoint/disconnected-content-explorer-android
+| Source: https://github.com/ngageoint/disconnected-content-explorer-ios
+
+    Disconnected Interactive Content Explorer (DICE) is an app for
+    iOS, Android, and Windows that allows users to load
+    interactive content generated in HTML, CSS, and Javascript
+    to a mobile device so the device can display interactive content
+    without a network connection.
+
+
+.. index:: Apache Accumulo
+.. _apache accumulo:
 
 Apache Accumulo
 +++++++++++++++++
@@ -188,6 +303,12 @@ Apache Accumulo
 
 * "Rya" (RDF Linked Data)
 
+
+.. index:: USA Library of Congress
+.. index:: Library of Congress
+.. index:: LOC
+.. _loc:
+
 Library of Congress
 +++++++++++++++++++++
 | Homepage: http://www.loc.gov/
@@ -196,6 +317,9 @@ Library of Congress
 * http://catalog.loc.gov/
 * http://id.loc.gov/download/ (RDF Linked Data)
 
+
+.. index:: 5 ★ Linked Open Data
+.. _5stardata:
 
 5 ★ Linked Open Data
 +++++++++++++++++++++
@@ -210,8 +334,16 @@ http://5stardata.info/
 * http://www.w3.org/TR/ld-glossary/#json-ld (JSON-LD)
 
 
+.. index:: Health
+.. _health:
+
 Health
 ~~~~~~~
+
+.. index:: USA Precision Medicine Initiative
+.. index:: Precision Medicine Initiative
+.. index:: PMI
+.. _precision medicine initiative:
 
 Precision Medicine Initiative
 +++++++++++++++++++++++++++++++
@@ -223,6 +355,9 @@ http://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-president-obama
 * Regulatory modernization
 * Public-private partnerships
 
+
+.. index:: Personal Health Agenda
+.. _personal health agenda:
 
 Personal Health Agenda
 +++++++++++++++++++++++
@@ -266,18 +401,25 @@ Objectives:
   * Structured Reviews
 
 
+.. index:: USA Healthcare.gov (HHS CMMS)
+.. index:: Healthcare.gov (HHS CMMS)
 .. _healthcaredotgov:
 
 Healthcare.gov (HHS CMMS)
 ++++++++++++++++++++++++++
 | Homepage: https://www.healthcare.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/HealthCare.gov
+| Docs: https://www.healthcare.gov/developers/
 
-* https://www.healthcare.gov/developers/
 * [ ] TODO: create RDFa vocabulary for health plans
 * [ ] TODO: add RDFa to individual plan pages
 * [ ] TODO: search engine to index RDFa vocabulary
 * [ ] TODO: encourage carriers to add RDFa to describe their servcies
+
+
+.. index:: USA Medline Plus (NIH NLM)
+.. index:: Medline Plus (NIH NLM)
+.. _medline plus:
 
 Medline Plus (NIH NLM)
 ++++++++++++++++++++++++
@@ -292,10 +434,20 @@ Medline Plus (NIH NLM)
   * parse_medline.py: https://github.com/westurner/healthref/blob/gh-pages/parse_medline.py
   * [ ] see the schema.org types listed under `OpenFDA (FDA)`_
 
+
+.. index:: USA PubMed (NIH NLM NCBI)
+.. index:: PubMed (NIH NLM NCBI)
+.. _pubmed:
+
 PubMed (NIH NLM NCBI)
 +++++++++++++++++++++
 | Homepage: https://www.ncbi.nlm.nih.gov/pubmed/
 | Wikipedia: https://en.wikipedia.org/wiki/PubMed
+
+
+.. index:: USA MeshRDF
+.. index:: MeshRDF
+.. _meshrdf:
 
 MeshRDF
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -314,6 +466,9 @@ MeshRDF
     ontology such as ICD-9, DiseasesDB, **MeSH**, SNOMED-CT, RxNorm, etc."
 
 
+.. index:: PubMed and Schema.org RDF
+.. _pubmed and schema.org rdf:
+
 PubMed and Schema.org RDF
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -329,6 +484,11 @@ PubMed and Schema.org RDF
     * [ ] http://schema.org/MedicalObservationalStudy
     * [ ] http://schema.org/MedicalTrial
 
+
+.. index:: USA ClinicalTrials.gov (NIH NLM)
+.. index:: ClinicalTrials.gov (NIH NLM)
+.. _clinicaltrials.gov:
+
 ClinicalTrials.gov (NIH NLM)
 +++++++++++++++++++++++++++++
 | Homepage: https://clinicaltrials.gov
@@ -342,6 +502,11 @@ ClinicalTrials.gov (NIH NLM)
 
   * [ ] http://schema.org/MedicalTrial
 
+
+.. index:: USA UMLS (NIH NLM)
+.. index:: UMLS (NIH NLM)
+.. _umls:
+
 UMLS (NIH NLM)
 +++++++++++++++
 | Homepage: http://www.nlm.nih.gov/research/umls/
@@ -353,11 +518,20 @@ UMLS (NIH NLM)
   * [ ] http://schema.org/MedicalWebPage
 
 
+.. index:: USA National Cancer Institute (NIH NCI)
+.. index:: National Cancer Institute (NIH NCI)
+.. _nci:
+
 National Cancer Institute (NIH NCI)
 ++++++++++++++++++++++++++++++++++++
 | Homepage: http://www.cancer.gov/
 | Source: https://github.com/NCIP
 | Wikipedia: https://en.wikipedia.org/wiki/National_Cancer_Institute
+
+
+.. index:: USA LexEVS (NIH NCI)
+.. index:: LexEVS (NIH NCI)
+.. _lexevs:
 
 LexEVS (NIH NCI)
 +++++++++++++++++
@@ -370,6 +544,10 @@ LexEVS (NIH NCI)
 
   * [ ] http://schema.org/MedicalWebPage
 
+
+.. index:: USA OpenFDA (FDA)
+.. index:: OpenFDA (FDA)
+.. _openfda:
 
 OpenFDA (FDA)
 +++++++++++++++
@@ -414,6 +592,10 @@ OpenFDA (FDA)
   https://github.com/FDA/openfda/issues/49
 
 
+.. index:: USA HealthData.gov (HHS)
+.. index:: HealthData.gov (HHS)
+.. _healthdata.gov:
+
 HealthData.gov (HHS)
 ++++++++++++++++++++++
 | Homepage: http://www.healthdata.gov/
@@ -428,6 +610,12 @@ HealthData.gov (HHS)
 * seeAlso: `Data.gov`_
 
 
+.. index:: USA Environmental Protection Agency
+.. index:: USA EPA
+.. index:: Environmental Protection Agency
+.. index:: EPA
+.. _usa epa:
+
 EPA
 ++++++++++++++++
 | Homepage: http://www.epa.gov/
@@ -441,34 +629,88 @@ EPA
     * TODO: http://www.w3.org/TR/csv2rdf/ + Metadata -> RDF Linked Data
 
 
+.. index:: USA MyPlate (USDA)
+.. index:: MyPlate (USDA)
+.. _myplate:
+
 MyPlate (USDA)
 +++++++++++++++
 | Homepage: http://www.ChooseMyPlate.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/MyPlate
 
+
+.. index:: USA Science & Technology
+.. index:: Science & Technology
+.. _science technology:
+
 Science & Technology
 ~~~~~~~~~~~~~~~~~~~~~~
 
-**Office of Science and Technology Policy**
+.. index:: USA Office of Science and Technology Policy
+.. index:: Office of Science and Technology Policy
+.. index:: USA OSTP
+.. index:: OSTP
+.. _ostp:
+
+OSTP
+++++++
+Office of Science and Technology Policy
 
 | Homepage: http://www.ostp.gov/
+| Homepage: https://www.whitehouse.gov/administration/eop/ostp
 | Wikipedia: https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy
+| Twitter: https://twitter.com/whitehouseostp
+
+* https://www.whitehouse.gov/administration/eop/ostp/pressroom
+* https://www.whitehouse.gov/administration/eop/ostp/pcast
+
+  * https://www.whitehouse.gov/administration/eop/ostp/pcast/docsreports
+
+    * http://www.whitehouse.gov/blog/2014/09/26/pcast-examines-technology-targeting-job-skills-training-and-matching-talent-jobs
+    * http://www.whitehouse.gov/blog/2014/05/29/new-pcast-report-says-systems-engineering-can-improve-health-care
+
+
+.. index:: OpenStack
+.. _openstack:
 
 OpenStack
 +++++++++++
 | Homepage: http://www.openstack.org/
 | Source: https://github.com/openstack
 | Wikipedia: https://en.wikipedia.org/wiki/OpenStack
+| Twitter: https://twitter.com/openstack
+
+OpenStack is an Open Source cloud infrastructure platform
+started as a public-private partnership between
+:ref:`NASA` and Rackspace.
+
+* The first two components were named OpenStack Compute (NASA Nebula)
+  and OpenStack Swift (Rackspace CloudFiles)
+* :ref:`NASA` now contracts out much of the cloud computing workload
+  to privately managed :ref:`OpenStack` cloud providers.
+
+  https://www.openstack.org/foundation/companies/
+
+
+.. index:: USA NASA
+.. index:: NASA
+.. _nasa:
 
 NASA
 +++++
 | Homepage: http://www.nasa.gov/
 | Wikipedia: https://en.wikipedia.org/wiki/NASA
+| Twitter: https://twitter.com/nasa
 
 * https://en.wikipedia.org/wiki/NASA_spin-off_technologies
 * http://spinoff.nasa.gov/
 * http://instagram.com/nasa
 * https://twitter.com/nasa
+
+
+.. index:: USA In-Q-Tel
+.. index:: In-Q-Tel
+.. _in-q-tel:
 
 In-Q-Tel
 +++++++++
