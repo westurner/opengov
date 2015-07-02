@@ -117,7 +117,7 @@ US Digital Services Playbook
 ==========================================================
 | https://playbook.cio.gov/#play12
 
-* http://www.data.gov/
+* https://www.data.gov/
 * https://en.wikipedia.org/wiki/Data.gov
 * https://en.wikipedia.org/wiki/Data_driven
 * https://en.wikipedia.org/wiki/Data_science
