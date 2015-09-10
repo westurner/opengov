@@ -5,7 +5,9 @@
 US Digital Services Playbook
 ################################
 | Homepage: https://playbook.cio.gov/
+| Src: git https://github.com/whitehouse/playbook
 
+.. contents::
 
 1. Understand what people need
 ==========================================================
