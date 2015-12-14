@@ -229,7 +229,7 @@ USAspending.gov
 
 Data.gov
 +++++++++
-| Hompage: http://www.data.gov
+| Homepage: http://www.data.gov
 | Source: https://github.com/GSA/data.gov
 | Twitter: https://twitter.com/usdatagov
 
