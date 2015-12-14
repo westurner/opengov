@@ -269,9 +269,26 @@ Project Open Data
 
   * POD, CKAN, DCAT RDF, http://schema.org RDF
 
-* ``ckanext-datajson`` CKAN extension to generate the POD ``/data.json``
-  JSON-LD from CKAN:
-  https://github.com/HHS/ckanext-datajson
+
+.. index:: ckanext-datajson
+.. _ckanext-datajson:
+
+ckanext-datajson
+^^^^^^^^^^^^^^^^^^^^^^^
+| Source: https://github.com/HHS/ckanext-datajson
+
+``ckanext-datajson`` is a CKAN extension to generate :ref:`Project Open Data`
+  :ref:`Data.gov` JSON and JSON-LD from CKAN.
+
+  * ``/data.json``
+  * ``/data.jsonld``
+
+seeAlso:
+
+* CKAN:
+
+  | Wikipedia: https://en.wikipedia.org/wiki/CKAN
+  | Docs: https://wrdrd.com/docs/consulting/knowledge-engineering#ckan
 
 
 .. index:: USA Whitehouse REST API Standards
