@@ -94,7 +94,7 @@ Chief Data Scientist
 ~~~~~~~~~~~~~~~~~~~~~
 | Twitter: https://twitter.com/dj44
 
-http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist 
+http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist
 
 see: https://wrdrd.github.io/docs/consulting/data-science.html
 
@@ -413,7 +413,7 @@ Objectives:
 * Encourage sharing of non-PHI data
 * Encourage sharing of non-PHI data with units
 * Lookup and automatedly analyze relevant datasets
-  (before reading an abstract or a conclusion) with a number of models 
+  (before reading an abstract or a conclusion) with a number of models
   and random seeds ["blind statistical analysis",
   "masked statistical analysis"]
 * Develop an RDFS vocabulary for describing study controls and protocols with URIs ["Study Protocol"]
@@ -496,7 +496,7 @@ MeshRDF
 
   * http://schema.org/code
 
-    "A medical code for the entity, taken from a controlled vocabulary or 
+    "A medical code for the entity, taken from a controlled vocabulary or
     ontology such as ICD-9, DiseasesDB, **MeSH**, SNOMED-CT, RxNorm, etc."
 
 
@@ -514,7 +514,7 @@ PubMed and Schema.org RDF
   * Supports MESH through http://schema.org/MedicalCode
   * [ ] http://schema.org/MedicalScholarlyArticle
   * [ ] http://schema.org/MedicalStudy
- 
+
     * [ ] http://schema.org/MedicalObservationalStudy
     * [ ] http://schema.org/MedicalTrial
 
@@ -593,7 +593,7 @@ OpenFDA (FDA)
 * https://open.fda.gov/api/reference/ (JSON Data)
 
   * [ ] TODO: http://json-ld.org/ ``@context`` -> RDF Linked Data
-  
+
     * https://github.com/FDA/openfda/issues/5
     * https://github.com/westurner/elasticsearchjsonld
     * https://github.com/westurner/openfda-jsonld-testing
@@ -621,10 +621,10 @@ OpenFDA (FDA)
 
 * [x] BLD: Dockerfiles for testing
 
-  https://github.com/FDA/openfda/issues/45 
+  https://github.com/FDA/openfda/issues/45
 
 * [ ] ENH: Adverse Event Count / Prescription Count Heatmap
-  
+
   https://github.com/FDA/openfda/issues/49
 
 
