@@ -277,7 +277,8 @@ ckanext-datajson
 ^^^^^^^^^^^^^^^^^^^^^^^
 | Source: https://github.com/HHS/ckanext-datajson
 
-``ckanext-datajson`` is a CKAN extension to generate :ref:`Project Open Data`
+``ckanext-datajson`` is a CKAN extension to generate
+:ref:`Project Open Data <pod>`
 :ref:`Data.gov` JSON and JSON-LD from CKAN.
 
   * ``/data.json``
