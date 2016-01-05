@@ -82,14 +82,20 @@ Linked Curricula Graphs
   * RDFa in Course Catalog / Index HTML pages would be helpful
     
     * "RDFa": https://wrdrd.com/docs/consulting/knowledge-engineering#rdfa
-    * schema.org/Course: https://github.com/schemaorg/schemaorg/issues/195
+    * :ref:`schemaorg_course`
   
   * Wikipedia Concept URIs:
   
     * https://wrdrd.com/docs/consulting/data-science
     * https://wrdrd.com/docs/consulting/knowledge-engineering
     * https://wrdrd.com/docs/consulting/education-technology #
-    
+
+.. _schemaorg_course:
+
+schema.org/Course
+~~~~~~~~~~~~~~~~~~~~
+* schema.org/Course: https://github.com/schemaorg/schemaorg/issues/195
+
 
 .. index:: OpenBadges
 .. _openbadges:
