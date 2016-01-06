@@ -8,7 +8,7 @@ Nebraska
 | Twitter: https://twitter.com/Nebraskagov
 
 * 37th State (1867)
-* Population: ~ 1.8 million (2013)  
+* Population: ~ 1.8 million (2013)
 * Capital: `Lincoln, Nebraska <https://en.wikipedia.org/wiki/Lincoln,_Nebraska>`__
 * Largest City: `Omaha, Nebraska <https://en.wikipedia.org/wiki/Omaha,_Nebraska>`__
 
@@ -42,13 +42,13 @@ CS as STEM credit for HS graduation
 
 * http://www.reddit.com/r/compsci/comments/1tjmd4/high_schools_not_meeting_stem_demand_only_9/ce8nmmx
   https://westurner.org/redditlog/#comment/ce8nmmx
-  
+
       By incentivizing study of Computer Science with credit for graduation, we may be more likely to meet demand for "One Million Additional College Graduates with Degrees in Science, Technology, Engineering, and Mathematics"
 
       * http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-engage-to-excel-final_2-25-12.pdf
       * http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-executive-report-final_2-13-12.pdf
       * http://www.whitehouse.gov/sites/default/files/microsites/ostp/fact_sheet_final.pdf
-      
+
 
 =========================================
 What about creating computer games?
@@ -56,11 +56,11 @@ What about creating computer games?
 * Gamification
 
   https://en.wikipedia.org/wiki/Gamification
-  
+
 * Game Theory
 
   https://en.wikipedia.org/wiki/Game_theory
-  
+
 * [ ] Which parts of gaming teach STEM mathematical systems with limits and interaction?
 
 ==========================
@@ -71,21 +71,31 @@ CS skills for STEM fields
 * :ref:`Cool Projects <cool-projects>`
 
 
+.. index:: Linked Curricula Graphs
+.. _linked curricula graphs:
+
 Linked Curricula Graphs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* BeautifulSoup(UNOmaha course catalog HTML) > graph edges (2007)
+
+  * pyglobalgoals Jupyter notebook (BeautifulSoup, requests, JSON-LD,
+    schema.org) (2015)
+
+    `<https://github.com/westurner/pyglobalgoals/blob/master/notebooks/globalgoals-pyglobalgoals.py.ipynb>`__
+
 * https://westurner.org/self-directed-learning/slides.html#knowledge-graph (2012)
 * https://westurner.org/redditlog/#comment/ci3c1o3 (2014)
 
 * [ ] Link each component of the curriculum to a concept URI
   (e.g. Wikipedia (-> DBpedia RDF <- http://lod-cloud.net/))
-  
+
   * RDFa in Course Catalog / Index HTML pages would be helpful
-    
+
     * "RDFa": https://wrdrd.com/docs/consulting/knowledge-engineering#rdfa
     * :ref:`schemaorg_course`
-  
+
   * Wikipedia Concept URIs:
-  
+
     * https://wrdrd.com/docs/consulting/data-science
     * https://wrdrd.com/docs/consulting/knowledge-engineering
     * https://wrdrd.com/docs/consulting/education-technology #
@@ -123,4 +133,4 @@ OpenBadges Backpack
 | Source: https://github.com/mozilla/openbadges-backpack
 
 
- 
+
