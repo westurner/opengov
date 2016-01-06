@@ -104,7 +104,12 @@ Linked Curricula Graphs
 
 schema.org/Course
 ~~~~~~~~~~~~~~~~~~~~
-* schema.org/Course: https://github.com/schemaorg/schemaorg/issues/195
+* [ ] schema.org/Course: https://github.com/schemaorg/schemaorg/issues/195
+
+* [ ] OpenBadges **JSON** Web Signatures and **Schema.org**
+  **RDFa**, **JSON-LD**:
+
+  https://github.com/openbadges/openbadges-specification/issues/9
 
 
 .. index:: OpenBadges
