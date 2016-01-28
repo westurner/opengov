@@ -396,9 +396,22 @@ Personal Health Agenda
 Goals:
 
 * Maximize utility of health data (through network effects)
+  * #LinkedReproducibility
 * Ask and answer questions to improve outcomes
-* Support case-history-aware epidemiological meta-analysis
+* Support case-history-aware epidemiological meta-analyses
   ["controlling for factors", "systematic review"] (PRISMA, QUOROM)
+ 
+* Support "Meta-research" #metaresearch
+
+  * PLoS meta-research collection: http://collections.plos.org/meta-research
+    * "Meta-Research: Broadening the Scope of PLOS Biology"
+      http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002334
+      
+  * PloS #TenSimpleRules
+    * Homepage: http://collections.plos.org/ten-simple-rules
+    * Hashtag: #TenSimpleRules
+    * Twitter: https://twitter.com/hashtag/TenSimpleRules
+    * https://wrdrd.com/docs/consulting/data-science#ten-simple-rules
 
 
 Objectives:
@@ -407,6 +420,7 @@ Objectives:
   ["URIs", "Linked Data", "Semantic Web", "RDF", "RDFa"]
 
   * http://www.w3.org/wiki/HCLSIG/LODD/Data
+  * #LinkedReproducibility
 
 * Add RDFa tags to existing HTML templates ["Linked Data", "MedicalEntity"]
 * Lookup relevant datasets
