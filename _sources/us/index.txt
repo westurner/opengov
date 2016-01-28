@@ -393,34 +393,41 @@ Personal Health Agenda
 +++++++++++++++++++++++
 | Twitter: https://twitter.com/westurner
 
-Goals:
+Goals
+^^^^^^^
 
 * Maximize utility of health data (through network effects)
-  * #LinkedReproducibility
 * Ask and answer questions to improve outcomes
 * Support case-history-aware epidemiological meta-analyses
   ["controlling for factors", "systematic review"] (PRISMA, QUOROM)
- 
-* Support "Meta-research" #metaresearch
+* Support "Meta-research" #metaresearch ["workflow", "process knowledge"]
 
   * PLoS meta-research collection: http://collections.plos.org/meta-research
-    * "Meta-Research: Broadening the Scope of PLOS Biology"
+
+    * | Twitter: https://twitter.com/PLOS
+    * | Twitter: https://twitter.com/PLOSbiology
+    * "Meta-Research: Broadening the Scope of PLOS Biology" (2016)
       http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002334
       
-  * PloS #TenSimpleRules
+  * PloS ``#TenSimpleRules``
+
     * Homepage: http://collections.plos.org/ten-simple-rules
-    * Hashtag: #TenSimpleRules
+    * Hashtag: ``#TenSimpleRules``
     * Twitter: https://twitter.com/hashtag/TenSimpleRules
     * https://wrdrd.com/docs/consulting/data-science#ten-simple-rules
 
+  * ``#LinkedReproducibility``
 
-Objectives:
+    * https://wrdrd.com/docs/consulting/data-science#linked-reproducibility
+
+Objectives
+^^^^^^^^^^^^
 
 * Link available resources together with common identifiers and vocabulary
   ["URIs", "Linked Data", "Semantic Web", "RDF", "RDFa"]
 
   * http://www.w3.org/wiki/HCLSIG/LODD/Data
-  * #LinkedReproducibility
+  * ``#LinkedReproducibility``
 
 * Add RDFa tags to existing HTML templates ["Linked Data", "MedicalEntity"]
 * Lookup relevant datasets
@@ -445,6 +452,7 @@ Objectives:
   * Linked Data (RDF)
   * OpenAnnotation
   * Structured Reviews
+  * ``#LinkedReproducibility``
 
 
 .. index:: USA Healthcare.gov (HHS CMMS)
