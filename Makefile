@@ -87,7 +87,22 @@ docs-api:
 	rm -f docs/opengov/opengov.*.rst
 	sphinx-apidoc -T -M -o docs/opengov/ opengov
 
-docs: setup-docs clean-docs docs-api localjs localcss
+BUILDDIRHTML=./docs/_build/html/
+DOCSREVDIR=${BUILDDIRHTML}
+DOCS_REV_TXT=${DOCSREVDIR}/_gitrev.txt
+docs_write_rev_txt:
+	mkdir -p '$(DOCSREVDIR)' || true
+	git rev-parse --short HEAD > '${DOCS_REV_TXT}'
+	cat '${DOCS_REV_TXT}'
+
+docs-notify:
+	$(shell (hash notify-send \
+		&& notify-send -t 30000 "docs build complete." \
+		'$(shell pwd)') || true)
+
+notify: docs-notify
+
+docs: setup-docs clean-docs docs-api localjs localcss docs_write_rev_txt
 	SPHINX_HTML_LINK_SUFFIX='' $(MAKE) -C docs html singlehtml
 	#$(MAKE) -C docs singlehtml
 
@@ -123,10 +138,12 @@ docs/_build/html/singlehtml:
 	mv docs/_build/singlehtml docs/_build/html/singlehtml && \
 	ln -s docs/_build/html/singlehtml docs/_build/singlehtml;)  || echo true
 
-gh-pages: docs/_build/html/singlehtml
+DOCS_GIT_HTML_BRANCH=gh-pages
+gh-pages:
 	# Push docs to gh-pages branch with a .nojekyll file
-	ghp-import -n -p ./docs/_build/html/
-	#ghp-import -n -p ./docs/_build/singlehtml/
+	ghp-import -n -b '${DOCS_GIT_HTML_BRANCH}' -p '${BUILDDIRHTML}' \
+		-m 'DOC,RLS: :books: docs built from: $(shell cat ${DOCS_REV_TXT})'
+	git log -n3 --stat '${DOCS_GIT_HTML_BRANCH}'
 
 pull:
 	git pull
