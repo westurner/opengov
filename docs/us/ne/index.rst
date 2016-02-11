@@ -106,6 +106,9 @@ schema.org/Course
 ~~~~~~~~~~~~~~~~~~~~
 * [ ] schema.org/Course: https://github.com/schemaorg/schemaorg/issues/195
 
+  * [ ] schema.org/Course PR: https://github.com/schemaorg/schemaorg/pull/972
+  * [ ] http://course.schema-course-extend.appspot.com/Course
+
 * [ ] OpenBadges **JSON** Web Signatures and **Schema.org**
   **RDFa**, **JSON-LD**:
 
