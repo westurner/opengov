@@ -24,7 +24,7 @@ US Digital Services Playbook
 
 * https://en.wikipedia.org/wiki/User_experience (UX)
 * https://en.wikipedia.org/wiki/User_experience_design (UXD)
-* https://en.wikipedia.org/wiki/User_experience_evaluation (UXA)  
+* https://en.wikipedia.org/wiki/User_experience_evaluation (UXE)  
 
 
 3. Make it simple and intuitive
