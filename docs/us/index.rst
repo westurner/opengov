@@ -696,7 +696,7 @@ GNUHealth
 * Open Source
 * Written in Python
 * PostgreSQL Database
-* Desktop Client: Windows / Mac / OSX (GTK)
+* Desktop Client: Windows / OSX / Linux (GTK)
 * Android Client
 * Web Interface
 
