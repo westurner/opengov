@@ -685,7 +685,7 @@ GNUHealth
 | Homepage: http://health.gnu.org/
 | Src: https://savannah.gnu.org/hg/?group=health
 
-> GNU Health is a Free Health and Hospital Information System
+  GNU Health is a Free Health and Hospital Information System
 
 * Electronic Health Record
 * Hospital Information System
