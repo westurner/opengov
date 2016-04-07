@@ -696,6 +696,9 @@ GNUHealth
 * Open Source
 * Written in Python
 * PostgreSQL Database
+* Desktop Client: Windows / Mac / OSX (GTK)
+* Android Client
+* Web Interface
 
 
 .. index:: USA Environmental Protection Agency
