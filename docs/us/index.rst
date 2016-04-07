@@ -442,10 +442,18 @@ Objectives
   * MedicalStudy, MedicalObservationalStudy, MedicalTrial
   * RCT?
   * Which groups were masked? (single, double, triple is not sufficient)
+  * [...]
+
+    * https://github.com/schemaorg/schemaorg/issues/492
+    * https://github.com/schemaorg/schemaorg/blob/sdo-deimos/data/ext/health-lifesci/health_core-0.3.rdfa
 
 * Develop RDFS vocabulary predicates for linking between
   similar and concurring / discordant reproductions of studies
   ["Reproducibility", "Repeatability"]
+
+
+  * [ ]
+
 * Develop a platform for collaborative systematic review
 
   * Linked Data (RDF)
@@ -666,6 +674,28 @@ HealthData.gov (HHS)
 
 * [ ] TODO: http://schema.org/docs/meddocs.html (RDFa Linked Data)
 * seeAlso: `Data.gov`_
+
+
+.. index:: GNUHealth
+.. _gnuhealth:
+
+GNUHealth
+++++++++++++
+| Wikipedia: https://en.wikipedia.org/wiki/GNU_Health
+| Homepage: http://health.gnu.org/
+| Src: https://savannah.gnu.org/hg/?group=health
+
+> GNU Health is a Free Health and Hospital Information System
+
+* Electronic Health Record
+* Hospital Information System
+* Health Information System
+
+.
+
+* Open Source
+* Written in Python
+* PostgreSQL Database
 
 
 .. index:: USA Environmental Protection Agency
