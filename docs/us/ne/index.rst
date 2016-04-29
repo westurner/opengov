@@ -81,7 +81,7 @@ Linked Curricula Graphs
   * pyglobalgoals Jupyter notebook (BeautifulSoup, requests, JSON-LD,
     schema.org) (2015)
 
-    `<https://github.com/westurner/pyglobalgoals/blob/master/notebooks/globalgoals-pyglobalgoals.py.ipynb>`__
+    :ref:`pyglobalgoals`
 
 * https://westurner.org/self-directed-learning/slides.html#knowledge-graph (2012)
 * https://westurner.org/redditlog/#comment/ci3c1o3 (2014)
