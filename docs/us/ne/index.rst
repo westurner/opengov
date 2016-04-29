@@ -40,7 +40,8 @@ Ideas
 CS as STEM credit for HS graduation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* http://www.reddit.com/r/compsci/comments/1tjmd4/high_schools_not_meeting_stem_demand_only_9/ce8nmmx
+* http://www.reddit.com/r/compsci/comments/1tjmd4/high_schools_not_meeting_stem_demand_only_9/ce8nmmx (2013)
+
   https://westurner.org/redditlog/#comment/ce8nmmx
 
       By incentivizing study of Computer Science with credit for graduation, we may be more likely to meet demand for "One Million Additional College Graduates with Degrees in Science, Technology, Engineering, and Mathematics"
@@ -48,6 +49,20 @@ CS as STEM credit for HS graduation
       * http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-engage-to-excel-final_2-25-12.pdf
       * http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-executive-report-final_2-13-12.pdf
       * http://www.whitehouse.gov/sites/default/files/microsites/ostp/fact_sheet_final.pdf
+
+.
+
+* "Our nation unites behind computer science"
+
+  "Every student in America should have this opportunity"
+
+  http://blog.code.org/post/143499707508/our-nation-unites-behind-computer-science (2016)
+
+* Hashtag: ``#CSForAll``
+
+  * https://twitter.com/hashtag/CSforAll
+
+See also: :ref:`Linked Curricula Graphs`
 
 
 =========================================
