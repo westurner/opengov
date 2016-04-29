@@ -10,8 +10,14 @@ United Nations
 | Homepage: http://www.un.org/
 | Homepage: http://www.un.org/en/ @en
 | Wikipedia: https://en.wikipedia.org/wiki/United_Nations
+| Facebook: https://www.facebook.com/unitednations
+| Google+: https://plus.google.com/u/0/104158924758626757436
+| Instagram: https://www.instagram.com/unitednations/
+| Pinterest: https://www.pinterest.com/unitednations/
+| Tumblr: http://united-nations.tumblr.com/
 | Twitter: https://twitter.com/UN
 | Twitter: https://twitter.com/UN_Spokesperson
+| YouTube: https://www.youtube.com/user/unitednations
 
 
 .. index:: UNDHR
@@ -65,15 +71,16 @@ UN Millenium Development Goals (*UN MDGs*) [2000 -- 2015]:
 
 
 .. index:: UN Sustainable Development Goals
-.. index:: UN SDG
+.. index:: UN SDGs
 .. index:: Sustainable Development Goals
-.. index:: SDG
+.. index:: SDGs
 .. _sdg:
 
 UN Sustainable Development Goals
 ***********************************
 | Homepage: https://sustainabledevelopment.un.org/focussdgs.html
 | Wikipedia: https://en.wikipedia.org/wiki/Sustainable_Development_Goals
+| Twitter: https://twitter.com/GlobalGoalsUN
 | Docs: https://sdg.guide/
 | Docs: https://sdg.guide/chapter-1-getting-to-know-the-sustainable-development-goals-e05b9d17801
 
@@ -116,13 +123,21 @@ UN Sustanable Development Goals (*UN SDGs*) [2015 -- 2030]:
         revitalize the global partnership for sustainable development
 
 
+.. note:: :ref:`The Globals Goals` are actually the :ref:`UN Sustainable
+   Development Goals` (:ref:`SDGs`)
+
+
+.. index:: UN Global Goals
+.. index:: The Global Goals
+.. index:: Global Goals
+.. _global goals:
+
 The Global Goals
 ******************
 | Homepage: http://www.globalgoals.org/
 | Wikipedia: https://en.wikipedia.org/wiki/Sustainable_Development_Goals#The_goals
 | Facebook: https://www.facebook.com/globalgoals.org
 | Instagram: https://instagram.com/TheGlobalGoals/
-| Twitter: https://twitter.com/GlobalGoalsUN
 | Twitter: https://twitter.com/TheGlobalGoals
 | YouTube: https://www.youtube.com/channel/UCRfuAYy7MesZmgOi1Ezy0ng/
 
@@ -368,7 +383,7 @@ The Global Goals
   + https://instagram.com/explore/tags/TheGlobalGoals/
   + https://www.facebook.com/hashtag/TheGlobalGoals
 
-.
+..
 
 * Hashtag: ``#KnowTheGoals``
 
@@ -376,13 +391,19 @@ The Global Goals
   + https://instagram.com/explore/tags/KnowTheGoals/
   + https://www.facebook.com/hashtag/KnowTheGoals
 
+* Hashtag: ``#TellEveryone``
+
+  + https://twitter.com/hashtag/TellEveryone
+  + https://instagram.com/explore/tags/TellEveryone/
+  + https://www.facebook.com/hashtag/TellEveryone
+
 * Hashtag: ``#StickToAGoal``
 
   + https://twitter.com/hashtag/StickToAGoal
   + https://instagram.com/explore/tags/StickToAGoal/
   + https://www.facebook.com/hashtag/StickToAGoal
 
-.
+..
 
 * Hashtag: ``Goal1`` -- ``#Goal17``
 
