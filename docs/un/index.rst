@@ -74,7 +74,7 @@ UN Millenium Development Goals (*UN MDGs*) [2000 -- 2015]:
 .. index:: UN SDGs
 .. index:: Sustainable Development Goals
 .. index:: SDGs
-.. _sdg:
+.. _sdgs:
 
 UN Sustainable Development Goals
 ***********************************
@@ -123,8 +123,8 @@ UN Sustanable Development Goals (*UN SDGs*) [2015 -- 2030]:
         revitalize the global partnership for sustainable development
 
 
-.. note:: :ref:`The Globals Goals` are actually the :ref:`UN Sustainable
-   Development Goals` (:ref:`SDGs`)
+.. note:: :ref:`The Global Goals` are actually the :ref:`UN Sustainable
+   Development Goals <sdgs>` (:ref:`SDGs`)
 
 
 .. index:: UN Global Goals
