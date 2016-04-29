@@ -242,6 +242,20 @@ USAspending.gov
 * https://www.usaspending.gov/transparency/Pages/SpendingMap.aspx
 
 
+.. index:: Performance.gov
+.. _performance.gov:
+
+Performance.gov
++++++++++++++++++
+| Homepage: https://www.performance.gov/
+
+* https://www.performance.gov/clear_goals
+* https://www.performance.gov/agencies
+* https://www.performance.gov/node/3406/view?view=public
+* https://www.performance.gov/federalprograminventory
+* https://www.performance.gov/api
+
+
 .. index:: USA Data.gov
 .. index:: Data.gov
 .. _data.gov:
