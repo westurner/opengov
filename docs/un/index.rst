@@ -116,6 +116,12 @@ Draft Goals (2015 --):
 
 The Global Goals
 ******************
+| Homepage: http://www.globalgoals.org/
+| Wikipedia: https://en.wikipedia.org/wiki/Sustainable_Development_Goals#The_goals
+| Twitter: https://twitter.com/GlobalGoalsUN
+| Twitter: https://twitter.com/TheGlobalGoals
+| Hashtag: ``#GlobalGoals``
+
 
 .. contents::
    :local:
