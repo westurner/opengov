@@ -25,7 +25,7 @@ UN Declaration of Human Rights
 | Wikipedia: https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
 
 .. note::
-    
+
    The Universal Declaration of Human Rights is the
    Most Universal Document in the World
   
@@ -52,7 +52,7 @@ UN Millenium Development Goals
 | Homepage: http://www.un.org/millenniumgoals/
 | Wikipedia: https://en.wikipedia.org/wiki/Millennium_Development_Goals
 
-2000 -- 2015:
+UN Millenium Development Goals (*UN MDGs*) [2000 -- 2015]:
 
     1. Eradicate extreme poverty and hunger
     2. Achieve universal primary education
@@ -74,54 +74,57 @@ UN Sustainable Development Goals
 ***********************************
 | Homepage: https://sustainabledevelopment.un.org/focussdgs.html
 | Wikipedia: https://en.wikipedia.org/wiki/Sustainable_Development_Goals
+| Docs: https://sdg.guide/
+| Docs: https://sdg.guide/chapter-1-getting-to-know-the-sustainable-development-goals-e05b9d17801
 
-Draft Goals (2015 --):
+UN Sustanable Development Goals (*UN SDGs*) [2015 -- 2030]:
 
-    1.	End **poverty** in all its forms everywhere
-    2.	End **hunger**, achieve **food security** and improved
-        **nutrition** and promote **sustainable agriculture**
-    3.	Ensure **healthy lives** and promote well-being for all at all ages
-    4.	Ensure **inclusive** and **equitable** quality **education** and
-        promote **lifelong learning opportunities** for all
-    5.	Achieve **gender equality** and **empower** all women and girls
-    6.	Ensure availability and **sustainable management** of
-        **water and sanitation** for all
+    1.	End poverty in all its forms everywhere
+    2.	End hunger, achieve food security and improved
+        nutrition and promote sustainable agriculture
+    3.	Ensure healthy lives and promote well-being for all at all ages
+    4.	Ensure inclusive and equitable quality education and
+        promote lifelong learning opportunities for all
+    5.	Achieve gender equality and empower all women and girls
+    6.	Ensure availability and sustainable management of
+        water and sanitation for all
     7.	Ensure access to affordable, reliable, sustainable and modern
-        **energy** for all
-    8.	Promote sustained, inclusive and **sustainable economic growth**,
-        **full and productive employment** and **decent work for all**
-    9.	Build resilient **infrastructure**,
+        energy for all
+    8.	Promote sustained, inclusive and sustainable economic growth,
+        full and productive employment and decent work for all
+    9.	Build resilient infrastructure,
         promote inclusive and sustainable industrialization
-        and **foster innovation**
-    10.	**Reduce inequality** within and among countries
+        and foster innovation
+    10.	Reduce inequality within and among countries
     11.	Make cities and human settlements
-        **inclusive**, **safe**, **resilient** and **sustainable**
-    12.	Ensure **sustainable consumption and production patterns**
-    13.	Take urgent action to **combat climate change** and its impacts*
-    14.	**Conserve** and sustainably use the **oceans**,
-        **seas** and **marine resources** for sustainable development
-    15.	Protect, restore and promote sustainable use of **terrestrial
-        ecosystems**,
-        **sustainably manage forests**,
-        **combat desertification**,
-        and **halt and reverse land degradation**,
-        and **halt biodiversity loss**
+        inclusive, safe, resilient and sustainable
+    12.	Ensure sustainable consumption and production patterns
+    13.	Take urgent action to combat climate change and its impacts
+    14.	Conserve and sustainably use the oceans,
+        seas and marine resources for sustainable development
+    15.	Protect, restore and promote sustainable use of terrestrial
+        ecosystems,
+        sustainably manage forests,
+        combat desertification,
+        and halt and reverse land degradation,
+        and halt biodiversity loss
     16.	Promote
-        **peaceful and inclusive societies for sustainable development**,
-        provide access to **justice for all** and build **effective**,
-        **accountable** and **inclusive** institutions at all levels
+        peaceful and inclusive societies for sustainable development,
+        provide access to justice for all and build effective,
+        accountable and inclusive institutions at all levels
     17.	Strengthen the means of implementation and
-        **revitalize the global partnership for sustainable development**
+        revitalize the global partnership for sustainable development
 
 
 The Global Goals
 ******************
 | Homepage: http://www.globalgoals.org/
 | Wikipedia: https://en.wikipedia.org/wiki/Sustainable_Development_Goals#The_goals
+| Facebook: https://www.facebook.com/globalgoals.org
+| Instagram: https://instagram.com/TheGlobalGoals/
 | Twitter: https://twitter.com/GlobalGoalsUN
 | Twitter: https://twitter.com/TheGlobalGoals
-| Hashtag: ``#GlobalGoals``
-
+| YouTube: https://www.youtube.com/channel/UCRfuAYy7MesZmgOi1Ezy0ng/
 
 .. contents::
    :local:
@@ -346,3 +349,39 @@ The Global Goals
 ..
 
    ##gg17 Partnerships for the Goals http://www.globalgoals.org/global-goals/partnerships-for-the-goals/ http://012db3a8f7b65be46638-bcedd9d3bba1b1276c7bea0b3611599f.r67.cf2.rackcdn.com/2015/07/partnership.png @TheGlobalGoals #GlobalGoals
+
+
+.. index:: Hashtags
+.. _hashtags:
+
+#GlobalGoals Hashtags
+======================
+* Hashtag: ``#GlobalGoals``
+
+  + https://twitter.com/hashtag/GlobalGoals
+  + https://instagram.com/explore/tags/GlobalGoals/
+  + https://www.facebook.com/hashtag/GlobalGoals
+
+* Hashtag: ``#TheGlobalGoals``
+
+  + https://twitter.com/hashtag/TheGlobalGoals
+  + https://instagram.com/explore/tags/TheGlobalGoals/
+  + https://www.facebook.com/hashtag/TheGlobalGoals
+
+* Hashtag: ``#Goal17``
+
+  + https://twitter.com/hashtag/Goal17
+  + https://instagram.com/explore/tags/Goal17/
+  + https://www.facebook.com/hashtag/Goal17
+
+* Hashtag: ``#GlobalGoal17``
+
+  + https://twitter.com/hashtag/GlobalGoal17
+  + https://instagram.com/explore/tags/GlobalGoal17/
+  + https://www.facebook.com/hashtag/GlobalGoal17
+
+* Hashtag: ``#GG17``
+
+  + https://twitter.com/hashtag/GG17
+  + https://instagram.com/explore/tags/GG17/
+  + https://www.facebook.com/hashtag/GG17
