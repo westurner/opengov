@@ -377,6 +377,14 @@ The World's Largest Lesson
 
     EVERYTHING YOU NEED TO TEACH A LESSON IS RIGHT HERE
 
+* https://www.tes.com/worldslargestlesson/teachers-guide/
+* https://vimeo.com/137728737
+* https://www.tes.com/worldslargestlesson/read-comic-book/
+* https://www.tes.com/worldslargestlesson/explore-global-goals/
+* https://www.tes.com/worldslargestlesson/lesson-plans/
+* https://www.tes.com/worldslargestlesson/taking-action/
+* https://www.tes.com/teaching-resources
+
 
 .. index:: pyglobalgoals
 .. _pyglobalgoals:
