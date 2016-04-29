@@ -383,7 +383,7 @@ The Global Goals
   + https://instagram.com/explore/tags/TheGlobalGoals/
   + https://www.facebook.com/hashtag/TheGlobalGoals
 
-..
+.
 
 * Hashtag: ``#KnowTheGoals``
 
@@ -403,9 +403,9 @@ The Global Goals
   + https://instagram.com/explore/tags/StickToAGoal/
   + https://www.facebook.com/hashtag/StickToAGoal
 
-..
+.
 
-* Hashtag: ``Goal1`` -- ``#Goal17``
+* Hashtag: ``#Goal1`` -- ``#Goal17``
 
   + https://twitter.com/hashtag/goal17
   + https://instagram.com/explore/tags/goal17/
