@@ -14,6 +14,33 @@ United Nations
 | Twitter: https://twitter.com/UN_Spokesperson
 
 
+.. index:: UNDHR
+.. index:: UN Declaration of Human Rights
+.. _undhr:
+.. _un declaration of human rights:
+
+UN Declaration of Human Rights
++++++++++++++++++++++++++++++++
+| Homepage: http://www.un.org/en/universal-declaration-human-rights/
+| Wikipedia: https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
+
+.. note::
+    
+   The Universal Declaration of Human Rights is the
+   Most Universal Document in the World
+  
+   -- http://www.ohchr.org/EN/UDHR/pages/WorldRecord.aspx
+
+   http://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx
+
+   + http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/arz.pdf
+   + http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/chn.pdf
+   + http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf
+   + http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/frn.pdf
+   + http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/rus.pdf
+   + http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/spn.pdf
+
+
 .. index:: UN Milennium Development Goals
 .. index:: UN MDG
 .. index:: Milennium Development Goals
