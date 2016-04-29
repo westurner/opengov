@@ -170,11 +170,30 @@ Nebraska
 Cool Projects
 ---------------
 
+.. index:: US Digital Service
+.. _usds:
+.. _us digital service:
+
+US Digital Service
+~~~~~~~~~~~~~~~~~~~~
+| Wikipedia: https://en.wikipedia.org/wiki/United_States_Digital_Service
+| Homepage: https://www.whitehouse.gov/digital/united-states-digital-service
+| Src: https://github.com/usds
+| Twitter: https://twitter.com/USDS
+| Medium: https://medium.com/@USDigitalService
+
+US Digital Service (*USDS*) is a part of the :ref:`Executive Branch`
+(:ref:`President`) which provides information technology
+consultation services for the federal government.
+
+* :ref:`US Digital Services Playbook`
+* [...]
+
 
 US Digital Services Playbook
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Homepage: https://playbook.cio.gov/
-| Source: https://github.com/whitehouse/playbook
+| Source: https://github.com/usds/playbook
 
     1. Understand what people need
     2. Address the whole experience, from start to finish
