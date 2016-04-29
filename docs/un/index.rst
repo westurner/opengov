@@ -366,6 +366,29 @@ The Global Goals
    ##gg17 Partnerships for the Goals http://www.globalgoals.org/global-goals/partnerships-for-the-goals/ http://012db3a8f7b65be46638-bcedd9d3bba1b1276c7bea0b3611599f.r67.cf2.rackcdn.com/2015/07/partnership.png @TheGlobalGoals #GlobalGoals
 
 
+.. index:: pyglobalgoals
+.. _pyglobalgoals:
+
+pyglobalgoals
+==============
+| Src: https://github.com/westurner/pyglobalgoals
+
+    pyglobalgoals is a Python package, Python module,
+    and a set of Python Jupyter notebooks for working with JSON-LD, RDFa,
+    schema.org and The Global Goals For Sustainable Development
+    (#GlobalGoals #GGs #SDG #SDGs) #GG17
+
+    https://github.com/westurner/pyglobalgoals/blob/develop/notebooks/globalgoals-pyglobalgoals.py.ipynb
+
+* "mission, Project, Goal, Objective, Task #1127"
+
+  https://github.com/schemaorg/schemaorg/issues/1127
+
+.
+
+* https://wrdrd.com/docs/consulting/education-technology#jupyter-and-learning
+
+
 .. index:: Hashtags
 .. _hashtags:
 
