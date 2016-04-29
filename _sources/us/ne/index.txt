@@ -82,7 +82,7 @@ What about creating computer games?
 CS skills for STEM fields
 ==========================
 * https://wrdrd.com/docs/consulting/software-development#computer-science
-* :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
+* :ref:`U.S. Digital Services Playbook <us digital services playbook>`
 * :ref:`Cool Projects <cool-projects>`
 
 

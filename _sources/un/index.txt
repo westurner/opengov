@@ -131,6 +131,7 @@ UN Sustanable Development Goals (*UN SDGs*) [2015 -- 2030]:
 .. index:: The Global Goals
 .. index:: Global Goals
 .. _global goals:
+.. _the global goals:
 
 The Global Goals
 ******************

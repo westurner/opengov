@@ -182,8 +182,8 @@ US Digital Service
 | Twitter: https://twitter.com/USDS
 | Medium: https://medium.com/@USDigitalService
 
-US Digital Service (*USDS*) is a part of the :ref:`Executive Branch`
-(:ref:`President`) which provides information technology
+US Digital Service (*USDS*) is a part of the :ref:`USA Executive Branch`
+(:ref:`USA President`) which provides information technology
 consultation services for the federal government.
 
 * :ref:`US Digital Services Playbook`
@@ -214,7 +214,7 @@ US Digital Services Playbook
 
    us-digital-services-playbook
 
-See: :ref:`U.S. Digital Services Playbook <us-digital-services-playbook>`
+See: :ref:`U.S. Digital Services Playbook <us digital services playbook>`
 
 
 Data
