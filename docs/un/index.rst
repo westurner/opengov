@@ -385,6 +385,26 @@ The Global Goals
 
 .
 
+* Hashtag: ``#Goal1`` -- ``#Goal17``
+
+  + https://twitter.com/hashtag/goal17
+  + https://instagram.com/explore/tags/goal17/
+  + https://www.facebook.com/hashtag/goal17
+
+* Hashtag: ``#GlobalGoal17``
+
+  + https://twitter.com/hashtag/GlobalGoal17
+  + https://instagram.com/explore/tags/GlobalGoal17/
+  + https://www.facebook.com/hashtag/GlobalGoal17
+
+* Hashtag: ``#gg17``
+
+  + https://twitter.com/hashtag/gg17
+  + https://instagram.com/explore/tags/gg17/
+  + https://www.facebook.com/hashtag/gg17
+
+.
+
 * Hashtag: ``#KnowTheGoals``
 
   + https://twitter.com/hashtag/KnowTheGoals
@@ -403,22 +423,3 @@ The Global Goals
   + https://instagram.com/explore/tags/StickToAGoal/
   + https://www.facebook.com/hashtag/StickToAGoal
 
-.
-
-* Hashtag: ``#Goal1`` -- ``#Goal17``
-
-  + https://twitter.com/hashtag/goal17
-  + https://instagram.com/explore/tags/goal17/
-  + https://www.facebook.com/hashtag/goal17
-
-* Hashtag: ``#GlobalGoal17``
-
-  + https://twitter.com/hashtag/GlobalGoal17
-  + https://instagram.com/explore/tags/GlobalGoal17/
-  + https://www.facebook.com/hashtag/GlobalGoal17
-
-* Hashtag: ``#gg17``
-
-  + https://twitter.com/hashtag/gg17
-  + https://instagram.com/explore/tags/gg17/
-  + https://www.facebook.com/hashtag/gg17
