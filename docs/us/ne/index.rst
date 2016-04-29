@@ -97,6 +97,7 @@ Linked Curricula Graphs
   * Wikipedia Concept URIs:
 
     * https://wrdrd.com/docs/consulting/data-science
+    * https://wrdrd.com/docs/consulting/software-development#user-story
     * https://wrdrd.com/docs/consulting/knowledge-engineering
     * https://wrdrd.com/docs/consulting/education-technology #
 
