@@ -384,12 +384,11 @@ pyglobalgoals
 
   https://github.com/schemaorg/schemaorg/issues/1127
 
-  * https://wrdrd.com/docs/consulting/knowledge-engineering#schemaorg
-
 .
 
 * https://wrdrd.com/docs/tools/#jupyter-notebook
 * https://wrdrd.com/docs/consulting/education-technology#jupyter-and-learning
+* https://wrdrd.com/docs/consulting/knowledge-engineering#schemaorg
 
 
 .. index:: Hashtags
