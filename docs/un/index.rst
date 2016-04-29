@@ -366,6 +366,18 @@ The Global Goals
    ##gg17 Partnerships for the Goals http://www.globalgoals.org/global-goals/partnerships-for-the-goals/ http://012db3a8f7b65be46638-bcedd9d3bba1b1276c7bea0b3611599f.r67.cf2.rackcdn.com/2015/07/partnership.png @TheGlobalGoals #GlobalGoals
 
 
+.. index:: The World's Largest Lesson
+.. _the world's largest lesson:
+
+The World's Largest Lesson
+============================
+| Homepage: https://globalgoals.org/worldslargestlesson
+| Videos: https://vimeo.com/worldslargestlesson
+| Twitter: https://twitter.com/TheWorldsLesson
+
+    EVERYTHING YOU NEED TO TEACH A LESSON IS RIGHT HERE
+
+
 .. index:: pyglobalgoals
 .. _pyglobalgoals:
 
