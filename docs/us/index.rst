@@ -324,7 +324,7 @@ seeAlso:
 * CKAN:
 
   | Wikipedia: https://en.wikipedia.org/wiki/CKAN
-  | Docs: https://wrdrd.com/docs/consulting/knowledge-engineering#ckan
+  | Docs: https://wrdrd.github.io/docs/consulting/knowledge-engineering#ckan
 
 
 .. index:: USA Whitehouse REST API Standards
@@ -448,11 +448,11 @@ Goals
     * Homepage: http://collections.plos.org/ten-simple-rules
     * Hashtag: ``#TenSimpleRules``
     * Twitter: https://twitter.com/hashtag/TenSimpleRules
-    * https://wrdrd.com/docs/consulting/data-science#ten-simple-rules
+    * https://wrdrd.github.io/docs/consulting/data-science#ten-simple-rules
 
   * ``#LinkedReproducibility``
 
-    * https://wrdrd.com/docs/consulting/data-science#linked-reproducibility
+    * https://wrdrd.github.io/docs/consulting/data-science#linked-reproducibility
 
 Objectives
 ^^^^^^^^^^^^
