@@ -251,7 +251,9 @@ Performance.gov
 
 * https://www.performance.gov/clear_goals
 * https://www.performance.gov/agencies
-* https://www.performance.gov/node/3406/view?view=public
+* https://www.performance.gov/node/3406 Climate Change
+* https://www.performance.gov/node/3404 STEM Education
+* https://www.performance.gov/content/increase-nation%E2%80%99s-data-science-capacity Data Science
 * https://www.performance.gov/federalprograminventory
 * https://www.performance.gov/api
 
