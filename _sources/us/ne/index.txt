@@ -42,7 +42,7 @@ CS as STEM credit for HS graduation
 
 * http://www.reddit.com/r/compsci/comments/1tjmd4/high_schools_not_meeting_stem_demand_only_9/ce8nmmx (2013)
 
-  https://westurner.org/redditlog/#comment/ce8nmmx
+  https://westurner.github.io/redditlog/#comment/ce8nmmx
 
       By incentivizing study of Computer Science with credit for graduation, we may be more likely to meet demand for "One Million Additional College Graduates with Degrees in Science, Technology, Engineering, and Mathematics"
 
@@ -81,7 +81,7 @@ What about creating computer games?
 ==========================
 CS skills for STEM fields
 ==========================
-* https://wrdrd.com/docs/consulting/software-development#computer-science
+* https://wrdrd.github.io/docs/consulting/software-development#computer-science
 * :ref:`U.S. Digital Services Playbook <us digital services playbook>`
 * :ref:`Cool Projects <cool-projects>`
 
@@ -98,23 +98,23 @@ Linked Curricula Graphs
 
     :ref:`pyglobalgoals`
 
-* https://westurner.org/self-directed-learning/slides.html#knowledge-graph (2012)
-* https://westurner.org/redditlog/#comment/ci3c1o3 (2014)
+* https://westurner.github.io/self-directed-learning/slides.html#knowledge-graph (2012)
+* https://westurner.github.io/redditlog/#comment/ci3c1o3 (2014)
 
 * [ ] Link each component of the curriculum to a concept URI
   (e.g. Wikipedia (-> DBpedia RDF <- http://lod-cloud.net/))
 
   * RDFa in Course Catalog / Index HTML pages would be helpful
 
-    * "RDFa": https://wrdrd.com/docs/consulting/knowledge-engineering#rdfa
+    * "RDFa": https://wrdrd.github.io/docs/consulting/knowledge-engineering#rdfa
     * :ref:`schemaorg_course`
 
   * Wikipedia Concept URIs:
 
-    * https://wrdrd.com/docs/consulting/data-science
-    * https://wrdrd.com/docs/consulting/software-development#user-story
-    * https://wrdrd.com/docs/consulting/knowledge-engineering
-    * https://wrdrd.com/docs/consulting/education-technology #
+    * https://wrdrd.github.io/docs/consulting/data-science
+    * https://wrdrd.github.io/docs/consulting/software-development#user-story
+    * https://wrdrd.github.io/docs/consulting/knowledge-engineering
+    * https://wrdrd.github.io/docs/consulting/education-technology #
 
 .. _schemaorg_course:
 

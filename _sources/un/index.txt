@@ -407,9 +407,9 @@ pyglobalgoals
 
 .
 
-* https://wrdrd.com/docs/tools/#jupyter-notebook
-* https://wrdrd.com/docs/consulting/education-technology#jupyter-and-learning
-* https://wrdrd.com/docs/consulting/knowledge-engineering#schemaorg
+* https://wrdrd.github.io/docs/tools/#jupyter-notebook
+* https://wrdrd.github.io/docs/consulting/education-technology#jupyter-and-learning
+* https://wrdrd.github.io/docs/consulting/knowledge-engineering#schemaorg
 
 
 .. index:: Hashtags
