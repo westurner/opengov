@@ -9,8 +9,8 @@ opengov package
 Submodules
 ----------
 
-opengov.opengov module
-----------------------
+opengov\.opengov module
+-----------------------
 
 .. automodule:: opengov.opengov
     :members:

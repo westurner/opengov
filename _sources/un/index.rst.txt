@@ -437,6 +437,12 @@ pyglobalgoals
   + https://instagram.com/explore/tags/goal17/
   + https://www.facebook.com/hashtag/goal17
 
+* Hashtag: ``#SDG1`` -- ``#SDG17``
+
+  + https://twitter.com/hashtag/sdg17
+  + https://instagram.com/explore/tags/sdg17/
+  + https://www.facebook.com/hashtag/sdg17
+
 * Hashtag: ``#GlobalGoal17``
 
   + https://twitter.com/hashtag/GlobalGoal17
