@@ -92,9 +92,8 @@ see: https://wrdrd.github.io/docs/consulting/knowledge-engineering.html
 
 Chief Data Scientist
 ~~~~~~~~~~~~~~~~~~~~~
-| Twitter: https://twitter.com/dj44
 
-http://www.whitehouse.gov/blog/2015/02/18/white-house-names-dr-dj-patil-first-us-chief-data-scientist
+- https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy
 
 see: https://wrdrd.github.io/docs/consulting/data-science.html
 
@@ -106,7 +105,6 @@ see: https://wrdrd.github.io/docs/consulting/data-science.html
 Chief Technology Officer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Wikipedia: https://en.wikipedia.org/wiki/Chief_Technology_Officer_of_the_United_States
-| Twitter: https://twitter.com/smithmegan
 
 see: https://wrdrd.github.io/docs/consulting/information-systems.html
 
