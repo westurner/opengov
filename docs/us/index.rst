@@ -93,9 +93,13 @@ see: https://wrdrd.github.io/docs/consulting/knowledge-engineering.html
 Chief Data Scientist
 ~~~~~~~~~~~~~~~~~~~~~
 
-- https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy
+- :ref:`Office of Science and Technology Policy (OSTP) <OSTP>`
 
-see: https://wrdrd.github.io/docs/consulting/data-science.html
+see:
+
+- https://en.wikipedia.org/wiki/Data_science
+- https://en.wikipedia.org/wiki/Linked_data
+- https://wrdrd.github.io/docs/consulting/data-science.html
 
 
 .. index:: USA Chief Technology Officer
@@ -107,6 +111,46 @@ Chief Technology Officer
 | Wikipedia: https://en.wikipedia.org/wiki/Chief_Technology_Officer_of_the_United_States
 
 see: https://wrdrd.github.io/docs/consulting/information-systems.html
+
+
+.. index:: General Services Administration
+.. _general services administration:
+
+General Services Administration
+---------------------------------
+| Wikipedia: https://en.wikipedia.org/wiki/General_Services_Administration
+
+
+.. index:: 18F
+.. _18f:
+
+18F
+~~~~
+| Wikipedia: https://en.wikipedia.org/wiki/18F
+| Homepage: https://18f.gsa.gov/
+| Src: https://github.com/18F
+
+
+- Src: https://open-source-program.18f.gov/
+- Web: https://github.com/18F/open-source-program
+
+  - https://open-source-program.18f.gov/pages/resources/
+  - 18F's Open Source Policy:
+    https://github.com/18F/open-source-policy/blob/master/policy.md
+  - 18F Open Source Style Guide:
+    https://open-source-guide.18f.gov/
+
+See:
+
+- :ref:`US Digital Service` (USDS)
+
+
+US Web Design Standards
+++++++++++++++++++++++++++
+| Wikipedia: https://standards.usa.gov/
+| Src: https://github.com/18F/web-design-standards
+
+- https://github.com/18F/web-design-standards/releases
 
 
 .. index:: USA Judicial Branch
@@ -184,8 +228,9 @@ US Digital Service (*USDS*) is a part of the :ref:`USA Executive Branch`
 (:ref:`USA President`) which provides information technology
 consultation services for the federal government.
 
+See: 
 * :ref:`US Digital Services Playbook`
-* [...]
+* :ref:`18F`
 
 
 US Digital Services Playbook
