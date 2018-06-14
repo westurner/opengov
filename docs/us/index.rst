@@ -263,6 +263,18 @@ See: :ref:`U.S. Digital Services Playbook <us digital services playbook>`
 Data
 ~~~~~~
 
+.. index:: US Digital Registry
+.. index:: usdigitalregistry.digitalgov.gov
+.. _us digital registry:
+
+US Digital Registry
+++++++++++++++++++++
+| Homepage: https://usdigitalregistry.digitalgov.gov/
+
+U.S. Digital Registry is a
+database of official US federal government social media accounts.
+
+
 .. index:: USA USAspending.gov
 .. index:: USAspending.gov
 .. _USAspending.gov:
@@ -307,8 +319,9 @@ Performance.gov
 
 Data.gov
 +++++++++
-| Homepage: http://www.data.gov
+| Homepage: https://www.data.gov
 | Source: https://github.com/GSA/data.gov
+| Docs: https://www.data.gov/developers/apis
 | Twitter: https://twitter.com/usdatagov
 
 * http://www.data.gov/food
@@ -325,6 +338,18 @@ Data.gov
 * http://www.data.gov/ocean
 * http://www.data.gov/safety
 * http://www.data.gov/research
+
+
+.. index:: API.data.gov
+.. _api.data.gov:
+
+API.data.gov
+^^^^^^^^^^^^^^
+| Homepage: https://api.data.gov/
+| Src: https://github.com/NREL/api-umbrella
+| Docs: https://github.com/NREL/api-umbrella/wiki/About-api.data.gov
+
+API.data.gov is an API for US federal government APIs.
 
 
 .. index:: USA Project Open Data
