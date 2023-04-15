@@ -824,6 +824,13 @@ EPA
 
     * TODO: http://www.w3.org/TR/csv2rdf/ + Metadata -> RDF Linked Data
 
+.. admonition:: https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration
+
+   * https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration#Lead_paint_standards
+   * https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration#Paris_Climate_Agreement :
+   
+        On June 1, 2017, Trump announced United States withdrawal from the Paris Agreement, causing the U.S. to become the third out of 197 nations worldwide to not sign the agreement.[245] As of 2018 the remaining two nations signed and the U.S. is the only nation that has not ratified the Paris Agreement.[246] 
+
 
 .. index:: USA MyPlate (USDA)
 .. index:: MyPlate (USDA)
