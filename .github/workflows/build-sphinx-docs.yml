@@ -12,6 +12,7 @@ jobs:
         docs-folder: "docs/"
         pre-build-command: "apt-get update -y && apt-get install -y git-core && pip install -U pip"
         #pre-build-command: "apt-get update -y && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
+        pre-build-command: "apt-get update -y && apt-get install -y git-core && pip install -U pip"
         #build-command: "make latexpdf"
     - name: Commit documentation changes
       run: |
